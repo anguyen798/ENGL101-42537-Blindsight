@@ -1,0 +1,1 @@
+Bates nodded. “That’s my guess. Rorschach’s still under construction. We could be dealing with an automated system of some kind.”

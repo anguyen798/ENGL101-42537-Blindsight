@@ -1,0 +1,1 @@
+“Ah. So even though we could maybe handle it now, you want to wait until it graduates from covert to invulnerable.” Szpindel shuddered, set down his coffee. “Where’d you get your military training again? Sporting Chance Academy?”

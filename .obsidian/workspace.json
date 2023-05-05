@@ -1,0 +1,280 @@
+{
+  "main": {
+    "id": "3520879aa9c7e3df",
+    "type": "split",
+    "children": [
+      {
+        "id": "714832850995b954",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d361293a6572c58b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rorschach/Growth/Under construction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e020ae76135a633",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rorschach/Personality/Sociopathy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ffec18215025f485",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rorschach/Growth/“Ah. So even though we could maybe handle it now, you want to wait until it graduates from covert to invulnerable.” Szpindel shuddered... Sporting Chance Academy (p. 65 of 272) (Watts 104).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3df3e26eba040ca3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rorschach/Bible/Imagine a crown of thorns, twisted, dark and unreflective, grown too thickly tangled to ever rest on any human head. (Watts 124).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40d5f62925fef293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rorschach/Bible/Imagine a crown of thorns, twisted, dark and unreflective, grown too thickly tangled to ever rest on any human head. (Watts 124).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "043f58d0d93879aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapters/8. “Life’s too short for chess.” (p. 126 of 272) (Watts 126).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10ee7b43bced8c40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapters/7. “They know the music but not the words.” - Robert Hare, Without Conscience (p. 68 of 272) (Watts 110).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67e8866ba0b8b4c5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6eb1c0292353f60",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e609999d6aeeb1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92ea186d3fe3b365",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c01e2d9b55b4ebc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "364a2c16d2afd5d8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 695.5
+  },
+  "right": {
+    "id": "17d9ef55b4e5bcd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "182c6cccc29caec4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "327f0d5c713d363a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3252184b097d8127",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a825551ccfda6c5b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c96fd0ce0d3fade8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "d111d17581242978",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7676528191e4eec1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 630.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "67e8866ba0b8b4c5",
+  "lastOpenFiles": [
+    "Chapters/7. “They know the music but not the words.” - Robert Hare, Without Conscience (p. 68 of 272) (Watts 110).md",
+    "Chapters/6. “The glass ceiling is in you. The glass ceiling is conscience.”—Jacob Holtzbrinck, The Keys to the Planet (p. 56 of 272) (Watts 94).md",
+    "Chapters/8. “Life’s too short for chess.” (p. 126 of 272) (Watts 126).md",
+    "Chapters/9. Mothers are fonder than fathers of their children because they are more certain they are their own. —Aristotle (p. 92 of 272) (Watts 143).md",
+    "Chapters/10. “The Lord will take control of you. You will dance and shout and become a different person.” (p. 100 of 272) (Watts 154).md",
+    "Chapters/11. “Predators run for their dinner. Prey run for their lives.” —Old Ecologist’s Proverb (p.111 of 272) (Watts 169).md",
+    "Chapters/12. “If you can see it, chances are it doesn’t exist.” —Kate Keogh, Grounds for Suicide (p. 126 of 272) (Watts 188).md",
+    "Chapters/13. “You have eyes, but you do not see” —Jesus the Nazorean (p.132 of 272) (Watts 198).md",
+    "Chapters/14. “My genes done gone and tricked my brainBy making fucking feel so great...—The r-selectors, Trunclade (p. 139 of 272) (Watts 209).md",
+    "Chapters/15. “Problems cannot be solved at the same level of awareness that created them” —Einstein (p. 152 of 272) (Watts 228).md",
+    "Chapters/16. “Grunts look the enemy in the eye. Grunts know the stakes...The whole chain of command is upside-down.” —Kenneth Lubin, Zero Sum (p. 158 of 272) (Watts 235).md",
+    "Chapters/17. “Why should man expect his prayer for mercy to be heard by What is above him when he shows no mercy to what is under him —Pierre Troubetzkoy“ (p.172 of 272) (Watts 255).md",
+    "Chapters/18. “That which does not kill us, makes us stranger.” —Trevor Goodchild (p.181 of 272) (Watts 268).md",
+    "Chapters/19 . “If I can but make the words awake the feeling”  —Ian Anderson, Stand Up (p.189 of 272) (Watts 280).md",
+    "Chapters/20. “Ye shall know the truth, and the truth shall make you mad.” (p.199 of 272) (Watts 294).md",
+    "Chapters/21. “If the human brain were so simple that we could understand it, we would be so simple that we couldn’t. (p. 205 of 272)“ (Watts 304).md",
+    "Chapters/22. “Not until we are lost do we begin to understand ourselves.” —Thoreau (p.212 of 272) (Watts 314).md",
+    "Chapters/23. “ You cannot prevent and prepare for war at the same time.” (p. 226 of 272) (Watts 332).md",
+    "Chapters/24. “Species used to go extinct. Now they go on hiatus.” —Deborah MacLennan, Tables of our Reconstruction (p.244 of 272) (Watts 357).md",
+    "Example - Chinese Room.md",
+    "Rorschach/Bible/Imagine a crown of thorns, twisted, dark and unreflective, grown too thickly tangled to ever rest on any human head. (Watts 124).md",
+    "Excalidraw/Drawing 2023-05-04 15.35.29.excalidraw.md",
+    "Untitled.canvas",
+    "Excalidraw",
+    "Rorschach/Growth/“Ah. So even though we could maybe handle it now, you want to wait until it graduates from covert to invulnerable.” Szpindel shuddered... Sporting Chance Academy (p. 65 of 272) (Watts 104).md",
+    "Rorschach/Growth/Under construction.md",
+    "Rorschach/Personality/Sociopathy.md",
+    "Chapters/5. “ Leaders are visionaries with a poorly developed sense of fearand no concept of the odds against them.”—Robert Jarvik (p. 41 of 272) (Watts 73).md",
+    "Chapters",
+    "Rorschach/Personality",
+    "Rorschach/Growth",
+    "Rorschach/Bible",
+    "Rorschach"
+  ]
+}
