@@ -1,6 +1,7 @@
 [
-  "obsidian-excalidraw-plugin",
-  "table-editor-obsidian",
+  "obsidian-mind-map",
   "obsidian-git",
-  "dataview"
+  "obsidian-excalidraw-plugin",
+  "dataview",
+  "table-editor-obsidian"
 ]

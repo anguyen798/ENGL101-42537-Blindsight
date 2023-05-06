@@ -8,99 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d361293a6572c58b",
+            "id": "66e3f397bf467271",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rorschach/Growth/Under construction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e020ae76135a633",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rorschach/Personality/Sociopathy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ffec18215025f485",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rorschach/Growth/“Ah. So even though we could maybe handle it now, you want to wait until it graduates from covert to invulnerable.” Szpindel shuddered... Sporting Chance Academy (p. 65 of 272) (Watts 104).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3df3e26eba040ca3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rorschach/Bible/Imagine a crown of thorns, twisted, dark and unreflective, grown too thickly tangled to ever rest on any human head. (Watts 124).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40d5f62925fef293",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rorschach/Bible/Imagine a crown of thorns, twisted, dark and unreflective, grown too thickly tangled to ever rest on any human head. (Watts 124).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "043f58d0d93879aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapters/8. “Life’s too short for chess.” (p. 126 of 272) (Watts 126).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10ee7b43bced8c40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapters/7. “They know the music but not the words.” - Robert Hare, Without Conscience (p. 68 of 272) (Watts 110).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67e8866ba0b8b4c5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 695.5
+    "width": 297.5
   },
   "right": {
     "id": "17d9ef55b4e5bcd6",
@@ -227,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 630.5
+    "width": 245.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,17 +156,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "67e8866ba0b8b4c5",
+  "active": "92ea186d3fe3b365",
   "lastOpenFiles": [
-    "Chapters/7. “They know the music but not the words.” - Robert Hare, Without Conscience (p. 68 of 272) (Watts 110).md",
-    "Chapters/6. “The glass ceiling is in you. The glass ceiling is conscience.”—Jacob Holtzbrinck, The Keys to the Planet (p. 56 of 272) (Watts 94).md",
+    "Excalidraw/Drawing 2023-05-04 21.13.54.excalidraw.md",
+    "Chapters/14. “My genes done gone and tricked my brainBy making fucking feel so great...—The r-selectors, Trunclade (p. 139 of 272) (Watts 209).md",
+    "Chapters/5. “ Leaders are visionaries with a poorly developed sense of fearand no concept of the odds against them.”—Robert Jarvik (p. 41 of 272) (Watts 73).md",
+    "Chapters/4. “All kinds of animals living here. Occasional demons too.”— Ian Anderson, Catfish Rising (p. 27 of 272) (Watts 54).md",
+    "Chapters/12. “If you can see it, chances are it doesn’t exist.” —Kate Keogh, Grounds for Suicide (p. 126 of 272) (Watts 188).md",
+    "Rorschach/Bible/Imagine a crown of thorns, twisted, dark and unreflective, grown too thickly tangled to ever rest on any human head. (Watts 124).md",
+    "Excalidraw/Drawing 2023-05-04 15.35.29.excalidraw.md",
+    "Amanda Bates.md",
+    "Rorschach/Personality/Sociopathy.md",
+    "Rorschach/Growth/“Ah. So even though we could maybe handle it now, you want to wait until it graduates from covert to invulnerable.” Szpindel shuddered... Sporting Chance Academy (p. 65 of 272) (Watts 104).md",
+    "Pasted image 20230504195430.jpg",
+    "Pasted image 20230504192820.jpg",
+    "Pasted image 20230504192705.jpg",
     "Chapters/8. “Life’s too short for chess.” (p. 126 of 272) (Watts 126).md",
+    "Chapters/7. “They know the music but not the words.” - Robert Hare, Without Conscience (p. 68 of 272) (Watts 110).md",
+    "Pasted Image 20230504191016_980.jpg",
+    "Rorschach/Growth/Under construction.md",
+    "Chapters/1 - “Try to touch the past. Try to deal with the past. It’s not real. It’s just a dream.”  - Ted Bundy (Watts 17).md",
+    "Chapters/6. “The glass ceiling is in you. The glass ceiling is conscience.”—Jacob Holtzbrinck, The Keys to the Planet (p. 56 of 272) (Watts 94).md",
     "Chapters/9. Mothers are fonder than fathers of their children because they are more certain they are their own. —Aristotle (p. 92 of 272) (Watts 143).md",
     "Chapters/10. “The Lord will take control of you. You will dance and shout and become a different person.” (p. 100 of 272) (Watts 154).md",
     "Chapters/11. “Predators run for their dinner. Prey run for their lives.” —Old Ecologist’s Proverb (p.111 of 272) (Watts 169).md",
-    "Chapters/12. “If you can see it, chances are it doesn’t exist.” —Kate Keogh, Grounds for Suicide (p. 126 of 272) (Watts 188).md",
     "Chapters/13. “You have eyes, but you do not see” —Jesus the Nazorean (p.132 of 272) (Watts 198).md",
-    "Chapters/14. “My genes done gone and tricked my brainBy making fucking feel so great...—The r-selectors, Trunclade (p. 139 of 272) (Watts 209).md",
     "Chapters/15. “Problems cannot be solved at the same level of awareness that created them” —Einstein (p. 152 of 272) (Watts 228).md",
     "Chapters/16. “Grunts look the enemy in the eye. Grunts know the stakes...The whole chain of command is upside-down.” —Kenneth Lubin, Zero Sum (p. 158 of 272) (Watts 235).md",
     "Chapters/17. “Why should man expect his prayer for mercy to be heard by What is above him when he shows no mercy to what is under him —Pierre Troubetzkoy“ (p.172 of 272) (Watts 255).md",
@@ -259,18 +188,8 @@
     "Chapters/19 . “If I can but make the words awake the feeling”  —Ian Anderson, Stand Up (p.189 of 272) (Watts 280).md",
     "Chapters/20. “Ye shall know the truth, and the truth shall make you mad.” (p.199 of 272) (Watts 294).md",
     "Chapters/21. “If the human brain were so simple that we could understand it, we would be so simple that we couldn’t. (p. 205 of 272)“ (Watts 304).md",
-    "Chapters/22. “Not until we are lost do we begin to understand ourselves.” —Thoreau (p.212 of 272) (Watts 314).md",
-    "Chapters/23. “ You cannot prevent and prepare for war at the same time.” (p. 226 of 272) (Watts 332).md",
-    "Chapters/24. “Species used to go extinct. Now they go on hiatus.” —Deborah MacLennan, Tables of our Reconstruction (p.244 of 272) (Watts 357).md",
-    "Example - Chinese Room.md",
-    "Rorschach/Bible/Imagine a crown of thorns, twisted, dark and unreflective, grown too thickly tangled to ever rest on any human head. (Watts 124).md",
-    "Excalidraw/Drawing 2023-05-04 15.35.29.excalidraw.md",
     "Untitled.canvas",
     "Excalidraw",
-    "Rorschach/Growth/“Ah. So even though we could maybe handle it now, you want to wait until it graduates from covert to invulnerable.” Szpindel shuddered... Sporting Chance Academy (p. 65 of 272) (Watts 104).md",
-    "Rorschach/Growth/Under construction.md",
-    "Rorschach/Personality/Sociopathy.md",
-    "Chapters/5. “ Leaders are visionaries with a poorly developed sense of fearand no concept of the odds against them.”—Robert Jarvik (p. 41 of 272) (Watts 73).md",
     "Chapters",
     "Rorschach/Personality",
     "Rorschach/Growth",
