@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:Chapters",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -32,6 +32,6 @@
   "repelStrength": 9.83367983367983,
   "linkStrength": 1,
   "linkDistance": 259,
-  "scale": 0.8931392782673978,
-  "close": true
+  "scale": 0.8931392782673974,
+  "close": false
 }

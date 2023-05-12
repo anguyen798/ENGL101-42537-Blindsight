@@ -4,18 +4,70 @@
     "type": "split",
     "children": [
       {
-        "id": "714832850995b954",
+        "id": "a74fe6adc956d363",
         "type": "tabs",
         "children": [
           {
-            "id": "66e3f397bf467271",
+            "id": "8a715d5fe16f27b3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2_ReferenceNotes/24-357-“Species used to go extinct. Now they go on hiatus.”.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5cf63b4ca08ed77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_ReferenceNotes/15-228-“Problems cannot be solved at the same level of awareness that created them”.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9bcfa8acae6fcef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_ReferenceNotes/1-17-“Try to touch the past. Try to deal with the past. It’s not real. It’s just a dream.”.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a464f1ea51e89c6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_ReferenceNotes/13-198-“You have eyes, but you do not see”.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "628f0d2c7928bec6",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Chapters/7. “They know the music but not the words.” - Robert Hare, Without Conscience (p. 68 of 272) (Watts 110).md",
+                "staged": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,44 +208,50 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "92ea186d3fe3b365",
+  "active": "7676528191e4eec1",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-05-04 21.13.54.excalidraw.md",
-    "Chapters/14. “My genes done gone and tricked my brainBy making fucking feel so great...—The r-selectors, Trunclade (p. 139 of 272) (Watts 209).md",
-    "Chapters/5. “ Leaders are visionaries with a poorly developed sense of fearand no concept of the odds against them.”—Robert Jarvik (p. 41 of 272) (Watts 73).md",
-    "Chapters/4. “All kinds of animals living here. Occasional demons too.”— Ian Anderson, Catfish Rising (p. 27 of 272) (Watts 54).md",
-    "Chapters/12. “If you can see it, chances are it doesn’t exist.” —Kate Keogh, Grounds for Suicide (p. 126 of 272) (Watts 188).md",
-    "Rorschach/Bible/Imagine a crown of thorns, twisted, dark and unreflective, grown too thickly tangled to ever rest on any human head. (Watts 124).md",
-    "Excalidraw/Drawing 2023-05-04 15.35.29.excalidraw.md",
-    "Amanda Bates.md",
-    "Rorschach/Personality/Sociopathy.md",
-    "Rorschach/Growth/“Ah. So even though we could maybe handle it now, you want to wait until it graduates from covert to invulnerable.” Szpindel shuddered... Sporting Chance Academy (p. 65 of 272) (Watts 104).md",
-    "Pasted image 20230504195430.jpg",
-    "Pasted image 20230504192820.jpg",
-    "Pasted image 20230504192705.jpg",
-    "Chapters/8. “Life’s too short for chess.” (p. 126 of 272) (Watts 126).md",
-    "Chapters/7. “They know the music but not the words.” - Robert Hare, Without Conscience (p. 68 of 272) (Watts 110).md",
-    "Pasted Image 20230504191016_980.jpg",
-    "Rorschach/Growth/Under construction.md",
-    "Chapters/1 - “Try to touch the past. Try to deal with the past. It’s not real. It’s just a dream.”  - Ted Bundy (Watts 17).md",
-    "Chapters/6. “The glass ceiling is in you. The glass ceiling is conscience.”—Jacob Holtzbrinck, The Keys to the Planet (p. 56 of 272) (Watts 94).md",
-    "Chapters/9. Mothers are fonder than fathers of their children because they are more certain they are their own. —Aristotle (p. 92 of 272) (Watts 143).md",
-    "Chapters/10. “The Lord will take control of you. You will dance and shout and become a different person.” (p. 100 of 272) (Watts 154).md",
-    "Chapters/11. “Predators run for their dinner. Prey run for their lives.” —Old Ecologist’s Proverb (p.111 of 272) (Watts 169).md",
-    "Chapters/13. “You have eyes, but you do not see” —Jesus the Nazorean (p.132 of 272) (Watts 198).md",
-    "Chapters/15. “Problems cannot be solved at the same level of awareness that created them” —Einstein (p. 152 of 272) (Watts 228).md",
-    "Chapters/16. “Grunts look the enemy in the eye. Grunts know the stakes...The whole chain of command is upside-down.” —Kenneth Lubin, Zero Sum (p. 158 of 272) (Watts 235).md",
-    "Chapters/17. “Why should man expect his prayer for mercy to be heard by What is above him when he shows no mercy to what is under him —Pierre Troubetzkoy“ (p.172 of 272) (Watts 255).md",
-    "Chapters/18. “That which does not kill us, makes us stranger.” —Trevor Goodchild (p.181 of 272) (Watts 268).md",
-    "Chapters/19 . “If I can but make the words awake the feeling”  —Ian Anderson, Stand Up (p.189 of 272) (Watts 280).md",
-    "Chapters/20. “Ye shall know the truth, and the truth shall make you mad.” (p.199 of 272) (Watts 294).md",
-    "Chapters/21. “If the human brain were so simple that we could understand it, we would be so simple that we couldn’t. (p. 205 of 272)“ (Watts 304).md",
+    "3_Files/Pasted image 20230504195430.jpg",
+    "3_Files/Pasted image 20230504192820.jpg",
+    "3_Files/Pasted image 20230504192705.jpg",
+    "3_Files/Pasted Image 20230504191016_980.jpg",
+    "1_Zettelkasten/Amanda Bates.md",
+    "1_Zettelkasten/Example - Chinese Room.md",
+    "2_ReferenceNotes/Imagine you are Siri Keeton.md",
+    "2_ReferenceNotes/Siri Character Development.md",
+    "2_ReferenceNotes/Siri regains conciousness.md",
+    "2_ReferenceNotes/14-139-“My genes done gone and tricked my brain-By making fucking feel so great....md",
+    "2_ReferenceNotes/16-235-“Grunts look the enemy in the eye. Grunts know the stakes...The whole chain of command is upside-down.”.md",
+    "2_ReferenceNotes/18-268-“That which does not kill us, makes us stranger.”.md",
+    "2_ReferenceNotes/19 -280-“If I can but make the words awake the feeling”.md",
+    "2_ReferenceNotes/21-304-“If the human brain were so simple that we could understand it, we would be so simple that we couldn’t..md",
+    "2_ReferenceNotes/23-332-“You cannot prevent and prepare for war at the same time.”.md",
+    "2_ReferenceNotes/24-357-“Species used to go extinct. Now they go on hiatus.”.md",
     "Untitled.canvas",
-    "Excalidraw",
+    "Untitled 2.canvas",
+    "Untitled 3.canvas",
+    "Untitled 1.canvas",
+    "2_ReferenceNotes/Chelsea flashback 3.md",
+    "2_ReferenceNotes/20-294-“Ye shall know the truth, and the truth shall make you mad.”.md",
+    "2_ReferenceNotes/17-255-Why should man expect his prayer for mercy to be heard by What is above him when he shows no mercy to what is under him.md",
+    "2_ReferenceNotes/1-17-“Try to touch the past. Try to deal with the past. It’s not real. It’s just a dream.”.md",
+    "2_ReferenceNotes/15-228-“Problems cannot be solved at the same level of awareness that created them”.md",
+    "2_ReferenceNotes/13-198-“You have eyes, but you do not see”.md",
+    "2_ReferenceNotes/Down on Rorschach, our tent burst like a bug beneath a boot. A geyser erupted from the wound; a snowstorm swirled at its edges, its charged curlicues intricate as lace. Atmosphere gushed into vacuum, spread thin, crystallized..md",
+    "2_ReferenceNotes/12-188-“If you can see it, chances are it doesn’t exist.”.md",
+    "2_ReferenceNotes/11-169-“Predators run for their dinner. Prey run for their lives.”.md",
+    "2_ReferenceNotes/10-154-“The Lord will take control of you. You will dance and shout and become a different person.”.md",
+    "2_ReferenceNotes/9-143-Mothers are fonder than fathers of their children because they are more certain they are their own..md",
+    "2_ReferenceNotes/8-126-“Life’s too short for chess.”.md",
+    "2_ReferenceNotes/7-110-“They know the music but not the words.”.md",
+    "Untitled",
+    "4_Templates",
+    "3_Files",
+    "2_ReferenceNotes",
+    "1_Zettelkasten",
+    "3_Files/Excalidraw",
     "Chapters",
     "Rorschach/Personality",
     "Rorschach/Growth",
-    "Rorschach/Bible",
-    "Rorschach"
+    "Rorschach/Bible"
   ]
 }

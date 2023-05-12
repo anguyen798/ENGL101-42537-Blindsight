@@ -1,0 +1,7 @@
+#Chapter #Chapter-10
+(p. 100 of 272) (Watts 154)
+
+* And the sounds—Rorschach creaked around us like some ancient wooden hull trapped in pack ice. Electricity hissed like rattlesnakes.
+* Not living, not by a long shot. Haunted.
+* Even when the walls didn't move, they did: always at the corner of the eye, that sense of crawling motion. Always at the back of the mind the sense of being watched, the dread certainty of malign and alien observers just out of sight. More than once I turned, expecting to catch one of those phantoms in the open. All I ever saw was a half-blind grunt floating down the passageway, or a wide-eyed and jittery crewmate returning my stare.
+*  And the walls of some glistening black lava tube with a hundred embedded eyes, all snapped shut just the instant before. Our lights pushed the darkness back perhaps twenty meters in either direction; beyond, mist and shadows seethed. And the sounds—Rorschach creaked around us like some ancient wooden hull trapped in pack ice. Electricity hissed like rattlesnakes.

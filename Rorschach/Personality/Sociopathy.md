@@ -1,1 +1,0 @@
-James shook her head. Szpindel filled me in: “There’s a syndrome you might have heard about, eh? Fast talkers, no conscience, tend to malapropism and self-contradiction. No emotional affect.” “We’re not talking about human beings here,” James said again, softly. “But if we were,” Szpindel added, “we might call Rorschach a clinical sociopath.”
