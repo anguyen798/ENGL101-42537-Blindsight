@@ -4,70 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "a74fe6adc956d363",
+        "id": "ec47dafe2915f588",
         "type": "tabs",
         "children": [
           {
-            "id": "8a715d5fe16f27b3",
+            "id": "4b618493b1fecaa0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_ReferenceNotes/24-357-“Species used to go extinct. Now they go on hiatus.”.md",
+                "file": "2_ReferenceNotes/20-294-“Ye shall know the truth, and the truth shall make you mad.”.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b5cf63b4ca08ed77",
+            "id": "44231c72bfe97923",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2_ReferenceNotes/15-228-“Problems cannot be solved at the same level of awareness that created them”.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Essay-Hit.excalidraw.md"
               }
             }
           },
           {
-            "id": "b9bcfa8acae6fcef",
+            "id": "fa4d66a1a1c6e539",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_ReferenceNotes/1-17-“Try to touch the past. Try to deal with the past. It’s not real. It’s just a dream.”.md",
+                "file": "1_Zettelkasten/Siri's Cruxifiction.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "a464f1ea51e89c6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_ReferenceNotes/13-198-“You have eyes, but you do not see”.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "628f0d2c7928bec6",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Chapters/7. “They know the music but not the words.” - Robert Hare, Without Conscience (p. 68 of 272) (Watts 110).md",
-                "staged": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 738.5
   },
   "right": {
     "id": "17d9ef55b4e5bcd6",
@@ -133,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2_ReferenceNotes/20-294-“Ye shall know the truth, and the truth shall make you mad.”.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2_ReferenceNotes/20-294-“Ye shall know the truth, and the truth shall make you mad.”.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2_ReferenceNotes/20-294-“Ye shall know the truth, and the truth shall make you mad.”.md"
+              }
             }
           },
           {
@@ -204,12 +182,36 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7676528191e4eec1",
+  "active": "4b618493b1fecaa0",
   "lastOpenFiles": [
+    "2_ReferenceNotes/19 -280-“If I can but make the words awake the feeling”.md",
+    "2_ReferenceNotes/17-255-Why should man expect his prayer for mercy to be heard by What is above him when he shows no mercy to what is under him.md",
+    "2_ReferenceNotes/16-235-“Grunts look the enemy in the eye. Grunts know the stakes...The whole chain of command is upside-down.”.md",
+    "2_ReferenceNotes/14-139-“My genes done gone and tricked my brain-By making fucking feel so great....md",
+    "2_ReferenceNotes/12-188-“If you can see it, chances are it doesn’t exist.”.md",
+    "2_ReferenceNotes/10-154-“The Lord will take control of you. You will dance and shout and become a different person.”.md",
+    "1_Zettelkasten/Essay Hit List.md",
+    "2_ReferenceNotes/2-25-“Blood makes noise.”.md",
+    "2_ReferenceNotes/6-94-“The glass ceiling is in you. The glass ceiling is conscience.”.md",
+    "2_ReferenceNotes/7-110-“They know the music but not the words.”.md",
+    "2_ReferenceNotes/5-73-“Leaders are visionaries with a poorly developed sense of fear and no concept of the odds against them.”.md",
+    "1_Zettelkasten/Final.md",
+    "Excalidraw/Essay-Hit.excalidraw.md",
+    "Excalidraw",
+    "2_ReferenceNotes/3-36-“When it is dark enough, you can see the stars.”.md",
+    "2_ReferenceNotes/Untitled.md",
+    "2_ReferenceNotes/20-294-“Ye shall know the truth, and the truth shall make you mad.”.md",
+    "1_Zettelkasten/Siri's Cruxifiction.md",
+    "2_ReferenceNotes/21-304-“If the human brain were so simple that we could understand it, we would be so simple that we couldn’t..md",
+    "2_ReferenceNotes/18-268-“That which does not kill us, makes us stranger.”.md",
+    "2_ReferenceNotes/22-314-“Not until we are lost do we begin to understand ourselves.”.md",
+    "2_ReferenceNotes/1-17-“Try to touch the past. Try to deal with the past. It’s not real. It’s just a dream.”.md",
+    "2_ReferenceNotes/23-332-“You cannot prevent and prepare for war at the same time.”.md",
+    "2_ReferenceNotes/24-357-“Species used to go extinct. Now they go on hiatus.”.md",
     "3_Files/Pasted image 20230504195430.jpg",
     "3_Files/Pasted image 20230504192820.jpg",
     "3_Files/Pasted image 20230504192705.jpg",
@@ -217,32 +219,10 @@
     "1_Zettelkasten/Amanda Bates.md",
     "1_Zettelkasten/Example - Chinese Room.md",
     "2_ReferenceNotes/Imagine you are Siri Keeton.md",
-    "2_ReferenceNotes/Siri Character Development.md",
-    "2_ReferenceNotes/Siri regains conciousness.md",
-    "2_ReferenceNotes/14-139-“My genes done gone and tricked my brain-By making fucking feel so great....md",
-    "2_ReferenceNotes/16-235-“Grunts look the enemy in the eye. Grunts know the stakes...The whole chain of command is upside-down.”.md",
-    "2_ReferenceNotes/18-268-“That which does not kill us, makes us stranger.”.md",
-    "2_ReferenceNotes/19 -280-“If I can but make the words awake the feeling”.md",
-    "2_ReferenceNotes/21-304-“If the human brain were so simple that we could understand it, we would be so simple that we couldn’t..md",
-    "2_ReferenceNotes/23-332-“You cannot prevent and prepare for war at the same time.”.md",
-    "2_ReferenceNotes/24-357-“Species used to go extinct. Now they go on hiatus.”.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
     "Untitled 1.canvas",
-    "2_ReferenceNotes/Chelsea flashback 3.md",
-    "2_ReferenceNotes/20-294-“Ye shall know the truth, and the truth shall make you mad.”.md",
-    "2_ReferenceNotes/17-255-Why should man expect his prayer for mercy to be heard by What is above him when he shows no mercy to what is under him.md",
-    "2_ReferenceNotes/1-17-“Try to touch the past. Try to deal with the past. It’s not real. It’s just a dream.”.md",
-    "2_ReferenceNotes/15-228-“Problems cannot be solved at the same level of awareness that created them”.md",
-    "2_ReferenceNotes/13-198-“You have eyes, but you do not see”.md",
-    "2_ReferenceNotes/Down on Rorschach, our tent burst like a bug beneath a boot. A geyser erupted from the wound; a snowstorm swirled at its edges, its charged curlicues intricate as lace. Atmosphere gushed into vacuum, spread thin, crystallized..md",
-    "2_ReferenceNotes/12-188-“If you can see it, chances are it doesn’t exist.”.md",
-    "2_ReferenceNotes/11-169-“Predators run for their dinner. Prey run for their lives.”.md",
-    "2_ReferenceNotes/10-154-“The Lord will take control of you. You will dance and shout and become a different person.”.md",
-    "2_ReferenceNotes/9-143-Mothers are fonder than fathers of their children because they are more certain they are their own..md",
-    "2_ReferenceNotes/8-126-“Life’s too short for chess.”.md",
-    "2_ReferenceNotes/7-110-“They know the music but not the words.”.md",
     "Untitled",
     "4_Templates",
     "3_Files",
@@ -251,7 +231,6 @@
     "3_Files/Excalidraw",
     "Chapters",
     "Rorschach/Personality",
-    "Rorschach/Growth",
-    "Rorschach/Bible"
+    "Rorschach/Growth"
   ]
 }
