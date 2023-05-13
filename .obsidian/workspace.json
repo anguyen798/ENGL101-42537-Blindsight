@@ -4,41 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ec47dafe2915f588",
+        "id": "46b3521881ef57fc",
         "type": "tabs",
         "children": [
           {
-            "id": "4b618493b1fecaa0",
+            "id": "2f0a096afd2c0b07",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_ReferenceNotes/20-294-“Ye shall know the truth, and the truth shall make you mad.”.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44231c72bfe97923",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Essay-Hit.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "fa4d66a1a1c6e539",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Zettelkasten/Siri's Cruxifiction.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -91,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 738.5
+    "width": 733.5
   },
   "right": {
     "id": "17d9ef55b4e5bcd6",
@@ -107,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_ReferenceNotes/20-294-“Ye shall know the truth, and the truth shall make you mad.”.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_ReferenceNotes/20-294-“Ye shall know the truth, and the truth shall make you mad.”.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2_ReferenceNotes/20-294-“Ye shall know the truth, and the truth shall make you mad.”.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,40 +156,41 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4b618493b1fecaa0",
+  "active": "2f0a096afd2c0b07",
   "lastOpenFiles": [
-    "2_ReferenceNotes/19 -280-“If I can but make the words awake the feeling”.md",
-    "2_ReferenceNotes/17-255-Why should man expect his prayer for mercy to be heard by What is above him when he shows no mercy to what is under him.md",
-    "2_ReferenceNotes/16-235-“Grunts look the enemy in the eye. Grunts know the stakes...The whole chain of command is upside-down.”.md",
-    "2_ReferenceNotes/14-139-“My genes done gone and tricked my brain-By making fucking feel so great....md",
-    "2_ReferenceNotes/12-188-“If you can see it, chances are it doesn’t exist.”.md",
-    "2_ReferenceNotes/10-154-“The Lord will take control of you. You will dance and shout and become a different person.”.md",
-    "1_Zettelkasten/Essay Hit List.md",
-    "2_ReferenceNotes/2-25-“Blood makes noise.”.md",
-    "2_ReferenceNotes/6-94-“The glass ceiling is in you. The glass ceiling is conscience.”.md",
-    "2_ReferenceNotes/7-110-“They know the music but not the words.”.md",
+    "2_ReferenceNotes/Chapter-5.md",
+    "2_ReferenceNotes/Chapter-6.md",
+    "2_ReferenceNotes/Chapter-4.md",
     "2_ReferenceNotes/5-73-“Leaders are visionaries with a poorly developed sense of fear and no concept of the odds against them.”.md",
-    "1_Zettelkasten/Final.md",
-    "Excalidraw/Essay-Hit.excalidraw.md",
-    "Excalidraw",
-    "2_ReferenceNotes/3-36-“When it is dark enough, you can see the stars.”.md",
-    "2_ReferenceNotes/Untitled.md",
-    "2_ReferenceNotes/20-294-“Ye shall know the truth, and the truth shall make you mad.”.md",
-    "1_Zettelkasten/Siri's Cruxifiction.md",
-    "2_ReferenceNotes/21-304-“If the human brain were so simple that we could understand it, we would be so simple that we couldn’t..md",
-    "2_ReferenceNotes/18-268-“That which does not kill us, makes us stranger.”.md",
-    "2_ReferenceNotes/22-314-“Not until we are lost do we begin to understand ourselves.”.md",
     "2_ReferenceNotes/1-17-“Try to touch the past. Try to deal with the past. It’s not real. It’s just a dream.”.md",
-    "2_ReferenceNotes/23-332-“You cannot prevent and prepare for war at the same time.”.md",
-    "2_ReferenceNotes/24-357-“Species used to go extinct. Now they go on hiatus.”.md",
+    "2_ReferenceNotes/Chapter-3.md",
+    "2_ReferenceNotes/3-36-“When it is dark enough, you can see the stars.”.md",
+    "1_Zettelkasten/Siri's Cruxifiction.md",
+    "2_ReferenceNotes/Chapter-20.md",
+    "2_ReferenceNotes/Chapter-21.md",
+    "2_ReferenceNotes/Chapter-22.md",
+    "2_ReferenceNotes/Chapter-23.md",
+    "2_ReferenceNotes/Chapter-1.md",
+    "2_ReferenceNotes/Chapter-24.md",
+    "2_ReferenceNotes/Chapter-19.md",
+    "2_ReferenceNotes/Chapter-17.md",
+    "2_ReferenceNotes/Chapter-18.md",
+    "2_ReferenceNotes/Chapter-14.md",
+    "2_ReferenceNotes/Chapter-16.md",
+    "2_ReferenceNotes/Chapter-15.md",
+    "2_ReferenceNotes/Chapter-13.md",
+    "2_ReferenceNotes/Chapter-12.md",
+    "2_ReferenceNotes/Chapter-11.md",
+    "2_ReferenceNotes/Chapter-8.md",
+    "2_ReferenceNotes/Chapter-10.md",
+    "2_ReferenceNotes/Chapter-9.md",
+    "Blindsight.canvas",
+    "2-25.canvas",
+    "Excalidraw",
     "3_Files/Pasted image 20230504195430.jpg",
     "3_Files/Pasted image 20230504192820.jpg",
     "3_Files/Pasted image 20230504192705.jpg",
     "3_Files/Pasted Image 20230504191016_980.jpg",
-    "1_Zettelkasten/Amanda Bates.md",
-    "1_Zettelkasten/Example - Chinese Room.md",
-    "2_ReferenceNotes/Imagine you are Siri Keeton.md",
-    "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
     "Untitled 1.canvas",

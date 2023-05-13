@@ -1,6 +1,9 @@
 #Chapter #Chapter-1
 
 -Ted Bundy (Watts 17)
+![[Chapter-1#^Page-18]] 
+
+
 
 * At the age of eight, he was my best and only friend. We were fellow outcasts, bound by
 complementary misfortune. Mine was developmental. His was genetic: an uncontrolled genotype that
