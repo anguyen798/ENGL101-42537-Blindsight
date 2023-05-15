@@ -1,6 +1,5 @@
-#Chapter #Chapter-6
-—Jacob Holtzbrinck, The Keys to the Planet (p. 56 of 272) (Watts 94)
 
+![[Chapter-6#^Page-94]]
 * "You wouldn't be happy here, Susan. Fetishistic religious beliefs involved. There are dangerous
 observances."
 James chewed her lip.

@@ -1,7 +1,4 @@
-#Chapter #Chapter-1
-
--Ted Bundy (Watts 17)
-![[Chapter-1#^Page-18]] 
+![[Chapter-1#^Page-17]] 
 
 
 

@@ -1,3 +1,4 @@
+[[Chapter-23#^Page-332]] #Chapter-23 #Page-332
 "You cannot prevent and prepare for war at the same time."
 —Einstein
 I have no idea whether the scrambler made it back home with its hard-won prize. There was so much
@@ -13,7 +14,9 @@ had both of those escapees been spheres, or had one been flattened along one axi
 waved their limbs the way some panicky human might with no ground beneath him? Or had one,
 perhaps, coasted lifeless and ballistic until our guns destroyed the evidence?
 At this point, it didn't really matter. What mattered was that at long last, everyone was on the same
-page. Blood had been drawn, war declared.
+page. Blood had been drawn, war declared. ^Page-332
+
+[[Chapter-23#^Page-333]] #Chapter-23 #Page-333
 And Theseus was paralysed from the waist down.
 Rorschach's parting shot had punched through the carapace at the base of the spine. It had just missed
 the ramscoop and the telematter assembly. It might have taken out Fab if it hadn't spent so many
@@ -38,7 +41,10 @@ I guessed. "Michelle?"
 Bates floated near the floor of the drum, windows arrayed externally across bulkhead and conference
 table. "What can I do?" I asked.
 She didn't look up. "Nothing."
-So I watched. Bates counted skimmers in one window—mass, inertia, any of a dozen variables that
+So I watched. Bates counted skimmers in one window—mass, ^Page-333
+
+[[Chapter-23#^Page-334]] #Chapter-23 #Page-334
+inertia, any of a dozen variables that
 would prove far too constant should any of those shovelnosed missiles come at our throat. They had
 finally noticed us. Their chaotic electron-dance was shifting now, hundreds of thousands of colossal
 sledgehammers in sudden flux, reweaving into some ominous dynamic that hadn't yet settled into
@@ -63,7 +69,10 @@ Bates glanced up. "Oh. Beautiful, isn't it?"
 "Visible red?" There wasn't any to speak of; mostly cool plasma fractals in a hundred shades of jade
 and sapphire.
 "Quadrochromatic palette," Bates told me. "Like what a cat might see. Or a vampire." She managed a
-half-hearted wave at the rainbow bubble. "Sarasti sees something like that every time he looks outside.
+half-hearted wave at the ^Page-334
+
+[[Chapter-23#^Page-335]] #Chapter-23 #Page-335
+rainbow bubble. "Sarasti sees something like that every time he looks outside.
 If he ever looks outside."
 "You'd think he'd have mentioned it," I murmured. It was gorgeous, a holographic ornament. Perhaps
 even Rorschach might be a work of art through eyes like these...
@@ -86,7 +95,9 @@ would naturally draw the greatest amount of enemy fire: take off the head, kill 
 Bates wasn't just a head: she was a bottleneck, and her body would not suffer from a decapitation
 strike. Her death would only let her troops off the leash. How much more deadly would those grunts
 be, once every battlefield reflex didn't have to pass through some interminable job stack waiting for
-the rubber stamp?
+the rubber stamp? ^Page-335
+
+[[Chapter-23#^Page-336]] #Chapter-23 #Page-336
 Szpindel had had it all wrong. Amanda Bates wasn't a sop to politics, her role didn't deny the
 obsolescence of Human oversight at all. Her role depended on it.
 She was more cannon fodder than I. She always had been. And I had to admit: after generations of
@@ -110,7 +121,10 @@ command, and saw that he had surrounded himself with faces.
 Every last one of them was screaming.
 There was no sound. The disembodied holograms floated in silent tiers around the bubble, each
 contorted into a different expression of pain. They were being tortured, these faces; half a dozen real
-ethnicities and twice as many hypothetical ones, skin tones ranging from charcoal to albino, brows
+ethnicities and twice as many hypothetical ones, skin tones ranging ^Page-336
+
+[[Chapter-23#^Page-337]] #Chapter-23 #Page-337
+from charcoal to albino, brows
 high and slanted, noses splayed or pointed, jaws receding or prognathous. Sarasti had called the entire
 hominid tree into existence around him, astonishing in their range of features, terrifying in their
 consistency of expression.
@@ -135,7 +149,10 @@ He shrugged, disconcertingly human. "You ask."
 "To discuss our next move."
 "What move? We can't even run away."
 "No." He shook his head, baring filed teeth in something approaching regret.
-"Why did we wait so long?" Suddenly my sullen defiance had evaporated. I sounded like a child,
+"Why did we wait so long?" Suddenly my sullen defiance had ^Page-337
+
+[[Chapter-23#^Page-338]] #Chapter-23 #Page-338
+evaporated. I sounded like a child,
 frightened and pleading. "Why didn't we just take it on when we first got here, when it was
 weaker...?"
 "We need to learn things. For next time."
@@ -160,7 +177,9 @@ Sarasti shook his head. "No."
 "Oh," I finished.
 Because of course, we had just topped up our antimatter reserves. Theseus was not equipped with
 weapons. Theseus was the weapon. And we were, in fact, going to sit here for the next sixty-eight
-minutes, waiting to die.
+minutes, waiting to die. ^Page-338
+
+[[Chapter-23#^Page-339]] #Chapter-23 #Page-339
 But we were going to take Rorschach with us when we did.
 Sarasti said nothing. I wondered what he saw, looking at me. I wondered if there actually was a Jukka
 Sarasti behind those eyes to see, if his insights—always ten steps ahead of our own— hailed not so
@@ -185,7 +204,10 @@ off and raped me for no good reason—"
 "I can imagine what it's like," he said quietly. "Please don't make me do it again."
 I fell instantly silent.
 "I know your race and mine are never on the best of terms." There was a cold smile in his voice if not
-on his face. "But I do only what you force me to. You rationalize, Keeton. You defend. You reject
+on his face. "But I do only ^Page-339
+
+[[Chapter-23#^Page-340]] #Chapter-23 #Page-340
+what you force me to. You rationalize, Keeton. You defend. You reject
 unpalatable truths, and if you can't reject them outright you trivialize them. Incremental evidence is
 never enough for you. You hear rumors of Holocaust; you dismiss them. You see evidence of
 genocide; you insist it can't be so bad. Temperatures rise, glaciers melt—species die—and you blame
@@ -205,7 +227,10 @@ I'd known something was going on. I just hadn't understood what.
 "That too," Sarasti admitted, and looked right at me.
 For the first time, I looked right back. And felt a shock of recognition.
 I still wonder why I never saw it before. For all those years I remembered the thoughts and feelings of
-some different, younger person, some remnant of the boy my parents had hacked out of my head to
+some different, younger person, some remnant of the boy my parents had hacked out of my head ^Page-340
+
+[[Chapter-23#^Page-341]] #Chapter-23 #Page-341
+to
 make room for me. He'd been alive. His world had been vibrant. And though I could call up the
 memories of that other consciousness, I could barely feel anything within the constraints of my own.
 Perhaps dreamstate wasn't such a bad word for it...
@@ -233,7 +258,9 @@ improve. Come."
 "A drone—"
 "Can deliver the data—assuming nothing fries its memory before it gets away. It can't convince
 anyone. It can't counter rationalizations and denials. It can't matter. And vampires—" he paused
-—"have poor communications skills."
+—"have poor communications skills." ^Page-341
+
+[[Chapter-23#^Page-342]] #Chapter-23 #Page-342
 It should have been cause for petty, selfish rejoicing.
 "It all comes down to me," I said. "That's what you're saying. I'm a fucking stenographer, and it's all
 on me."
@@ -257,7 +284,9 @@ After Rorschach's dive, I'd been starting to think the laws of physics didn't ap
 The trajectories were close enough, though. At least three skimmers would be passing within a
 hundred kilometers on their next orbits.
 Sarasti reached for his injector, the blood rising in his face. "Time to go. We refit Charybdis while
-you're sulking."
+you're sulking." ^Page-342
+
+[[Chapter-23#^Page-343]] #Chapter-23 #Page-343
 He held the hypo to his throat and shot up. I stared at ConSensus, caught by that bright shifting web
 like a moth by a streetlight.
 "Now, Siri."
@@ -282,7 +311,9 @@ Sarasti clicked.
 the bulkhead: seven skimmers shot from the clouds as I watched, a ragged circle of scramjets
 screaming red-hot into space. ConSensus plotted their paths in an instant; luminous arcs rose around
 our ship like the bars of a cage.
-Theseus shuddered.
+Theseus shuddered. ^Page-343
+
+[[Chapter-23#^Page-344]] #Chapter-23 #Page-344
 We've been hit, I thought. Suddenly the spine's plodding expansion cranked into overdrive; the pleated
 wall lurched and accelerated, streaming past my outstretched fingers as the closed hatch receded up
 ahead—
@@ -306,7 +337,10 @@ That was unusual.
 "Bridge!" Sarasti barked. "Open channel!"
 Someone was shouting up there. There were words, but I couldn't make them out.
 Without warning, Sarasti let go.
-He dropped obliquely in a blur. Aft and opposite, the bulkhead waited to swat him like an insect. In
+He dropped obliquely in a blur. Aft and opposite, the bulkhead ^Page-344
+
+[[Chapter-23#^Page-345]] #Chapter-23 #Page-345
+waited to swat him like an insect. In
 half a second both his legs would be shattered, if the impact didn't kill him outright—
 But suddenly we were weightless again, and Jukka Sarasti—purple-faced, stiff-limbed— was foaming
 at the mouth.
@@ -330,7 +364,10 @@ grunt directly. "Are you autonomous? Do you take verbal orders?"
 On all sides the robots watched; the Captain just laughed at me, its voice posing as an alarm.
 Infirmary.
 I pushed. Sarasti's arms flailed randomly against my head and shoulders. He tumbled forward and
-sideways, hit the moving ConSensus display dead center, bounced away up the spine. I kicked off in
+sideways, hit the moving ^Page-345
+
+[[Chapter-23#^Page-346]] #Chapter-23 #Page-346
+ConSensus display dead center, bounced away up the spine. I kicked off in
 his wake—
 —and glimpsed something from the corner of my eye—
 —and turned—
@@ -356,7 +393,9 @@ Unless the Gang barricaded it before they took the bridge...
 "Strap in, people! We are getting out of here!"
 Who in hell...?
 The open bridge channel. Susan James, shouting up there. Or someone was; I couldn't quite place the
-voice...
+voice... ^Page-346
+
+[[Chapter-23#^Page-347]] #Chapter-23 #Page-347
 Ten meters to the drum. Theseus jerked again, slowed her spin. Stabilised.
 "Somebody start the goddamned reactor! I've only got attitude jets up here!"
 "Susan? Sascha?" I was at the hatch. "Who is that?" I pushed passed Sarasti and reached to open it.
@@ -378,7 +417,10 @@ breath catch in my throat, felt angular monstrosities advancing through the dark
 directly ahead, a bright brief staccato in the void. I glimpsed curves and angles in silhouette,
 staggering. The buzzing crackle of shorting circuitry. Metal objects collided nearby, unseen.
 From behind the crinkle of the drum hatch, opening. A sudden beam of harsh chemical light hit me as
-I turned, lit the mechanical ranks behind; they simultaneously unclamped from their anchorages and
+I turned, lit the mechanical ranks behind; they simultaneously unclamped from their anchorages ^Page-347
+
+[[Chapter-23#^Page-348]] #Chapter-23 #Page-348
+and
 floated free. Their joints clicked in unison like an army stamping to attention
 "Keeton!" Bates snapped, sailing through the hatch. "You okay?"
 The chemlight shone from her forehead. It turned the interior of the spine into a high-contrast mosaic,
@@ -403,7 +445,9 @@ stronger."
 "Lightning. EMP." Drones sailed down to Fab and the shuttles, taking strategic positions along the
 tube. "Rorschach's putting out one hell of a charge and every time one those skimmers pass between
 us they arc."
-"What, at this range? I thought we were—the burn—"
+"What, at this range? I thought we were—the burn—" ^Page-348
+
+[[Chapter-23#^Page-349]] #Chapter-23 #Page-349
 "Sent us in the wrong direction. We're inbound."
 Three grunts floated close enough to touch. They drew beads on the open drum hatch.
 "She said she was trying to escape—" I remembered.
@@ -430,7 +474,9 @@ headed for the front end. Blister and forward lock, I think. Second wave's aft."
 "How far?"
 "Far?" Bates smiled faintly. "They're already on the hull, Siri. We're engaging."
 "What do I do? What do I do?"
-Her eyes stared past me, and widened. She opened her mouth.
+Her eyes stared past me, and widened. She opened her mouth. ^Page-349
+
+[[Chapter-23#^Page-350]] #Chapter-23 #Page-350
 A hand clamped on my shoulder from behind and spun me around.
 Sarasti. His dead eyes stared from a skull split like a spiked melon. Globules of coagulating blood
 clung to his hair and skin like engorged ticks.
@@ -454,7 +500,10 @@ remembered the drone's maxillipeds, chewing.
 The sound of weapons fire and ricochets rose behind us.
 The corpse typed one-handed as we moved. I wondered briefly why it just didn't talk before my gaze
 flickered back to the spike in his brain: Sarasti's speech centers must be mush.
-"Why did you kill him?" I said. A whole new alarm started up, way back in the drum. A sudden breeze
+"Why did you kill him?" I said. A whole new alarm started up, ^Page-350
+
+[[Chapter-23#^Page-351]] #Chapter-23 #Page-351
+way back in the drum. A sudden breeze
 tugged me backward for a moment, dissipated in the next second with a distant clang.
 The corpse held out the handpad, configured for keys and a text display: Seizng. Cldnt cntrl.
 We were at the shuttle locks. Robot soldiers let us pass, their attention elsewhere.
@@ -478,7 +527,10 @@ U dislke ordrs frm mchnes. Happier ths way.
 I let it strap me in and close the lid. I lay there in the dark, feeling my body lurch and sway as the
 shuttle slid into its launch slot. I withstood the sudden silence as the docking clamps let go, the jerk of
 acceleration that spat me hard into the vacuum, the ongoing thrust that pushed against my chest like a
-soft mountain. Around me the shuttle trembled in the throes of a burn that far exceeded its normative
+soft mountain. Around ^Page-351
+
+[[Chapter-23#^Page-352]] #Chapter-23 #Page-352
+me the shuttle trembled in the throes of a burn that far exceeded its normative
 specs.
 My inlays came back online. Suddenly I could see outside if I wanted. I could see what was happening
 behind me.
@@ -502,9 +554,12 @@ barely wider than Jupiter? Was Rorschach also resigned to defeat, had each side 
 strike on the other?
 I don't know. Big Ben got in the way just minutes before the explosion. That's probably why I'm still
 alive. Ben stood between me and that burning light like a coin held against the sun.
-Theseus sent everything it could, until the last microsecond. Every recorded moment of hand-to-hand
+Theseus sent everything it could, until the last microsecond. ^Page-352
+
+[[Chapter-23#^Page-353]] #Chapter-23 #Page-353
+Every recorded moment of hand-to-hand
 combat, every last countdown, every last soul. All the moves and all the vectors. I have that telemetry.
 I can break it down into any number of shapes, continuous or discrete. I can transform the topology,
 rotate it and compress it and serve it up in dialects that any ally might be able to use. Perhaps Sarasti
 was right, perhaps some of it is vital.
-I don't know what any of it means.
+I don't know what any of it means. ^Page-353

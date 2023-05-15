@@ -1,3 +1,4 @@
+[[Chapter-22#^Page-314]] #Chapter-22 #Page-314
 "Not until we are lost do we begin to understand ourselves."
 —Thoreau
 The shame had scoured me and left me hollow. I didn't care who saw me. I didn't care what state they
@@ -14,7 +15,9 @@ of safety.
 Sarasti wanted me to believe. Somehow he must have thought that brutalising and humiliating me
 would accomplish that—that broken and drained, I would become an empty vessel to fill as he saw fit.
 Wasn't it a classic brainwashing technique—to shatter your victim and then glue the pieces back
-together in according to specs of your own choosing? Maybe he was expecting some kind of
+together in according to specs of your own choosing? Maybe he was expecting some kind of ^Page-314
+
+[[Chapter-22#^Page-315]] #Chapter-22 #Page-315
 Stockholm Syndrome to set in, or maybe his actions followed some agenda incomprehensible to mere
 meat.
 Maybe he'd simply gone insane.
@@ -37,7 +40,9 @@ to read Cunningham's topology through the haze. Maybe I saw a facade, only micro
 would welcome almost any distraction, even if he wouldn't admit it.
 Or maybe I was just imagining it.
 "How are you doing?" he asked as I reached the deck.
-I shrugged.
+I shrugged. ^Page-315
+
+[[Chapter-22#^Page-316]] #Chapter-22 #Page-316
 "Hand all better, I see."
 "No thanks to you."
 I'd tried to stop that from coming out. Really.
@@ -62,7 +67,10 @@ People aren't prepared to have their minds read off every twitch of the eyeball.
 with his cigarette. "And you. You're a shapeshifter. You present a different face to every one of us, and
 I'll wager none of them is real. The real you, if it even exists, is invisible..."
 Something knotted below my diaphragm. "Who isn't? Who doesn't—try to fit in, who doesn't want to
-get along? There's nothing malicious about that. I'm a synthesist, for God's sake! I never manipulate
+get along? There's nothing ^Page-316
+
+[[Chapter-22#^Page-317]] #Chapter-22 #Page-317
+malicious about that. I'm a synthesist, for God's sake! I never manipulate
 the variables."
 "Well you see, that's the problem. It's not just variables you're manipulating."
 Smoke writhed between us.
@@ -87,7 +95,9 @@ He'd been into Szpindel's archives.
 got a look at the body. What does that have to do with—"
 "Close, though, wasn't it? Same size, same general body plan."
 "So what?"
-"Why didn't you report it?"
+"Why didn't you report it?" ^Page-317
+
+[[Chapter-22#^Page-318]] #Chapter-22 #Page-318
 "I did. Isaac said it was just TMS. From Rorschach."
 "You saw them before Rorschach. Or at least," he continued, "you saw something that scared you into
 blowing your cover, back when you were spying on Isaac and Michelle."
@@ -112,7 +122,9 @@ them. Or at least—" He drew a breath; his cigarette flared like an LED— "par
 collection of unconscious modules working their asses off on your behalf. But they can't show their
 work, can they? You don't have conscious access to those levels. So one part of the brain tries to tell
 another any way it can. Passes notes under the table."
-"Blindsight," I murmered. You just get a feeling of where to reach...
+"Blindsight," I murmered. You just get a feeling of where to reach... ^Page-318
+
+[[Chapter-22#^Page-319]] #Chapter-22 #Page-319
 "More like schizophrenia, except you saw pictures instead of hearing voices. You saw pictures. And
 you still didn't understand."
 I blinked. "But how would I—I mean—"
@@ -138,7 +150,10 @@ James shrugged. "I don't mind talking. Although I'm surprised you're still doing
 I looked around. Not much to see. Faraday mesh coated the inside of the dome like a gray film,
 dimming and graining the view beyond. Ben hung like a black malignancy across half the sky. I could
 make out a dozen dim contrails against vague bands of cloud, in reds so deep they bordered on black.
-The sun winked past James's shoulder, our sun, a bright dot that diffracted into faint splintered
+The sun winked past James's shoulder, our sun, a bright dot that diffracted into faint ^Page-319
+
+[[Chapter-22#^Page-320]] #Chapter-22 #Page-320
+splintered
 rainbows when I moved my head. That was pretty much it: starlight didn't penetrate the mesh, nor did
 the larger, dimmer particles of the accretion belt. The myriad dim pinpoints of shovelnosed machinery
 were lost utterly.
@@ -164,7 +179,10 @@ I couldn't answer the accusation in her voice. "I just—observe," I said weakly
 attacking you."
 "You're saying that wasn't an act? You weren't in on it?" I didn't believe it.
 But I could tell she did.
-"I thought you were trying to protect them." She snorted a soft, humorless laugh at her own mistake
+"I thought you were trying to protect them." She snorted a soft, ^Page-320
+
+[[Chapter-22#^Page-321]] #Chapter-22 #Page-321
+humorless laugh at her own mistake
 and looked away. "I guess I should have known better."
 She should have. She should have known that taking orders is one thing; taking sides would have done
 nothing but compromise my integrity.
@@ -191,7 +209,9 @@ to follow his orders regardless."
 "He's not trying to convince you, Siri."
 Ah.
 I was only a conduit, after all. Sarasti hadn't been making his case to me at all; he'd been making it
-through me, and—
+through me, and— ^Page-321
+
+[[Chapter-22#^Page-322]] #Chapter-22 #Page-322
 —and he was planning for a second round. Why go to such extremes to present a case to Earth, if
 Earth was irrelevant? Sarasti didn't expect the game to end out here. He expected Earth to do
 something in light of his—perspective.
@@ -218,7 +238,9 @@ She stared at Ben's dark smoldering disk. "Well, there's your dream date. There'
 nothing but surfaces. There's no inside to figure out. All the rules are right up front. So go to work,
 Siri Keeton. Make us proud."
 There was no contempt in Sascha's voice, no disdain. There wasn't even anger, not in her voice, not in
-her eyes.
+her eyes. ^Page-322
+
+[[Chapter-22#^Page-323]] #Chapter-22 #Page-323
 There was pleading. There were tears.
 "Imagine you're a scrambler," she whispered again, as they floated like tiny perfect beads before her
 face.
@@ -243,7 +265,9 @@ You decode the signals, and stumble:
 I had a great time. I really enjoyed him. Even if he cost twice as much as any other hooker in the dome
 —
 To fully appreciate Kesey's Quartet—
-They hate us for our freedom—
+They hate us for our freedom— ^Page-323
+
+[[Chapter-22#^Page-324]] #Chapter-22 #Page-324
 Pay attention, now—
 Understand.
 There are no meaningful translations for these terms. They are needlessly recursive. They contain no
@@ -267,7 +291,9 @@ concede a point that even her other selves had accepted. I could see why. Becaus
 scramblers were the norm: evolution across the universe was nothing but the endless proliferation of
 automatic, organized complexity, a vast arid Turing machine full of self-replicating machinery
 forever unaware of its own existence. And we—we were the flukes and the fossils. We were the
-flightless birds lauding our own mastery over some remote island while serpents and carnivores
+flightless birds lauding our own mastery over some remote island while serpents and carnivores ^Page-324
+
+[[Chapter-22#^Page-325]] #Chapter-22 #Page-325
 washed up on our shores. Susan James could not bring herself to concede that point—because Susan
 James, her multiple lives built on the faith that communication resolves all conflict, would then be
 forced to admit the lie. If Sarasti was right, there was no hope of reconciliation.
@@ -291,7 +317,9 @@ This is the best that consciousness can do, when left on its own.
 "It didn't miss the scrambler. You thought you were asking about the things it saw, the things that
 existed on the board. Stretch thought you were asking about—"
 "The things it was aware of," she finished.
-"He's right," I whispered. "Oh God. I think he's right."
+"He's right," I whispered. "Oh God. I think he's right." ^Page-325
+
+[[Chapter-22#^Page-326]] #Chapter-22 #Page-326
 "Hey," James said. "Did you see tha—"
 But I never saw what she was pointing at. Theseus slammed its eyelids shut and started howling.
 *
@@ -313,7 +341,10 @@ contradiction: something had kicked the hab hard from its far side, sent it care
 slow, majestic tumble. Something had opened the hab, spilled its atmosphere and left its elastic skin
 drawing in on itself like a deflating balloon. The impact site swung into view as we watched, a
 scorched flaccid mouth trailing tenuous wisps of frozen spittle.
-Our guns were firing. They shot nonconducting slugs that would not be turned aside by
+Our guns were firing. They shot nonconducting slugs that ^Page-326
+
+[[Chapter-22#^Page-327]] #Chapter-22 #Page-327
+would not be turned aside by
 electromagnetic trickery—invisibly dark and distant to human eyes but I saw them through the
 tactical crosshairs of the firing robots, watched them sew twin dotted blackbodied arcs across the
 heavens. The streams converged as the guns tracked their targets, closed on two attenuate throwing
@@ -338,7 +369,10 @@ Amanda?"
 "How do you—"
 "It can't. If it had spring-loaded any more firepower we'd have seen a change in thermal and
 microallometry." A false-color landscape rotated between us, its latitudes measured in time, its
-longitudes in delta-mass. Kilotons rose from that terrain like a range of red mountains. "Huh. Came in
+longitudes in ^Page-327
+
+[[Chapter-22#^Page-328]] #Chapter-22 #Page-328
+delta-mass. Kilotons rose from that terrain like a range of red mountains. "Huh. Came in
 just under the noise lim—"
 Sarasti cut her off. "Robert. Susan. EVA."
 James blanched. "What?" Cunningham cried.
@@ -364,7 +398,9 @@ Don't interfere.
 The open airlock was like a dimple in the face of an endless cliff. I looked out from that indentation
 into the abyss.
 This side of Theseus faced away from Big Ben, away from the enemy. The view was still unsettling
-enough: an endless panorama of distant stars, hard and cold and unwinking. A single, marginally
+enough: an endless panorama of distant stars, hard and cold and unwinking. A single, marginally ^Page-328
+
+[[Chapter-22#^Page-329]] #Chapter-22 #Page-329
 brighter one, shining yellow, still so very far away. Any scant comfort I might have taken from that
 sight was lost when the sun went out for the briefest instant: a tumbling piece of rock, perhaps. Or one
 of Rorschach's shovelnosed entourage.
@@ -387,7 +423,10 @@ Four point oh. Three point eight—"
 convex hull rolled past, just within reach. "To give you a hand."
 "Let's move it then, shall we?" He was passing through a crevice, a scorched and jagged tear in the
 fabric that folded back at his touch. Struts, broken panels, dead robot arms tangled through the interior
-of the ice cave like glacial debris; their outlines writhed with static, their shadows leaped and
+of the ice cave like glacial debris; their outlines writhed ^Page-329
+
+[[Chapter-22#^Page-330]] #Chapter-22 #Page-330
+with static, their shadows leaped and
 stretched like living things in the sweep of his headlight. "I'm almost—"
 Something that wasn't static moved in his headlight. Something uncoiled, just at the edge of the
 camera's view.
@@ -411,11 +450,13 @@ Two scramblers. Stretch and Clench. Both accounted for, shot to pieces before my
 "Keeton, do you read? Get back here! Acknowledge!"
 "I—it can't be," I heard myself say. "There were only two—"
 "Return to the ship immediately. Acknowledge."
-"I—acknowledged..."
+"I—acknowledged..." ^Page-330
+
+[[Chapter-22#^Page-331]] #Chapter-22 #Page-331
 Rorschach's mouths snapped shut at once, as though holding a deep breath. The artefact began to turn,
 ponderously, a continent changing course. It receded, slowly at first, picking up speed, turning tail and
 running. How odd, I thought. Maybe it's more afraid than we are...
 But then Rorschach blew us a kiss. I saw it burst from deep within the forest, ethereal and
 incandescent. It shot across the heavens and splashed against the small of Theseus' back, making a
 complete and utter fool of Amanda Bates. The skin of our ship flowed there, and opened like a mouth,
-and congealled in a soundless frozen scream.
+and congealled in a soundless frozen scream. ^Page-331

@@ -1,3 +1,4 @@
+[[Chapter-7#^Page-110]] #Chapter-7 #Page-110
 "They know the music but not the words."
 — Hare, Without Conscience
 We did it with mirrors, great round parabolic things, each impossibly thin and three times as high as a
@@ -15,7 +16,10 @@ Mirror icons sparkled around it like an exploding schematic, like the disconnect
 great expanding compound eye. None had brakes. Whatever high ground the mirrors held, they
 wouldn't hold it for long.
 "There," Bates said.
-A mirage wavered stage left, a tiny spot of swirling chaos perhaps half the size of a fingernail held at
+A mirage wavered stage left, a tiny spot of swirling chaos perhaps ^Page-110
+
+[[Chapter-7#^Page-111]] #Chapter-7 #Page-111
+half the size of a fingernail held at
 arms-length. It told us nothing, it was pure heat-shimmer—but light bounced towards us from dozens
 of distant relayers, and while each saw scarcely more than our last probe had— a patch of dark clouds
 set slightly awry by some invisible prism— each of those views refracted differently. The Captain
@@ -39,7 +43,9 @@ snakes and smoky crystal spines.
 "Talk back," Sarasti said, and abandoned us.
 *
 So she did: and while the Gang spoke with the artefact, the others spied upon it. Their vision failed
-over time—mirrors fell away along their respective vectors, lines-of-sight degraded with each passing
+over time—mirrors fell away along their respective vectors, lines-of-sight degraded with each passing ^Page-111
+
+[[Chapter-7#^Page-112]] #Chapter-7 #Page-112
 second—but ConSensus filled with things learned in the meantime. Rorschach massed 1.8.1010 kg
 within a total volume of 2.3.108 cubic meters. Its magnetic field, judging by radio squeals and its
 Plage Effect, was thousands of times stronger than the sun's. Astonishingly, parts of the composite
@@ -61,7 +67,9 @@ The procession never stopped. Rorschach was insatiable.
 It was a strange attractor in the interstellar gulf; the paths along which the rocks fell was precisely and
 utterly chaotic. It was as though some Keplerian Black Belt had set up the whole system like an
 astronomical wind-up toy, kicked everything into motion, and let inertia do the rest.
-"Didn't think that was possible," Bates said.
+"Didn't think that was possible," Bates said. ^Page-112
+
+[[Chapter-7#^Page-113]] #Chapter-7 #Page-113
 Szpindel shrugged. "Hey, chaotic trajectories are just as deterministic as any other kind."
 "That doesn't mean you can even predict them, let along set them up like that." Luminous intel
 reflected off the major's bald head. "You'd have to know the starting conditions of a million different
@@ -85,7 +93,10 @@ Should we render taxes unto Caesar. Beat for beat."
 "Hey, if the Jew fits..."
 Szpindel rolled his eyes.
 That was when I first noticed it: a tiny imperfection on Sascha's topology, a flyspeck of doubt marring
-one of her facets. "We're not getting anywhere," she said. "Let's try a side door." She winked out:
+one of her facets. "We're not ^Page-113
+
+[[Chapter-7#^Page-114]] #Chapter-7 #Page-114
+getting anywhere," she said. "Let's try a side door." She winked out:
 Michelle reopened the outgoing line. "Theseus to Rorschach. Open to requests for information."
 "Cultural exchange," Rorschach said. "That works for me."
 Bates's brow furrowed. "Is that wise?"
@@ -109,7 +120,9 @@ on the trail of something. They still weren't sure what.
 I was.
 "Tell me more about your cousins," Rorschach sent.
 "Our cousins lie about the family tree," Sascha replied, "with nieces and nephews and Neandertals. We
-do not like annoying cousins."
+do not like annoying cousins." ^Page-114
+
+[[Chapter-7#^Page-115]] #Chapter-7 #Page-115
 "We'd like to know about this tree."
 Sascha muted the channel and gave us a look that said Could it be any more obvious? "It couldn't have
 parsed that. There were three linguistic ambiguities in there. It just ignored them."
@@ -133,7 +146,10 @@ Sascha was talking to some alien artefact at the end of a laser beam. She was go
 relationships, both evolutionary and domestic: Neandertal and Cro Magnon and mother's cousins
 twice removed. She'd been doing it for hours now and she had hours yet to go but right now her chatter
 was distracting me. I tried to block her out and concentrate on the half-perceived image teasing my
-memory. I'd seen something there, just a moment ago. One of the conduits had had—yes, too many
+memory. I'd seen something there, just a moment ago. ^Page-115
+
+[[Chapter-7#^Page-116]] #Chapter-7 #Page-116
+One of the conduits had had—yes, too many
 joints on one of the pipes. Something that should have been straight and smooth but was somehow
 articulated instead. But not one of the pipes, I remembered: an extra pipe, an extra something anyway,
 something—
@@ -158,7 +174,9 @@ turned to face us, grinning so widely I thought the top of her head would fall o
 "So what if I am? Doesn't matter to that thing. It doesn't have a clue what I'm saying."
 "What?"
 "It doesn't even have a clue what it's saying back," she added.
-"Wait a minute. You said—Susan said they weren't parrots. They knew the rules."
+"Wait a minute. You said—Susan said they weren't parrots. They knew the rules." ^Page-116
+
+[[Chapter-7#^Page-117]] #Chapter-7 #Page-117
 And there Susan was, melting to the fore: "I did, and they do. But pattern-matching doesn't equal
 comprehension."
 Bates shook her head. "You're saying whatever we're talking to—it's not even intelligent?"
@@ -182,7 +200,10 @@ correctly, that content just—comes along for the ride.
 She shook her head. "Only vaguely. Really old, right?"
 "Hundred years at least. It's a fallacy really, it's an argument that supposedly puts the lie to Turing
 tests. You stick some guy in a closed room. Sheets with strange squiggles come in through a slot in the
-wall. He's got access to this huge database of squiggles just like it, and a bunch of rules to tell him
+wall. He's got access to this huge database of squiggles just ^Page-117
+
+[[Chapter-7#^Page-118]] #Chapter-7 #Page-118
+like it, and a bunch of rules to tell him
 how to put those squiggles together."
 "Grammar," Chelsea said. "Syntax."
 I nodded. "The point is, though, he doesn't have any idea what the squiggles are, or what information
@@ -204,7 +225,9 @@ conversant. But you get the idea."
 pinging the noosphere. You don't actively think about the protocols at all, you just— imagine how your
 targets behave."
 "Mmm." A subtle half-smile played at the corner of her mouth. "But—the argument's not really a
-fallacy then, is it? It's spot-on: you really don't understand Cantonese or German."
+fallacy then, is it? It's spot-on: you really don't understand Cantonese or German." ^Page-118
+
+[[Chapter-7#^Page-119]] #Chapter-7 #Page-119
 "The system understands. The whole Room, with all its parts. The guy who does the scribbling is just
 one component. You wouldn't expect a single neuron in your head to understand English, would you?"
 "Sometimes one's all I can spare." Chelsea shook her head. She wasn't going to let it go. I could see
@@ -226,7 +249,10 @@ arrested just short of birth in anticipation of unforeseen mission requirements.
 briefings the Captain had brought it to parturition, customized for close contact and ground work. It
 burned down the well at high gee a good ten hours before Rorschach's next scheduled appearance,
 inserted itself into the rock stream, and went to sleep. If our calculations were in order, it would not be
-smashed by some errant piece of debris before it woke up again. If all went well, an intelligence that
+smashed by some errant piece of ^Page-119
+
+[[Chapter-7#^Page-120]] #Chapter-7 #Page-120
+debris before it woke up again. If all went well, an intelligence that
 had precisely orchestrated a cast of millions would not notice one extra dancer on the floor. If we were
 just plain lucky, the myriad high-divers that happened to be line-of-sight at the time were not
 programmed as tattletales.
@@ -249,7 +275,9 @@ flickering in and out of view, Ben's flat endless horizon semivisible through th
 translucence. The view trembled; waveforms rippled across ConSensus.
 "Quite the magnetic field," Szpindel remarked.
 "Braking," Bates reported. Jack turned smoothly retrograde and fired its torch. On Tactical, delta-vee
-swung to red.
+swung to red. ^Page-120
+
+[[Chapter-7#^Page-121]] #Chapter-7 #Page-121
 Sascha was driving the Gang's body this shift. "Incoming signal," she reported. "Same format."
 Sarasti clicked. "Pipe it."
 "Rorschach to Theseus. Hello again, Theseus." The voice was female this time, and middle-aged.
@@ -273,7 +301,10 @@ apex, Rorschach and Jack defining the narrow base.
 "Rorschach to Theseus. I seeee you...."
 "She's got a more casual affect than he ever did." Sascha glanced up at Sarasti, and did not add You
 sure about this? She was starting to wonder herself, though. Starting to dwell on the potential
-consequences of being wrong, now that we were committed. As far as sober second thought was
+consequences of being wrong, now that we were committed. As far as ^Page-121
+
+[[Chapter-7#^Page-122]] #Chapter-7 #Page-122
+sober second thought was
 concerned it was too little too late; but for Sascha, that was progress.
 Besides, it had been Sarasti's decision.
 Great hoops were resolving in Rorschach's magnetosphere. Invisible to human eyes, their outlines
@@ -295,7 +326,10 @@ curves and spikes iridesced in ConSensus across any number of on-demand pigment 
 reflectivity, blackbody emissions. Massive electrical bolts erupting from the tips of thorns rendered in
 lemon pastels. User-friendly graphics had turned Rorschach into a cartoon.
 "Rorschach to Theseus. Please respond."
-Theseus growled to stern, fishtailing. On tactical, another just-plotted piece of debris swept by a
+Theseus growled to stern, fishtailing. On tactical, another just- ^Page-122
+
+[[Chapter-7#^Page-123]] #Chapter-7 #Page-123
+plotted piece of debris swept by a
 discreet six thousand meters to port.
 "Rorschach to Theseus. If you are unable to respond, please—holy shit!"
 The cartoon flickered and died.
@@ -319,7 +353,9 @@ strobed.
 "Love to," Bates gritted. "Trying."
 Theseus skidded again, corkscrewing. I could have sworn I heard the bearings in the drum grind for a
 moment. Another rock sailed past on Tactical.
-"I thought you'd plotted those things," Szpindel grumbled.
+"I thought you'd plotted those things," Szpindel grumbled. ^Page-123
+
+[[Chapter-7#^Page-124]] #Chapter-7 #Page-124
 "You want to start a war, Theseus? Is that what you're trying to do? You think you're up for it?"
 "It doesn't attack," Sarasti said.
 "Maybe it does." Bates kept her voice low; I could see the effort it took. "If Rorschach can control the
@@ -342,7 +378,10 @@ Imagine a crown of thorns, twisted, dark and unreflective, grown too thickly tan
 any human head. Put it in orbit around a failed star whose own reflected half-light does little more
 than throw its satellites into silhouette. Occasional bloody highlights glinted like dim embers from its
 twists and crannies; they only emphasized the darkness everywhere else.
-Imagine an artefact that embodies the very notion of torture, something so wrenched and disfigured
+Imagine an artefact that embodies the very notion of torture, ^Page-124
+
+[[Chapter-7#^Page-125]] #Chapter-7 #Page-125
+something so wrenched and disfigured
 that even across uncounted lightyears and unimaginable differences in biology and outlook, you can't
 help but feel that somehow, the structure itself is in pain.
 Now make it the size of a city.
@@ -351,4 +390,4 @@ showed us a strobe-lit hellscape, huge and dark and twisted. The composites had 
 least bit beautiful.
 "Now it's too late," something said from deep inside. "Now every last one of you is dead. And Susan?
 You there, Susan?
-"We're taking you first."
+"We're taking you first." ^Page-125

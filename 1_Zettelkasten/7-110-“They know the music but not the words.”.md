@@ -1,4 +1,5 @@
-#Chapter #Chapter-7 
+
+![[Chapter-7#^Page-110]]
  Robert Hare, Without Conscience (p. 68 of 272) (Watts 110)
 * "That's true, Rorschach," Sascha admitted softly, taking a breath— And stepping forward. "So why don't you just suck my big fat hairy dick?"
 * Rorschach remained invisible to Theseus, close as we were, close as we were coming. But parallax

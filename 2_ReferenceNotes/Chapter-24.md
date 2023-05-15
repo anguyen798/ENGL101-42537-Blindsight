@@ -1,3 +1,4 @@
+[[Chapter-24#^Page-357]] #Chapter-24 #Page-357
 "Species used to go extinct. Now they go on hiatus."
 —Deborah MacLennan, Tables of our Reconstruction
 "You poor guy," Chelsea said as we went our separate ways. "Sometimes I don't think you'll ever be
@@ -14,7 +15,9 @@ those errors accumulate over time, and the journey home takes so much longer tha
 in stasis and corrode. So the onboard kick-starts me every now and then to give my flesh the chance to
 stitch itself back together.
 Occasionally it talks to me, recites system stats, updates me on any chatter from back home. Mostly,
-though, it leaves me alone with my thoughts and the machinery ticking away where my left
+though, it leaves me alone with my thoughts and the machinery ticking away where my left ^Page-357
+
+[[Chapter-24#^Page-358]] #Chapter-24 #Page-358
 hemisphere used to be. So I talk to myself, dictate history and opinion from real hemisphere to
 synthetic one: bright brief moments of awareness, long years of oblivious decay between. Maybe the
 whole exercise is pointless from the start, maybe no one's even listening.
@@ -38,7 +41,10 @@ just my imagination; I thought he even sounded troubled by the news that the bir
 again, which should be cause for celebration after a generation in decline. If my Chinese Room was
 still in proper working order I'd know, I'd be able to parse it down to the punctuation. But Sarasti
 battered my tools and left them barely functional. I'm as blind now as any baseline. All I have is
-uncertainty and suspicion, and the creeping dread that even with my best tricks in tatters, I might be
+uncertainty and suspicion, ^Page-358
+
+[[Chapter-24#^Page-359]] #Chapter-24 #Page-359
+and the creeping dread that even with my best tricks in tatters, I might be
 reading him right.
 I think he's warning me to stay away.
 *
@@ -60,7 +66,9 @@ Or maybe they just got lucky. An accidental hiccough tickles Bates' grunt into f
 scrambler; weeks later, Stretch & Clench use that body in the course of their escape. Electricity and
 magnetism stir random neurons in Susan's head; further down the timeline a whole new persona erupts
 to take control, to send Theseus diving into Rorschach's waiting arms. Blind stupid random chance.
-Maybe that's all it was.
+Maybe that's all it was. ^Page-359
+
+[[Chapter-24#^Page-360]] #Chapter-24 #Page-360
 But I don't think so. Too many lucky coincidences. I think Rorschach made its own luck, planted and
 watered that new persona right under our noses, safely hidden—but for the merest trace of elevated
 oxytocin— behind all the lesions and tumors sewn in Susan's head. I think it looked ahead and saw the
@@ -84,7 +92,10 @@ Because by then, there won't be any basis for conflict.
 I've been listening to the radio during these intermittent awakenings. It's been generations since we
 buried the Broadcast Age in tightbeams and fiberop, but we never completely stopped sowing EM
 throughout the heavens. Earth, Mars, and Luna conduct their interplanetary trialog in a million
-overlapping voices. Every ship cruising the void speaks in all directions at once. The O'Neils and the
+overlapping voices. Every ship ^Page-360
+
+[[Chapter-24#^Page-361]] #Chapter-24 #Page-361
+cruising the void speaks in all directions at once. The O'Neils and the
 asteroids never stopped singing. The Fireflies might never have found us if they had.
 I've heard those songs changing over time, a fast-forward time-lapse into oblivion. Now it's mostly
 traffic control and telemetry. Every now and then I still hear a burst of pure voice, tight with tension,
@@ -107,7 +118,9 @@ humanized me. I'll always owe him for that, for however long I live; and for how
 never stop hating him for the same reason. In some sick surrealistic way I had more in common with
 Sarasti than I did with any human.
 But I just don't have it in me. He was a predator and I was prey, and it's not in the nature of the lamb to
-mourn the lion. Though he died for our sins, I cannot miss Jukka Sarasti.
+mourn the lion. Though he died for our sins, I cannot miss Jukka Sarasti. ^Page-361
+
+[[Chapter-24#^Page-362]] #Chapter-24 #Page-362
 I can empathize with him, though. At long long last I can empathise, with Sarasti, with all his extinct
 kind. Because we humans were never meant to inherit the Earth. Vampires were. They must have been
 sentient to some degree, but that semi-aware dream state would have been a rudimentary thing next to
@@ -127,4 +140,4 @@ sentient being in the universe.
 If I'm even that much. Because I don't know if there is such a thing as a reliable narrator. And
 Cunningham said zombies would be pretty good at faking it.
 So I can't really tell you, one way or the other.
-You'll just have to imagine you're Siri Keeton.
+You'll just have to imagine you're Siri Keeton. ^Page-362

@@ -1,3 +1,4 @@
+[[Chapter-20#^Page-294]] #Chapter-20 #Page-294
 "Ye shall know the truth, and the truth shall make you mad."
 —Aldous Huxley
 They'd hoped, by now, to have banished sleep forever.
@@ -14,7 +15,9 @@ promoted to long-term ones, free radicals swept from their hiding places among t
 only reduced the need for sleep, not eliminated it—and that incompressible residue of downtime
 seemed barely able to contain the dreams and phantoms left behind. They squirmed in my head like
 creatures in a draining tidal pool.
-I woke.
+I woke. ^Page-294
+
+[[Chapter-20#^Page-295]] #Chapter-20 #Page-295
 I was alone, weightless, in the center of my tent. I could have sworn something had tapped me on the
 back. Leftover hallucination, I thought. A lingering aftereffect of the haunted mansion, going for one
 last bit of gooseflesh en route to extinction.
@@ -39,7 +42,9 @@ The open hatch gaped like a cave in the face of a cliff. The pale blue light fro
 seem to reach inside. Sarasti was barely more than a silhouette, black on gray, his bright bloody eyes
 reflecting catlike in the surrounding gloom.
 "Come." He amped up the shorter wavelengths in deference to human vision. The interior of the
-bubble brightened, although the light remained slightly red-shifted. Like Rorschach with high beams.
+bubble brightened, although the light remained slightly red-shifted. Like Rorschach with high beams. ^Page-295
+
+[[Chapter-20#^Page-296]] #Chapter-20 #Page-296
 I floated into Sarasti's parlor. His face, normally paper-white, was so flushed it looked sunburned. He
 gorged himself, I couldn't help thinking. He drank deep. But all that blood was his own. Usually he
 kept it deep in the flesh, favoring the vital organs. Vampires were efficient that way. They only
@@ -62,7 +67,10 @@ adjoining cells, rendered in splitscreen. Cryptic vitals defaced little grids be
 The distortion distracted me. I looked for a corrected feed in ConSensus, came up empty. Sarasti read
 my expression: "Closed circuit."
 By now the scramblers would have seemed sick and ragged even to a virgin audience. They floated
-near the middle of their respective compartments, segmented arms drifting aimlessly back and forth.
+near the middle of their respective compartments, segmented arms drifting aimlessly back and ^Page-296
+
+[[Chapter-20#^Page-297]] #Chapter-20 #Page-297
+forth.
 Membranous patches of—skin, I suppose—were peeling from the cuticles, giving them a fuzzy,
 decomposing aspect.
 "The arms move continuously," Sarasti remarked. "Robert says it assists in circulation."
@@ -89,7 +97,9 @@ Scramblers were anaerobes.
 Sarasti muted the alarm with a wave of his hand.
 I cleared my throat: "You're poisoning—"
 "Watch. Performance is consistent. No change."
-I swallowed. Just observe.
+I swallowed. Just observe. ^Page-297
+
+[[Chapter-20#^Page-298]] #Chapter-20 #Page-298
 "Is this an execution?" I asked. "Is this a, a mercy killing?"
 Sarasti looked past me, and smiled. "No."
 I dropped my eyes. "What, then?"
@@ -114,7 +124,9 @@ The vampire came after me, his face split into something that would have been a 
 miss the other."
 I flailed. Crimson mist stung my eyes.
 "So much more aware, so much less perceptive. An automaton could do better."
-He's snapped, I thought. He's insane. And then No, he's a transient. He's always been a transient—
+He's snapped, I thought. He's insane. And then No, he's a transient. He's always been a transient— ^Page-298
+
+[[Chapter-20#^Page-299]] #Chapter-20 #Page-299
 "They could do better," he said softly.
 —and he's been hiding for days. Deep down. Hiding from the seals.
 What else would he do?
@@ -139,7 +151,10 @@ that were made out of meat, things that moved all by themselves. Some of them we
 pieces of cloth. Strange nonsensical sounds came from holes at their top ends, and there were other
 things up there, bumps and ridges and something like marbles or black buttons, wet and shiny and
 embedded in the slabs of meat. They glistened and jiggled and moved as if trying to escape.
-I didn't understand the sounds the meat was making, but I heard a voice from somewhere. It was like
+I didn't understand the sounds the meat was making, but I ^Page-299
+
+[[Chapter-20#^Page-300]] #Chapter-20 #Page-300
+heard a voice from somewhere. It was like
 God talking, and that I couldn't help but understand.
 "Get out of your room, Keeton," it hissed. "Stop transposing or interpolating or rotating or whatever it
 is you do. Just listen. For once in your goddamned life, understand something. Understand that your
@@ -161,7 +176,10 @@ and it sees the hand move, and it thinks that one drove the other.
 But it's not in charge. You're not in charge. If free will even exists, it doesn't share living space with
 the likes of you.
 Insight, then. Wisdom. The quest for knowledge, the derivation of theorems, science and technology
-and all those exclusively human pursuits that must surely rest on a conscious foundation. Maybe that's
+and all those exclusively ^Page-300
+
+[[Chapter-20#^Page-301]] #Chapter-20 #Page-301
+human pursuits that must surely rest on a conscious foundation. Maybe that's
 what sentience would be for— if scientific breakthroughs didn't spring fully-formed from the
 subconscious mind, manifest themselves in dreams, as full-blown insights after a deep night's sleep.
 It's the most basic rule of the stymied researcher: stop thinking about the problem. Do something else.
@@ -181,7 +199,10 @@ sentience? You're Stone-age nomads, eking out some marginal existence on the vel
 the possibility of agriculture, because hunting and gathering was good enough for your parents.
 Do you want to know what consciousness is for? Do you want to know the only real purpose it serves?
 Training wheels. You can't see both aspects of the Necker Cube at once, so it lets you focus on one and
-dismiss the other. That's a pretty half-assed way to parse reality. You're always better off looking at
+dismiss the other. That's a pretty half-assed way to parse ^Page-301
+
+[[Chapter-20#^Page-302]] #Chapter-20 #Page-302
+reality. You're always better off looking at
 more than one side of anything. Go on, try. Defocus. It's the next logical step.
 Oh, but you can't. There's something in the way.
 And it's fighting back.
@@ -203,11 +224,14 @@ does its best. It sees the danger, hijacks the body, reacts a hundred times fast
 sitting in the CEO's office upstairs; but every generation it gets harder to work around this— this
 creaking neurological bureaucracy.
 I wastes energy and processing power, self-obsesses to the point of psychosis. Scramblers have no
-need of it, scramblers are more parsimonious. With simpler biochemistries, with smaller brains—
+need of it, scramblers ^Page-302
+
+[[Chapter-20#^Page-303]] #Chapter-20 #Page-303
+are more parsimonious. With simpler biochemistries, with smaller brains—
 deprived of tools, of their ship, even of parts of their own metabolism—they think rings around you.
 They hide their language in plain sight, even when you know what they're saying. They turn your own
 cognition against itself. They travel between the stars. This is what intelligence can do, unhampered
 by self-awareness.
 I is not the working mind, you see. For Amanda Bates to say "I do not exist" would be nonsense; but
 when the processes beneath say the same thing, they are merely reporting that the parasites have died.
-They are only saying that they are free.
+They are only saying that they are free. ^Page-303

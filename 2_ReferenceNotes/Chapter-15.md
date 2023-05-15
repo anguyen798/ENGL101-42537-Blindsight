@@ -1,3 +1,4 @@
+[[Chapter-15#^Page-228]] #Chapter-15 #Page-228
 "Problems cannot be solved at the same level of awareness that created them"
 —Einstein
 Robert Paglino had set me up with Chelsea in the first place. Maybe he felt responsible when the
@@ -16,7 +17,9 @@ reading him. Maybe we just knew each other too well.
 "Nothing to spill. She just got to know the real me."
 "That is bad."
 "What'd she tell you?"
-"Me? Nothing at all."
+"Me? Nothing at all." ^Page-228
+
+[[Chapter-15#^Page-229]] #Chapter-15 #Page-229
 I gave him a look over the top of my glass.
 He sighed. "She knows you're cheating on her."
 "I'm what?"
@@ -42,7 +45,10 @@ interest when she went through my drawers and filtered my mail and followed me f
 asking the drapes and the furniture why I was always so sullen and withdrawn. She'd taken such an
 interest that she wouldn't let me out the door until I confided in her. At twelve I'd been stupid enough
 to throw myself on her mercy, It's personal, Mom. I'd just rather not talk about it. Then I'd made my
-escape into the bathroom when she demanded to know if it was trouble online, trouble at school, was it
+escape into the bathroom when she ^Page-229
+
+[[Chapter-15#^Page-230]] #Chapter-15 #Page-230
+demanded to know if it was trouble online, trouble at school, was it
 a girl, was it a—a boy, what was it and why couldn't I just trust my own mother, don't I know I can
 trust her with anything? I waited out the persistent knocking and the insistent concerned voice through
 the door and the final, grudging silence that followed. I waited until I was absolutely sure she'd gone
@@ -66,7 +72,9 @@ Whatever hybrids and the constructs I work with, they don't—"
 "You knew Chelse was an old-fashioned girl right off the top."
 "Yeah, when it suits her." I gulped ale. "But she's cutting-edge when she's got a splicer in her hand.
 Which isn't to say that her strategies couldn't use some work."
-"Strategies."
+"Strategies." ^Page-230
+
+[[Chapter-15#^Page-231]] #Chapter-15 #Page-231
 It's not a strategy, for God's sake! Can't you see I'm hurting? I'm on the fucking floor, Siri, I'm curled
 up in a ball because I'm hurting so much and all you can do is criticize my tactics? What do I have to
 do, slash my goddamn wrists?
@@ -92,7 +100,9 @@ She wants all that stuff to be true. And—well, why can't it be?"
 "It isn't," I said.
 "Jesus, Siri. People aren't rational. You aren't rational. We're not thinking machines, we're—we're
 feeling machines that happen to think." He took a breath, and another hit. "And you already know that,
-or you couldn't do your job. Or at least—" He grimaced— "the system knows."
+or you couldn't do your job. Or at least—" He grimaced— "the system knows." ^Page-231
+
+[[Chapter-15#^Page-232]] #Chapter-15 #Page-232
 "The system."
 Me and my protocols, he meant. My Chinese Room.
 I took a breath. "It doesn't work with everyone, you know."
@@ -116,7 +126,10 @@ of them said they felt pithed. Disembodied. They'd send a motor signal to the ha
 take it on faith that it arrived. So they'd use vision to compensate; they couldn't feel where the hand
 was so they'd look at it while it moved, use sight as a substitute for the normal force-feedback you and
 I take for granted. They could walk, if they kept their eyes focused on their legs and concentrated on
-every step. They'd get pretty good at it. But even after years of practice, if you distracted them in mid-
+every step. They'd get pretty good at it. But even ^Page-232
+
+[[Chapter-15#^Page-233]] #Chapter-15 #Page-233
+after years of practice, if you distracted them in mid-
 step they'd go over like a beanstalk without a counterweight."
 "You're saying I'm like that?"
 "You use your Chinese room the way they used vision. You've reinvented empathy, almost from
@@ -142,7 +155,9 @@ He held out his glass. Dutifully, I clinked it against my own. We drank.
 "I don't remember him," I said after a while.
 "What, the other Siri? Pre-Pod Siri?"
 I nodded.
-"Nothing at all?"
+"Nothing at all?" ^Page-233
+
+[[Chapter-15#^Page-234]] #Chapter-15 #Page-234
 I thought back. "Well, he was wracked by convulsions all the time, right? There'd be constant pain. I
 don't remember any pain." My glass was almost empty; I sipped to make it last. "I—I dream about
 him sometimes, though. About— being him."
@@ -157,4 +172,4 @@ more."
 Fuck it I thought, and tipped back the last of my pint in a single gulp. "I know."
 "How?"
 I frowned, taken aback. I had to think for a few moments before I remembered.
-"I wake up smiling," I said.
+"I wake up smiling," I said. ^Page-234

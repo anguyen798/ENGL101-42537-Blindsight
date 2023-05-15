@@ -1,3 +1,4 @@
+[[Chapter-13#^Page-198]] #Chapter-13 #Page-198
 "You have eyes, but you do not see"
 —Jesus the Nazorean
 I don't know how to feel about this, I thought. He was a good man. He was decent, he was kind to me,
@@ -15,7 +16,10 @@ He coughed, began fumbling a body condom over the corpse. "Sarasti wants everyon
 tickled the back of my throat.
 "Decontaminate later." One long pull of a zipper and Szpindel was gone, engulfed in an oily gray
 shroud. "You—" he turned in my direction, pointed at the scorched holes in my jumpsuit. "With me."
-Robert Cunningham. Another prototype. Dark-haired, hollow-cheeked, a jaw you could use as a ruler.
+Robert Cunningham. Another prototype. Dark-haired, hollow ^Page-198
+
+[[Chapter-13#^Page-199]] #Chapter-13 #Page-199
+-cheeked, a jaw you could use as a ruler.
 Both smoother and harsher than the man he had replaced. Where Szpindel had ticced and jerked as if
 static-charged, Cunningham's face held all the expression of a wax dummy's. The wetware that ran
 those muscles had been press-ganged into other pursuits. Even the tremors that afflicted the rest of his
@@ -36,7 +40,10 @@ the stilled deck that served as our infirmary; I floated over and strapped mysel
 past a waist-high guard rail that had risen from the deck, the rest of the drum rolled smoothly past. It
 slung Bates and the Gang and Sarasti around like weights on a string.
 I tapped ConSensus to hear them. James was speaking, quietly and without expression. "I noticed a
-new pattern in the form-constants. Something in the grating. It looked like a signal. It got stronger as I
+new pattern in the form-constants. ^Page-199
+
+[[Chapter-13#^Page-200]] #Chapter-13 #Page-200
+Something in the grating. It looked like a signal. It got stronger as I
 went down the tunnel, I followed it, I blacked out. I don't remember anything more until we were on
 our way back. Michelle filled me in, as much as she could. That's all I know. I'm sorry."
 A hundred degrees away in the no-gee zone, Cunningham maneuvered his predecessor into a coffin
@@ -58,7 +65,10 @@ bother, when dementia could so easily explain anything we experienced?
 "Don't know anything," I still wasn't used to the maleness of the voice now emanating from James's
 throat. Cruncher was a workaholic. He hardly ever surfaced in mixed company.
 "You're there," Sarasti reminded him. "You must remember some—"
-"Mom sent me patterns to parse. I was working on them. I'm still working on them," he added
+"Mom sent me patterns to parse. I was working on them. I'm still ^Page-200
+
+[[Chapter-13#^Page-201]] #Chapter-13 #Page-201
+working on them," he added
 pointedly. "I didn't notice anything. Is that all?"
 I'd never been able to get a good read on him. Sometimes Cruncher seemed to have more in common
 with the dozens of nonconscious modules working in James's head than with sentient hubs comprising
@@ -83,7 +93,9 @@ over..."
 "Not really. I felt it going dark, but when I turned around we were already trapped. And then I felt
 something behind me, it wasn't loud or harsh it just sort of bumped, and it grabbed me, and—and—
 "I'm sorry," she said after a moment. "I'm a bit—woozy..."
-Sarasti waited.
+Sarasti waited. ^Page-201
+
+[[Chapter-13#^Page-202]] #Chapter-13 #Page-202
 "Isaac," Michelle whispered. "He..."
 "Yes." A pause. "We're very sorry about that."
 "Maybe—can he be fixed?"
@@ -107,7 +119,9 @@ trust our senses."
 "Trust Michelle's," Sarasti said. He opened a window as I grew heavier: a grunt's-eye view of a fuzzy,
 bright blob weaving behind the translucent waxed-paper fibers of the skinned septum. James's
 headlight, from the wrong side of the barrier. The image wobbled a bit as the drone staggered through
-some local pocket of magnetism, then replayed. Wobbled, replayed. A six-second loop.
+some local pocket of magnetism, then replayed. Wobbled, replayed. A six-second loop. ^Page-202
+
+[[Chapter-13#^Page-203]] #Chapter-13 #Page-203
 "See something next to the Gang."
 Non-vampires saw no such thing. Sarasti froze the image, evidently realizing as much. "Diffraction
 patterns aren't consistent with a single light source in open space. I see dimmer elements, reflective
@@ -132,7 +146,10 @@ own right, conversing in grunts and gestures that would be meaningless to any ba
 much that the bleeding edge lacks social skills; it's just that once you get past a certain point, formal
 speech is too damn slow.
 Except for Susan James. The walking contradiction, the woman so devoted to Communication As
-Unifier that she'd cut her own brain into disunified chunks to make the point. She was the only one
+Unifier that she'd cut her own brain ^Page-203
+
+[[Chapter-13#^Page-204]] #Chapter-13 #Page-204
+into disunified chunks to make the point. She was the only one
 who ever seemed to care who she was talking to. The others spoke only for themselves, even when
 they spoke to each other. Even James's other cores would speak their own minds in their own way, and
 let everyone else translate as best they could. It wasn't a problem. Everyone on Theseus could read
@@ -153,7 +170,9 @@ would have let us grit our teeth and keep on going, besieged now by spring-loade
 the usual gauntlet of Seiverts and magnets and monsters from the id. But Bates had made an issue out
 of it. It wasn't just another piece of shit in the sewer to her: it was the one that clogged the pipe.
 We're on the brink as it is, just surviving the baseline environment of this thing. If it's started taking
-deliberate countermeasures...I don't see how we can risk it.
+deliberate countermeasures...I don't see how we can risk it. ^Page-204
+
+[[Chapter-13#^Page-205]] #Chapter-13 #Page-205
 Fourteen minutes to apogee, and Amanda Bates was still regretting those words.
 On previous expeditions we'd charted twenty-six septa in various stages of development. We'd x-rayed
 them. We'd done ultrasound. We'd watched them ooze their way across passages or ebb slowly back
@@ -177,7 +196,9 @@ Rorschach's wrenched and twisted anatomy to keep rock-steady eyes on the tiny wo
 its side. Our limpet tent covered it like a blister; inside, Jack fed us a second, first-person view of the
 unfolding experiment.
 Sir. We know Rorschach is inhabited. Do we want to risk further provoking the inhabitants? Do we
-want to risk killing them?
+want to risk killing them? ^Page-205
+
+[[Chapter-13#^Page-206]] #Chapter-13 #Page-206
 Sarasti hadn't quite looked at her, and hadn't quite spoken. If he had, he might have said I do not
 understand how meat like you survived to adulthood.
 Eleven minutes to apogee, and Amanda Bates was lamenting the fact—not for the first time— that
@@ -200,7 +221,9 @@ I had no idea how I knew that. I never did.
 Nine minutes to apogee
 Barely a molecule of Rorschach's atmosphere had been lost on our account. That was all about to
 change. Our view of base camp split like a dividing bacterium: one window now focused on the limpet
-tent, the other on a wide-angle tactical enhance of the space around it.
+tent, the other on a wide-angle tactical enhance of the space around it. ^Page-206
+
+[[Chapter-13#^Page-207]] #Chapter-13 #Page-207
 Eight minutes to apogee. Sarasti pulled the plug.
 Down on Rorschach, our tent burst like a bug beneath a boot. A geyser erupted from the wound; a
 snowstorm swirled at its edges, its charged curlicues intricate as lace. Atmosphere gushed into
@@ -226,9 +249,12 @@ No bodies. None visible, anyway.
 Sudden motion at base camp. At first I thought it was static on Jack's feed, playing along lines of high
 contrast—but no, something was definitely moving along the edges of the hole we'd burned.
 Something almost wriggled there, a thousand gray mycelia extruding from the cut surface and
-writhing slowly into the darkness. "It's—huh," Bates said. "Triggered by the pressure drop, I guess.
+writhing slowly into the darkness. ^Page-207
+
+[[Chapter-13#^Page-208]] #Chapter-13 #Page-208
+"It's—huh," Bates said. "Triggered by the pressure drop, I guess.
 That's one way to seal a breach."
 Two weeks after we'd wounded it, Rorschach had begun to heal itself.
 Apogee behind us now. All downhill from here. Theseus began the long drop back into enemy
 territory.
-"Doesn't use septa," Sarasti said.
+"Doesn't use septa," Sarasti said. ^Page-208

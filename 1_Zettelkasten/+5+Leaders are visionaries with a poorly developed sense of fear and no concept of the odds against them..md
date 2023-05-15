@@ -1,6 +1,6 @@
 #Chapter #Chapter-5
-—Robert Jarvik (p. 41 of 272) (Watts 73)
 
+![[Chapter-5#^Page-73]]
 * [[The Book of Oogenesis]]
 
 

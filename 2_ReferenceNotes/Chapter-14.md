@@ -1,3 +1,4 @@
+[[Chapter-14#^Page-209]] #Chapter-14 #Page-209
 "My genes done gone and tricked my brain
 By making fucking feel so great
 That's how the little creeps attain
@@ -21,7 +22,10 @@ competing desires, the endless foreplay that wears your tongue to the root and l
 and glistening—just kinks, today. Options for the masochistic.
 But there were no options with Chelsea. With her, everything came standard.
 I indulged her. I guess I was no more patient with her perversions than she was with my ineptitude at
-them. Other things made it worth the effort. Chelsea would argue about anything under the sun, wry
+them. Other things made ^Page-209
+
+[[Chapter-14#^Page-210]] #Chapter-14 #Page-210
+it worth the effort. Chelsea would argue about anything under the sun, wry
 and insightful and curious as a cat. She would pounce without warning. Retired to the redundant
 majority, she still took such simple joy in the very act of being alive. She was impulsive and
 impetuous. She cared about people. Pag. Me. She wanted to know me. She wanted in.
@@ -43,7 +47,9 @@ now on her shoulder.
 I looked at the imperfect skin around them, at the capillaries wriggling across the whites. I felt a
 distant bemusement that such flawed, decaying organs were still able to hypnotize me on occasion.
 "Now," Chelsea said. "What do you mean by that?"
-I shrugged. "You keep pretending this is a partnership. We both know it's a competition."
+I shrugged. "You keep pretending this is a partnership. We both know it's a competition." ^Page-210
+
+[[Chapter-14#^Page-211]] #Chapter-14 #Page-211
 "A competition."
 "You're trying to manipulate me into playing by your rules."
 "What rules?"
@@ -67,7 +73,10 @@ wired that deeply. It just feels right, it feels natural. It's nature's trick."
 I sat up next to her, let my shoulder brush hers. She leaned away.
 "I know this stuff," I said after a while. "I know how people work. It's my job."
 It was hers too, for that matter. Nobody who spliced brains for a living could possibly be unaware of
-all that basic wiring in the sub-basement. Chelsea had simply chosen to ignore it; to have admitted
+all that basic wiring in the ^Page-211
+
+[[Chapter-14#^Page-212]] #Chapter-14 #Page-212
+sub-basement. Chelsea had simply chosen to ignore it; to have admitted
 anything would have compromised her righteous anger.
 I could have pointed that out too, I suppose, but I knew how much stress the system could take and I
 wasn't ready to test it to destruction. I didn't want to lose her. I didn't want to lose that feeling of
@@ -88,7 +97,10 @@ Sarasti's logic. Vampire logic. We could follow it partway: the colossal deforma
 Rorschach's breach was so much slower, so much more expensive than the dropgate that had trapped
 the Gang. The fact that dropgates hadn't been used implied that they took time to deploy—to
 redistribute necessary mass, perhaps, or spring-load its reflexes. That gave us a window. We could
-still venture into the den so long as the lions couldn't predict our destination and set traps in advance.
+still venture into the den so long as the lions couldn't predict our ^Page-212
+
+[[Chapter-14#^Page-213]] #Chapter-14 #Page-213
+destination and set traps in advance.
 So long as we got out again before they could set them afterwards.
 "Thirty-seven minutes," Sarasti had said, and none of us could fathom how he'd come to that number.
 Only Bates had dared to ask aloud, and he had merely glinted at her: "You can't follow."
@@ -109,7 +121,10 @@ I'd never seen it with naked eyes before. I felt like an insect on a starry midw
 through the aftermath of a forest fire.
 The sled fired its brakes. I snapped back against the webbing of my harness, bumped against the
 rebounding armored body next to me. Sascha. Only Sascha, I remembered. Cunningham had sedated
-the rest of them, left this one core lonely and alone in the group body. I hadn't even realized that that
+the rest of them, left this one core lonely and alone in the ^Page-213
+
+[[Chapter-14#^Page-214]] #Chapter-14 #Page-214
+group body. I hadn't even realized that that
 was possible with multiple personalities. She stared back at me from behind her faceplate. None of her
 surfaces showed through the suit. I could see nothing in her eyes.
 That was happening so often, these days.
@@ -130,7 +145,10 @@ rosette. Bates was up next, leaping free of her restraints and sailing directly 
 Sascha and I unloaded the fiberop hub—a clamshell drum half a meter thick and three times as wide—
 lugging it between us while one of the grunts slipped through the vestibule's membranous airlock.
 "Let's move, people." Bates was hanging off one of the inflatable's handholds. "Thirty minutes to—"
-She fell silent. I didn't have to ask why: the advance grunt had positioned itself over the newly-blasted
+She fell silent. I didn't have to ask why: the advance grunt had ^Page-214
+
+[[Chapter-14#^Page-215]] #Chapter-14 #Page-215
+positioned itself over the newly-blasted
 entrance and sent back its first postcard.
 Light from below.
 *
@@ -152,7 +170,9 @@ further along. Squinting in that direction I could just make out subterranean ou
 I could just make out jawed things, pulling back out of sight.
 "Let's go," Bates said.
 We plugged in the grunts, left one guarding the way out. Each of us took another as a guardian angel
-on point. The machines spoke to our HUDs via laser link; they spoke to each other along stiffened
+on point. The machines spoke to our HUDs via laser link; they spoke to each other along stiffened ^Page-215
+
+[[Chapter-14#^Page-216]] #Chapter-14 #Page-216
 lengths of shielded fiberop that unspooled from the hub trailing in our wake. It was the best available
 compromise in an environment without any optima. Our tethered bodyguards would keep us all in
 touch during lone excursions around corners or down dead ends.
@@ -175,7 +195,9 @@ Each tunnel curved away in a gradual spiral, each along a different orientation.
 around those bends a few meters further than we could. Neither eyes nor ultrasonics saw anything to
 distinguish one choice from another.
 Bates pointed down one of the passageways—"Keeton—" and another— "Sascha," before turning to
-coast off down her own unbeaten path.
+coast off down her own unbeaten path. ^Page-216
+
+[[Chapter-14#^Page-217]] #Chapter-14 #Page-217
 I looked uneasily down mine. "Any particular—"
 "Twenty-five minutes," she said.
 I turned and jetted slowly down my assigned passageway. The passage curved clockwise, a long
@@ -199,7 +221,9 @@ hovered near the center of my faceplate, floating like a spot of swirling dizzin
 HUD. I gritted my teeth and tried to look past, stared into the dim bloody haze of the middle distance,
 watched the jerky unfolding travelogues in the little windows labeled Bates and James. Nothing out
 there. But in here, floating before my eyes, Rorschach's latest headfuck smeared a fuzzy thumbprint
-right in front of the sonar feed.
+right in front of the sonar feed. ^Page-217
+
+[[Chapter-14#^Page-218]] #Chapter-14 #Page-218
 "New symptom," I called in. "Nonperipheral hallucination, stable, pretty formless though. No spiking
 that I can—"
 The inset marked Bates skidded hard about. "Keet—"
@@ -224,7 +248,9 @@ it. "Yes! What—"
 "Keep absolutely still, do you understand? Absolutely still. Acknowledge."
 "Acknowledged." The drone kept me in its shaky sights, dark stereocam irises spasming wide,
 stuttering to pinpoints. "Wha—"
-"There's something in front of you, Keeton. Directly between you and the grunt. Can't you see it?"
+"There's something in front of you, Keeton. Directly between you and the grunt. Can't you see it?" ^Page-218
+
+[[Chapter-14#^Page-219]] #Chapter-14 #Page-219
 "N-no. My HUD's down—"
 Sascha broke in: "How can he not see it it's right th—"
 Bates barked over her: "It's man-sized, radially symmetrical, eight, nine arms. Like tentacles, but—
@@ -246,7 +272,9 @@ uncertainty, nothing but a collapsed probability wave and solid, undeniable mass
 the nearest wall and scrambled over our heads, segmented arms flailing like whips. A sudden
 crackling buzz in the back of my head and it was drifting free again, charred and smoking.
 A stuttering click. The whine of machinery gearing down. Three grunts hovered in formation in the
-middle of the passageway. One faced the alien. I glimpsed the tip of some lethal proboscis sliding
+middle of the passageway. One faced the alien. I glimpsed the tip of some lethal proboscis sliding ^Page-219
+
+[[Chapter-14#^Page-220]] #Chapter-14 #Page-220
 back into its sheath. Bates shut the grunt down before it had finished closing its mouth.
 Optical links and three sets of lungs filled my helmet with a roar of heavy breathing.
 The offlined grunt drifted in the murky air. The alien carcass bumped gently off the wall, twitching: a
@@ -267,7 +295,9 @@ Sometimes. Sort of.
 And, oh yeah. We'd just killed one.
 *
 Bates threw the deactivated grunt into the sky as soon as we'd made vacuum. Its comrades used it for
-target practice while we strapped in, firing and firing until there was nothing left but cooling vapor.
+target practice while we strapped in, firing and firing until there was nothing left but cooling vapor. ^Page-220
+
+[[Chapter-14#^Page-221]] #Chapter-14 #Page-221
 Rorschach spun even that faint plasma into filigree before it faded.
 Halfway back to Theseus, Sascha turned to the Major: "You—"
 "No."
@@ -292,7 +322,10 @@ Random."
 "Random is—"
 "Give it a rest, Cunningham. I don't need this shit from you right now."
 His eyes rolled in that smooth dead face, focused suddenly on something overhead. I followed his
-gaze: Sarasti stared down at us like an owl panning for meadow voles, drifting slowly in the Coriolis
+gaze: Sarasti stared down at us ^Page-221
+
+[[Chapter-14#^Page-222]] #Chapter-14 #Page-222
+like an owl panning for meadow voles, drifting slowly in the Coriolis
 breeze.
 No visor this time, either. I knew he hadn't lost it.
 He fixed Cunningham. "Your findings."
@@ -315,7 +348,9 @@ The light came back into Cunningham's eyes long enough to focus on his cigarette
 his mouth, dragged deeply, set it down again. "Note the invaginations around the base of each arm."
 Flaccid balloons glowed orange on the virtual carcass. "Cloacae, you could call them. Everything
 opens into them: they eat, breathe, and defecate through the same little compartment. No other major
-orifices."
+orifices." ^Page-222
+
+[[Chapter-14#^Page-223]] #Chapter-14 #Page-223
 The Gang made a face that said Sascha, grossed out. "Don't things get—clogged up? Seems
 inefficient."
 "If one gets plugged, there's eight other doors into the same system. You'll wish you were so
@@ -340,7 +375,10 @@ or chromatophores, or both. There are setae everywhere. And as far as I can tell
 cooked filaments I've been able to put back together after your malfunction really are nerves and not
 something completely different—every one of those structures is under independent control."
 Bates sat up straight. "Seriously?"
-He nodded. "It would be akin to independently controlling the movement of each individual hair on
+He nodded. "It would be akin to independently controlling the ^Page-223
+
+[[Chapter-14#^Page-224]] #Chapter-14 #Page-224
+movement of each individual hair on
 your head, although this creature is covered with little hairs from tip to tip. The same thing applies to
 the eyes. Hundreds of thousands of eyes, all over the cuticle. Each one is barely more than a pinhole
 camera, but each is capable of independent focus and I'm guessing all the different inputs integrate
@@ -363,7 +401,10 @@ thing."
 "Another hallucination?" I asked.
 Another shrug while Cunningham sucked smoke. "There are many ways to fool the human visual
 system. It's interesting that the illusion failed when multiple witnesses were present, but if you want a
-definitive mechanism you'll have to give me more to work with than that." He stabbed his cigarette
+definitive mechanism you'll have to give me more to work ^Page-224
+
+[[Chapter-14#^Page-225]] #Chapter-14 #Page-225
+with than that." He stabbed his cigarette
 hand at the crisped remains.
 "But—" James took a breath, bracing herself— "We're talking about something... sophisticated, at
 least. Something very complex. A great deal of processing power."
@@ -386,7 +427,10 @@ then add in the processing power you need to drive those chromatophores one at a
 might do all that, but I strongly doubt you'd have much left over for philosophy and science." He
 waved his hand in the general direction of the hold. "That—that—"
 "Scrambler," James suggested.
-Cunningham rolled his tongue around it. "Very well. That scrambler is an absolute miracle of
+Cunningham rolled his tongue around it. "Very well. That ^Page-225
+
+[[Chapter-14#^Page-226]] #Chapter-14 #Page-226
+scrambler is an absolute miracle of
 evolutionary engineering. It's also dumb as a stick."
 A moment's silence.
 "So what is it?" James asked at last. "Somebody's pet?"
@@ -411,6 +455,9 @@ universe, biochemical basics should always take priority over the finer points o
 etiquette. But Bates and the Gang were time-lagged, processing earlier revelations. Not just
 processing, either: wallowing. They clung to Cunningham's findings like convicted felons who'd just
 discovered they might be freed on a technicality.
-Because the scrambler was dead at our hands, no doubt about it. But it wasn't an alien, not really. It
-wasn't intelligent. It was just a blood cell with waldoes. It was dumb as a stick.
-And property damage is so much easier to live with than murder.
+Because the scrambler was dead at our hands, no doubt about ^Page-226
+
+[[Chapter-14#^Page-227]] #Chapter-14 #Page-227
+it. But it wasn't an alien, not really. It
+wasn't intelligent. It was just a blood cell with waldoes. It was dumb as a stick. 
+And property damage is so much easier to live with than murder. ^Page-227

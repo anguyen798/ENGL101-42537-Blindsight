@@ -1,3 +1,4 @@
+[[Chapter-10#^Page-154]] #Chapter-10 #Page-154
 "The Lord will take control of you. You will dance and shout and become a different person."
 —1 Samuel 10:6
 "We were probably fractured during most of our evolution," James once told me, back when we were
@@ -15,7 +16,9 @@ enough. If it happened early in childhood."
 "Well, in theory," James admitted, and changed into Sascha who said, "Bull shit in theory. There's
 documented cases as recently as fifty years ago."
 "Really." I resisted the temptation to look it up on my inlays; the unfocused eyes can be a giveaway. "I
-didn't know."
+didn't know." ^Page-154
+
+[[Chapter-10#^Page-155]] #Chapter-10 #Page-155
 "Well it's not like anyone talks about it now. People were fucking barbarians about multicores back
 then—called it a disorder, treated it like some kind of disease. And their idea of a cure was to keep
 one of the cores and murder all the others. Not that they called it murder, of course. They called it
@@ -36,7 +39,10 @@ self in the desperate hope that the vengeful gods called Mom or Dad might not be
 None of it had been real, as it turned out. Or at least, none of it had been confirmed. The experts of the
 day had been little more than witch doctors dancing through improvised rituals: meandering free-form
 interviews full of leading questions and nonverbal cues, scavenger hunts through regurgitated
-childhoods. Sometimes a shot of lithium or haloperidol when the beads and rattles didn't work. The
+childhoods. Sometimes a shot of lithium or haloperidol when the beads and rattles didn't ^Page-155
+
+[[Chapter-10#^Page-156]] #Chapter-10 #Page-156
+work. The
 technology to map minds was barely off the ground; the technology to edit them was years away. So
 t h e therapists and psychiatrists poked at their victims and invented names for things they didn't
 understand, and argued over the shrines of Freud and Klein and the old Astrologers. Doing their very
@@ -61,7 +67,10 @@ As far as Earth was concerned, everyone on Theseus was an alter.
 *
 Sarasti stayed behind. He hadn't come with a backup.
 There were the rest of us, though, crammed into the shuttle, embedded in custom spacesuits so padded
-with shielding we might have been deep-sea divers from a previous century. It was a fine balance; too
+with shielding we might ^Page-156
+
+[[Chapter-10#^Page-157]] #Chapter-10 #Page-157
+have been deep-sea divers from a previous century. It was a fine balance; too
 much shielding would have been worse than none at all, would split primary particles into secondary
 ones, just as lethal and twice as numerous. Sometimes you had to live with moderate exposure; the
 only alternative was to embed yourself like a bug in lead.
@@ -85,7 +94,9 @@ What kind of creatures would choose to live in such a place?
 James' shrug was all but lost under the armor. "Maybe not at first. We may have gotten off on the
 wrong foot, we might have to sort through all kinds of misunderstandings. But we'll figure each other
 out eventually."
-Evidently she thought that had answered my question.
+Evidently she thought that had answered my question. ^Page-157
+
+[[Chapter-10#^Page-158]] #Chapter-10 #Page-158
 The shuttle slewed; we bumped against each other like tenpins. Thirty seconds of micromaneuvers
 brought us to a solid stop. A cheery animation played across the HUD in greens and blues: the shuttle's
 docking seal, easing through the membrane that served as our entrance into Rorschach's inflatable
@@ -110,7 +121,10 @@ cavescape in systematic increments. Down in the lower left-hand corner of each i
 and Teslas ran down the clock.
 You give up a lot when you don't trust the EM spectrum.
 "Looks good," Bates reported. "Going in."
-In a friendlier universe machines would have cruised the boulevard, sending perfect images in crystal
+In a friendlier universe machines would have cruised the boulevard, ^Page-158
+
+[[Chapter-10#^Page-159]] #Chapter-10 #Page-159
+sending perfect images in crystal
 resolution. Szpindel and the Gang would be sipping coffee back in the drum, telling the grunts to take
 a sample of this or get a close-up of that. In a friendlier universe, I wouldn't even be here.
 Bates appeared in the next postcard, emerging from the fistula. In the next her back was to the camera,
@@ -135,7 +149,10 @@ Even when the walls didn't move, they did: always at the corner of the eye, that
 motion. Always at the back of the mind the sense of being watched, the dread certainty of malign and
 alien observers just out of sight. More than once I turned, expecting to catch one of those phantoms in
 the open. All I ever saw was a half-blind grunt floating down the passageway, or a wide-eyed and
-jittery crewmate returning my stare. And the walls of some glistening black lava tube with a hundred
+jittery crewmate returning my stare. And the walls of ^Page-159
+
+[[Chapter-10#^Page-160]] #Chapter-10 #Page-160
+some glistening black lava tube with a hundred
 embedded eyes, all snapped shut just the instant before. Our lights pushed the darkness back perhaps
 twenty meters in either direction; beyond, mist and shadows seethed. And the sounds—Rorschach
 creaked around us like some ancient wooden hull trapped in pack ice. Electricity hissed like
@@ -156,7 +173,9 @@ throughout the ages that they were being haunted by ghosts, abducted by aliens, 
 I was installing the Faraday bell. Trying to. It should have been simple enough; I'd already run the
 main anchor line down from the vestibule to the flaccid sack floating in the middle of the passageway.
 I was—that's right, something about a spring line. To, to keep the bell centered. The wall glistened in
-my headlamp like wet clay. Satanic runes sparkled in my imagination.
+my headlamp like wet clay. Satanic runes sparkled in my imagination. ^Page-160
+
+[[Chapter-10#^Page-161]] #Chapter-10 #Page-161
 I jammed the spring line's pad against the wall. I could have sworn the substrate flinched. I fired my
 thrust pistol, retreated back to the center of the passage.
 "They're here," James whispered.
@@ -182,7 +201,9 @@ tapping me on the shoulder.
 "No!" Szpindel floated helplessly in the passage, his pistol bouncing against its wrist tether. "No,
 throw me something."
 "What?"
-It's all in your head. It's all in your—
+It's all in your head. It's all in your— ^Page-161
+
+[[Chapter-10#^Page-162]] #Chapter-10 #Page-162
 "Throw something! Anything!"
 Bates hesitated. "You said you were bli—"
 "Just do it!"
@@ -207,7 +228,9 @@ I looked back. Susan James' body tumbled slowly in the tunnel, grasping its righ
 it. He was trying to pull it off.
 Something laughed hysterically, right inside my helmet.
 "Take his arm," Bates told me, taking his right one, trying to pry the fingers from their death grip on
-the Gang's leg. "Cruncher, let go. Now."
+the Gang's leg. "Cruncher, let go. Now." ^Page-162
+
+[[Chapter-10#^Page-163]] #Chapter-10 #Page-163
 "Get it off me!"
 "It's your leg, Cruncher." We wrestled our way towards the diving bell.
 "It's not my leg! Just look at it, how could it—it's dead. It's stuck to me..."
@@ -230,7 +253,9 @@ She sealed us in.
 *
 It wasn't the first time, not for me. I'd had invisible fingers poking through my brain before, stirring
 up the muck, ripping open the scabs. It was far more intense when Rorschach did it to me, but Chelsea
-was more—
+was more— ^Page-163
+
+[[Chapter-10#^Page-164]] #Chapter-10 #Page-164
 —precise, I guess you'd say.
 Macramé, she called it: glial jumpstarts, cascade effects, the splice and dice of critical ganglia. While
 I trafficked in the reading of Human architecture, Chelsea changed it—finding the critical nodes and
@@ -255,7 +280,10 @@ I thought about that. "Maybe it does."
 But she wouldn't let it go, and even the strongest anti-happiness argument was bound to be an uphill
 proposition; so one afternoon Chelsea fished around in her cupboards and dredged up a hair-net
 studded with greasy gray washers. The net was a superconducting spiderweb, fine as mist, that mapped
-the fields of merest thought. The washers were ceramic magnets that bathed the brain in fields of their
+the fields of merest thought. ^Page-164
+
+[[Chapter-10#^Page-165]] #Chapter-10 #Page-165
+The washers were ceramic magnets that bathed the brain in fields of their
 own. Chelsea's inlays linked to a base station that played with the interference patterns between the
 two.
 "They used to need a machine the size of a bathroom just to house the magnets." She laid me back on
@@ -279,7 +307,9 @@ that's not to say your memories aren't true, okay? They're an honest reflection 
 world, and every one of them went into shaping how you see it. But they're not photographs. More like
 impressionist paintings. Okay?"
 "Okay."
-"Ah," she said. "There's something."
+"Ah," she said. "There's something." ^Page-165
+
+[[Chapter-10#^Page-166]] #Chapter-10 #Page-166
 "What?"
 "Functional cluster. Getting a lot of low-level use but not enough to intrude into conscious awareness.
 Let's just see what happens when we—"
@@ -302,7 +332,9 @@ you missed it! Do you think he can recover from that without help? Is that more 
 love shining through? Why not just deny him food and water while you're at it!"
 "If mu-ops were called for they'd have been prescribed."
 I felt my face scrunching at the unfamiliar word. Something small and white beckoned from the open
-garbage pail.
+garbage pail. ^Page-166
+
+[[Chapter-10#^Page-167]] #Chapter-10 #Page-167
 "Jim, be reasonable. He's so distant, he barely even talks to me."
 "They said it would take time."
 "But two years! There's nothing wrong with helping nature along a little, we're not even talking black
@@ -326,7 +358,9 @@ My father had Helen by the throat.
 think you know that."
 And then she saw me. And then he did. And my father took his hand from around my mother's neck,
 and his face was utterly unreadable.
-But there was no mistaking the triumph on hers.
+But there was no mistaking the triumph on hers. ^Page-167
+
+[[Chapter-10#^Page-168]] #Chapter-10 #Page-168
 *
 I was up off the couch, the skullcap clenched in one hand. Chelsea stood wide-eyed before me, the
 butterfly still as death on her cheekbone.
@@ -350,4 +384,4 @@ to drop out at any moment. Somehow, when I was with Chelsea, I mattered.
 I wanted her to hold me forever.
 "I don't think so," I said.
 "No?" She blinked, looked up at me. "Why ever not?"
-I shrugged. "You know what they say about people who don't remember the past."
+I shrugged. "You know what they say about people who don't remember the past." ^Page-168

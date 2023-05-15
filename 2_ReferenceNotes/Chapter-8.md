@@ -1,3 +1,4 @@
+[[Chapter-8#^Page-126]] #Chapter-8 #Page-126
 "Life's too short for chess."
 — Byron
 They never sealed the hatch behind them. It was too easy to get lost up there in the dome, naked
@@ -16,7 +17,9 @@ them, remember?"
 what it was saying."
 "It's rule-based, Isaac. It was following some kind of flowchart it drew up by observing Human
 languages in action. And somehow those rules told it to respond with threats of violence."
-"But if it doesn't even know what it was saying—"
+"But if it doesn't even know what it was saying—" ^Page-126
+
+[[Chapter-8#^Page-127]] #Chapter-8 #Page-127
 "It doesn't. It can't. We parsed the phrasing nineteen different ways, tried out conceptual units of every
 different length..." A long, deep breath. "But it attacked the probe, Isaac."
 "Jack just got too close to one of those electrode thingies is all. It just arced."
@@ -41,7 +44,9 @@ hopelessly outmatched."
 "Still. There's always a way to win."
 "If I said that, you'd call it wishful thinking."
 "If you said that, it would be. But I'm saying it, so it's game theory."
-"Game theory again. Jesus, Isaac."
+"Game theory again. Jesus, Isaac." ^Page-127
+
+[[Chapter-8#^Page-128]] #Chapter-8 #Page-128
 "No, listen. You're thinking about the aliens like they were some kind of mammal. Something that
 cares, something that looks after its investments."
 "How do you know they aren't?"
@@ -64,7 +69,10 @@ Michelle snorted. "That's your game theory? Rock Paper Scissors with statistics?
 Maybe Szpindel didn't know the reference. He didn't speak, long enough to call up a subtitle; then he
 brayed like a horse. "Rock Paper Scissors! Yes!"
 Michelle digested that for a moment. "You're sweet for trying, but that only works if the other side is
-just blindly playing the odds, and they don't have to do that if they know who they're going up against
+just blindly playing the odds, ^Page-128
+
+[[Chapter-8#^Page-129]] #Chapter-8 #Page-129
+and they don't have to do that if they know who they're going up against
 in advance. And my dear, they have so very much information about us..."
 They'd threatened Susan. By name.
 "They don't know everything," Szpindel insisted. "And the principle works for any scenario involving
@@ -89,7 +97,9 @@ Neither could Szpindel: "Sorry?"
 "How soon, do you think?"
 "No idea. But I don't think it's the kind of thing that's gonna slip by unnoticed. And that's why I don't
 think it attacked us."
-She must have looked a question.
+She must have looked a question. ^Page-129
+
+[[Chapter-8#^Page-130]] #Chapter-8 #Page-130
 "Because when it does, it won't be some debatable candy-ass bitch slap," he told her. "When that
 fucker rises up, we're gonna know."
 A sudden flicker from behind. I spun in the cramped passageway and bit down on a cry: something
@@ -113,7 +123,10 @@ heavens and collected stereoscopic data from a thousand simultaneous perspective
 Patchwork insights assembled in the drum. Rorschach's skin was sixty percent superconducting carbon
 nanotube. Rorschach's guts were largely hollow; at least some of those hollows appeared to contain an
 atmosphere. No earthly form of life would have lasted a second in there, though; intricate
-topographies of radiation and electromagnetic force seethed around the structure, seethed within it. In
+topographies of radiation and electromagnetic ^Page-130
+
+[[Chapter-8#^Page-131]] #Chapter-8 #Page-131
+force seethed around the structure, seethed within it. In
 some places the radiation was intense enough to turn unshielded flesh to ash in an instant; calmer
 backwaters would merely kill in the same span of time. Charged particles raced around invisible
 racetracks at relativistic speeds, erupting from jagged openings, hugging curves of magnetic force
@@ -135,7 +148,9 @@ So far, Rorschach was holding its fire.
 *
 "It sounded to me like it knew what it was saying," I remarked.
 "I guess that's the whole point," Bates said. She had no one to confide in, partook of no intimate
-dialogs that could be overheard. With her, I used the direct approach.
+dialogs that could be overheard. With her, I used the direct approach. ^Page-131
+
+[[Chapter-8#^Page-132]] #Chapter-8 #Page-132
 Theseus was birthing a litter, two by two. They were nasty-looking things, armored, squashed egg-
 shapes, twice the size of a human torso and studded with gardening implements: antennae, optical
 ports, retractable threadsaws. Weapons muzzles.
@@ -158,7 +173,9 @@ stopped talking to us.
 "So, do you buy it?" I asked. "Pattern-matching, empty threats? Nothing to worry about?"
 "Nobody's fired on us yet," she said. Meaning: Not for a second.
 "What's your take on Susan's argument? Different niches, no reason for conflict?"
-"Makes sense, I guess." Utter bullshit.
+"Makes sense, I guess." Utter bullshit. ^Page-132
+
+[[Chapter-8#^Page-133]] #Chapter-8 #Page-133
 "Can you think of any reason why something with such different needs would attack us?"
 "That depends," she said, "on whether the fact that we are different is reason enough."
 I saw playground battlefields reflected in her topology. I remembered my own, and wondered if there
@@ -183,7 +200,9 @@ anyway."
 for him, all that intellect coexisting with so much instinctive aggression. Making sure the right part
 wins."
 She wondered in that instant whether Sarasti might be listening in. She decided in the next that it
-didn't matter: why should he care what the cattle thought, as long as they did what they were told?
+didn't matter: why should he care what the cattle thought, as long as they did what they were told? ^Page-133
+
+[[Chapter-8#^Page-134]] #Chapter-8 #Page-134
 All she said was, "I thought you jargonauts weren't supposed to have opinions."
 "That wasn't mine."
 Bates paused. Returned to her inspection.
@@ -209,7 +228,9 @@ send Siri Keeton to tell them what we really mean.
 "Do you."
 "It's not about trust, Major. It's about location. Nobody gets a good view of a system from the inside,
 no matter who they are. The view's distorted."
-"And yours isn't."
+"And yours isn't." ^Page-134
+
+[[Chapter-8#^Page-135]] #Chapter-8 #Page-135
 "I'm outside the system."
 "You're interacting with me now."
 "As an observer only. Perfection's unattainable but it isn't unapproachable, you know? I don't play a
@@ -234,7 +255,9 @@ Theseus chimed. Sarasti spoke in its wake: "Orbital insertion in fifteen minutes
 in five."
 "Well," Bates said, sending one last grunt on its way. "Here we go." She pushed off and sailed up the
 spine.
-The newborn killing machines clicked at me. They smelled like new cars.
+The newborn killing machines clicked at me. They smelled like new cars. ^Page-135
+
+[[Chapter-8#^Page-136]] #Chapter-8 #Page-136
 "By the way," Bates called over her shoulder, "you missed the obvious one."
 "Sorry?"
 She spun a hundred-eighty degrees at the end of the passageway, landed like an acrobat beside the
@@ -257,7 +280,10 @@ only for passing prey or redline lactate levels. Bears and chipmunks cut costs b
 impoverished winter months, and lungfish—Devonian black belts in the art of estivation—could curl
 up and die for years, waiting for the rains.
 With vampires it was a little different. It wasn't shortness of breath, or metabolic overdrive, or some
-blanket of snow that locked the pantry every winter. The problem wasn't so much a lack of prey as a
+blanket of snow that locked the pantry every winter. The problem wasn't so much a lack of prey ^Page-136
+
+[[Chapter-8#^Page-137]] #Chapter-8 #Page-137
+as a
 lack of difference from it; vampires were such a recent split from the ancestral baseline that the
 reproductive rates hadn't diverged. This was no woodland-variety lynx-hare dynamic, where prey
 outnumbered predators a hundred to one. Vampires fed on things that bred barely faster than they did.
@@ -281,7 +307,9 @@ Our final orbit combined discretion and valor in equal measure.
 Rorschach described a perfect equatorial circle 87,900 km from Big Ben's center of gravity. Sarasti
 was unwilling to let it out of sight, and you didn't have to be a vampire to mistrust relay sats when
 swinging through a radiation-soaked blizzard of rock and machinery. The obvious alternative was to
-match orbits.
+match orbits. ^Page-137
+
+[[Chapter-8#^Page-138]] #Chapter-8 #Page-138
 At the same time, all the debate over whether or not Rorschach had meant—or even understood—the
 threats it had made was a bit beside the point. Counterintrusion measures were a distinct possibility
 either way, and ongoing proximity only increased the risk. So Sarasti had derived some optimum
@@ -304,7 +332,10 @@ mesh, and the strata of flaking carbon separating them.
 We burned through.
 The lasers shut down instantly. Within seconds Rorschach's intestinal gases had blown taut the skin of
 the tent. Black carbon smoke swirled and danced in sudden thick atmosphere.
-Nothing shot back at us. Nothing reacted. Partial pressures piled up on ConSensus: methane,
+Nothing shot back at us. Nothing reacted. Partial pressures ^Page-138
+
+[[Chapter-8#^Page-139]] #Chapter-8 #Page-139
+piled up on ConSensus: methane,
 ammonia, hydrogen. Lots of water vapor, freezing as fast as it registered.
 Szpindel grunted. "Reducing atmosphere. Pre-Snowball." He sounded disappointed.
 "Maybe it's a work in progress," James suggested. "Like the structure itself."
@@ -322,4 +353,4 @@ appeared to be a dense pastry of carbon-fiber leaves. Some of the gaps between t
 barely thick as fingernails; others looked wide enough to stack bodies.
 "Ladies and gentlemen," Szpindel said softly, "The Devil's Baklava."
 I could have sworn I saw something move. I could have sworn it looked familiar.
-The camera died.
+The camera died. ^Page-139

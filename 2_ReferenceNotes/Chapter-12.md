@@ -1,3 +1,4 @@
+[[Chapter-12#^Page-188]] #Chapter-12 #Page-188
 "If you can see it, chances are it doesn't exist."
 —Kate Keogh, Grounds for Suicide
 Five times we did it. Over five consecutive orbits we threw ourselves between the monster's jaws, let
@@ -13,7 +14,10 @@ down the hall; fortunately other hands brought me home, and voices that claimed 
 made the whole thing up. Twice Amanda Bates found God, saw the fucker right there in front of her,
 knew beyond any shadow of a doubt that the creator not only existed but spoke to her, and her alone.
 Both times she lost her faith once we got her into the bell, but it was touch and go for a while; her
-warrior drones, drunk on power but still under line-of-sight control, staggered from their perimeters
+warrior drones, drunk on power but still under line-of-sight ^Page-188
+
+[[Chapter-12#^Page-189]] #Chapter-12 #Page-189
+control, staggered from their perimeters
 and pointed their weapons along bearings too close for comfort.
 The grunts died fast. Some barely lasted a single foray; a few died in minutes. The longest-lived were
 the slowest on the draw, half-blind, thick-witted, every command and response bottlenecked by raw
@@ -36,7 +40,10 @@ We did it anyway. It was that or go home.
 The work proceeded in infinitesimal increments, hamstrung on every front. The Gang wasn't finding
 any evidence of signage or speech to decipher, but the gross mechanics of this thing were easy enough
 to observe. Sometimes Rorschach partitioned itself, extruded ridges around its passageways like the
-cartilaginous hoops encircling a human trachea. Over hours some of them might develop into
+cartilaginous ^Page-189
+
+[[Chapter-12#^Page-190]] #Chapter-12 #Page-190
+hoops encircling a human trachea. Over hours some of them might develop into
 contracting irises, into complete septa, lazy as warm candle wax. We seemed to be witnessing the
 growth of the structure in discrete segments. Rorschach grew mainly from the tips of its thorns; we'd
 made our incursion hundreds of meters from the nearest, but evidently the process extended at least
@@ -58,7 +65,9 @@ My nonsights accumulated on schedule and piled up in Theseus's transmission stac
 was too much local interference to get a signal through to Earth.
 *
 Szpindel was right: the ghosts followed us back. We began to hear voices other than Sarasti's,
-whispering up the spine. Sometimes even the brightly-lit wraparound world of the drum would warp
+whispering up the spine. Sometimes even the brightly-lit wraparound world of the drum would warp ^Page-190
+
+[[Chapter-12#^Page-191]] #Chapter-12 #Page-191
 and jiggle from the corner of my eye—and more than once I saw boney headless phantoms with too
 many arms, nested in the scaffolding. They seemed solid enough from the corner of my eye but any
 spot I focused on faded to shadow, to a dark translucent stain against the background. They were so
@@ -79,7 +88,10 @@ lobe. I heard voices ranting in the brains of schizophrenics. I found cortical i
 people to reject their own limbs, imagined the magnetic fields that must have acted in their stead
 when Cruncher tried to dismember himself. And off in some half-forgotten pesthole of Twentieth-
 century case studies—filed under Cotard's Syndrome —I found Amanda Bates and others of her kind,
-their brains torqued into denial of the very self. "I used to have a heart," one of them said listlessly
+their brains torqued into denial of the very self. "I used to ^Page-191
+
+[[Chapter-12#^Page-192]] #Chapter-12 #Page-192
+have a heart," one of them said listlessly
 from the archives. "Now I have something that beats in its place." Another demanded to be buried,
 because his corpse was already stinking.
 There was more, a whole catalog of finely-tuned dysfunctions that Rorschach had not yet inflicted on
@@ -101,7 +113,10 @@ clumsiness. The lights, unexpectedly turned off by some other party. A colorful 
 the window, distracting attention from the obstacle ahead. I can see perfectly well, thank you. Nothing
 wrong with my eyes.
 Gauges in the head, Szpindel had called them. But there were other things in there too. There was a
-model of the world, and we didn't look outward at all; our conscious selves saw only the simulation in
+model of the world, and we didn't look outward at all; our conscious selves saw only the simulation ^Page-192
+
+[[Chapter-12#^Page-193]] #Chapter-12 #Page-193
+in
 our heads, an interpretation of reality, endlessly refreshed by input from the senses. What happens
 when those senses go dark, but the model—thrown off-kilter by some trauma or tumor—fails to
 refresh? How long do we stare in at that obsolete rendering, recycling and massaging the same old
@@ -123,7 +138,9 @@ On the sixth orbit it acted.
 Around us Rorschach's guts oozed and crawled at the corner of my eye; it still took effort to ignore the
 illusion. Foreign words scrabbled like small animals below my brainstem as I tried to focus on a ring
 of finger-sized protrusions that picketed a patch of wall.
-"It's not talking," Szpindel said from across the artery. "You're hallucinating again."
+"It's not talking," Szpindel said from across the artery. "You're hallucinating again." ^Page-193
+
+[[Chapter-12#^Page-194]] #Chapter-12 #Page-194
 Bates said nothing. Two grunts hovered in the middle of the space, panning across three axes.
 "It's different this time," James insisted. "The geometry—it's not so symmetrical. Looks almost like
 the Phaistos disk." She spun slowly, pointed down the passage: "I think it's stronger down here..."
@@ -144,7 +161,9 @@ their touch like burning paper, black oily smoke writhing from its crisping edge
 Sudden brightness, everywhere. A riot of fractured light flooded the artery, a thousand shifting angles
 of incidence and reflection. It was like being trapped in the belly of a kaleidoscope, pointed at the sun.
 Light—
-—and needle-sharp pain in my side, in my left arm. The smell of charred meat. A scream, cut off.
+—and needle-sharp pain in my side, in my left arm. The smell of charred meat. A scream, cut off. ^Page-194
+
+[[Chapter-12#^Page-195]] #Chapter-12 #Page-195
 Susan? You there, Susan?
 We're taking you first.
 Around me, the light died; inside me, a swarm of floaters mixed it up with the chronic half-visions
@@ -170,7 +189,10 @@ Barring brain damage. "No."
 The whine of drills and shredders stopped; the ambience brightened. I looked away from Szpindel's
 remains. The grunts had cut a hole in the septum's fibrous underlayer. One of them nosed its way
 through to the other side.
-A new sound rose into the mix, a soft animal keening, haunted and dissonant. For a moment I thought
+A new sound rose into the mix, a soft animal keening, haunted ^Page-195
+
+[[Chapter-12#^Page-196]] #Chapter-12 #Page-196
+and dissonant. For a moment I thought
 Rorschach was whispering to us again; its walls seemed to contract slightly around me.
 "James?" Bates snapped. "James!"
 Not James. A little girl in a woman's body in an armored spacesuit, scared out of her wits.
@@ -193,10 +215,13 @@ Isaac Szpindel hadn't made the semifinals after all.
 *
 Susan James came back to us on the way up. Isaac Szpindel did not.
 We stripped wordlessly in the decon balloon. Bates, first out of her suit, reached for Szpindel but the
-Gang stopped her with a hand and a headshake. Personae segued one into another as they stripped the
+Gang stopped her with a hand and a headshake. Personae segued one into another as ^Page-196
+
+[[Chapter-12#^Page-197]] #Chapter-12 #Page-197
+they stripped the
 body. Susan removed helmet and backpack and breastplate. Cruncher peeled away the silvery leaded
 skin from collar to toe. Sascha stripped the jumpsuit and left the pale flesh naked and exposed. Except
 for the gloves. They left his feedback gloves in place; their fingertips forever tactile, the flesh inside
 forever numb. Through it all, Szpindel stared unblinking beneath the hole in his forehead. His glazed
 eyes focused on distant quasars.
-I expected Michelle to appear in her turn and close them, but she never did.
+I expected Michelle to appear in her turn and close them, but she never did. ^Page-197

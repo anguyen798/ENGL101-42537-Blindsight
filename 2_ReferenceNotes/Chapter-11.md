@@ -1,3 +1,4 @@
+[[Chapter-11#^Page-169]] #Chapter-11 #Page-169
 "Predators run for their dinner. Prey run for their lives."
 —Old Ecologist's Proverb
 We were blind and helpless, jammed into a fragile bubble behind enemy lines. But finally the
@@ -15,7 +16,9 @@ eh?"
 "Define crazy."
 The Gang floated quietly, cheek-to-jowl behind Szpindel in the cramped enclosure. Cruncher had
 stopped obsessing about the leg as soon as we'd sealed up. Or maybe he'd simply been overridden; I
-thought I saw facets of Susan in the twitching of those thick gloved fingers.
+thought I saw facets of Susan in the twitching of those thick gloved fingers. ^Page-169
+
+[[Chapter-11#^Page-170]] #Chapter-11 #Page-170
 Szpindel's breath echoed second-hand over the link. "If Bates is dead, then so are we."
 "Maybe not. We wait out the spike, we get out of here. Besides," I added, "she wasn't dead. She only
 said she was."
@@ -42,7 +45,9 @@ Not from anyone in the tent, that voice. It had shivered down Szpindel's arm, ba
 rest of the data. From outside.
 "Major Mandy!" Szpindel exclaimed. "You're alive!"
 "....no..." A whisper like white noise.
-"Well you're talking to us, so you sure as shit ain't dead."
+"Well you're talking to us, so you sure as shit ain't dead." ^Page-170
+
+[[Chapter-11#^Page-171]] #Chapter-11 #Page-171
 "No..."
 Szpindel and I exchanged looks. "What's the problem, Major?"
 Silence. The Gang bumped gently against the wall behind us, all facets opaque.
@@ -70,7 +75,9 @@ Here in the belly of the beast, it was so easy to believe.
 "Yes."
 The tent breathed around us.
 "Then how can you speak?" Susan asked the voice. "If you don't exist, what are we talking to?"
-"Something...else." A sigh. A breath of static. "Not me."
+"Something...else." A sigh. A breath of static. "Not me." ^Page-171
+
+[[Chapter-11#^Page-172]] #Chapter-11 #Page-172
 "Shit," Szpindel muttered. His surfaces brightened with resolve and sudden insight. He pulled his hand
 from the wall; my HUD thinned instantly. "Her brain's frying. We gotta get her inside." He reached for
 the release.
@@ -96,7 +103,9 @@ about —extreme effects— until another spike hits."
 "Good."
 "Which could be any time."
 "We weren't hallucinating," James said quietly.
-"We can discuss it later," Bates said. "Now—"
+"We can discuss it later," Bates said. "Now—" ^Page-172
+
+[[Chapter-11#^Page-173]] #Chapter-11 #Page-173
 "There was a pattern there," James insisted. "In the fields. In my head. Rorschach was talking. Maybe
 not to us, but it was talking."
 "Good." Bates pushed herself back to let us pass. "Maybe now we can finally learn to talk back."
@@ -119,7 +128,10 @@ following two days. Then the body would pretend to recover; for perhaps a week w
 pain and have no future. We would walk and talk and move like any living thing, and perhaps
 convince ourselves that we were immortal after all.
 Then we would collapse into ourselves, rotted from the inside out. We would bleed from our eyes and
-mouths and assholes, and if any God was merciful we would die before splitting open like rotten fruit.
+mouths and assholes, and ^Page-173
+
+[[Chapter-11#^Page-174]] #Chapter-11 #Page-174
+if any God was merciful we would die before splitting open like rotten fruit.
 But of course Theseus, our redeemer, would save us from such a fate. We filed from the shuttle into a
 great balloon that Sarasti had erected to capture our personal effects; we shed our contaminated space
 suits and clothing and emerged naked into the spine. We passed single-file through the drum, the
@@ -139,7 +151,9 @@ Something like an arm. Grey and glistening, far too— too attenuate to be human
 Too many joints, a limb broken in a dozen places. It extended from a body barely visible over the lip
 of the pod, a suggestion of dark bulk and other limbs in disjoint motion. It hovered motionless before
 me, as if startled in the midst of some shameful act.
-By the time I had breath enough to cry out, it had whipped back out of sight.
+By the time I had breath enough to cry out, it had whipped back out of sight. ^Page-174
+
+[[Chapter-11#^Page-175]] #Chapter-11 #Page-175
 I erupted from the pod, eyes everywhere. Now they saw nothing: an empty crypt, a naked note-taker.
 The mirrored bulkhead reflected vacant pods to either side. I called up ConSensus: all systems
 nominal.
@@ -165,7 +179,10 @@ shivered in residual thrall to fight-flight. I tried to distract it by tapping t
 No. Couldn't have been.
 Szpindel cleared his throat. "Try this one."
 The feed showed what she saw: a small black triangle on a white background. In the next instant it
-shattered into a dozen identical copies, and a dozen dozen. The proliferating brood rotated around the
+shattered into a dozen identical ^Page-175
+
+[[Chapter-11#^Page-176]] #Chapter-11 #Page-176
+copies, and a dozen dozen. The proliferating brood rotated around the
 center screen, geometric primitives ballroom-dancing in precise formation, each sprouting smaller
 triangles from its tips, fractalizing, rotating, evolving into an infinite, intricate tilework...
 A sketchpad, I realized. An interactive eyewitness reconstruction, without the verbiage. Susan's own
@@ -188,7 +205,9 @@ pentagrams, a spiderweb of fish scales.
 "It's an artefact of deep brain structure. Even congenitally blind people see them sometimes."
 "None of us have seen them before. Ever."
 "I believe you. But there's no information there, eh? That wasn't Rorschach talking, it was just—
-interference. Like everything else."
+interference. Like everything else." ^Page-176
+
+[[Chapter-11#^Page-177]] #Chapter-11 #Page-177
 "But it was so vivid! Not that flickering corner-of-your-eye stuff we saw everywhere. This was solid.
 It was realer than real."
 "That's how you can tell it wasn't. Since you don't actually see it, there's no messy eyeball optics to
@@ -212,7 +231,9 @@ For all I knew, my blood results actually did taste good to the man. Szpindel di
 felt them, smelled and saw and experienced each datum like drops of citrus on the tongue. The whole
 BioMed subdrum was but a part of the Szpindel prosthesis: an extended body with dozens of different
 sensory modes, forced to talk to a brain that knew only five.
-No wonder he'd bonded with Michelle. He was almost synesthesiac himself.
+No wonder he'd bonded with Michelle. He was almost synesthesiac himself. ^Page-177
+
+[[Chapter-11#^Page-178]] #Chapter-11 #Page-178
 "You spent a bit longer in there than the rest of us," he remarked.
 "That's significant?"
 A jerking shrug. "Maybe your organs got a bit more cooked than ours. Maybe you just got a delicate
@@ -239,7 +260,9 @@ Szpindel nodded. "Get used to it."
 take a while to come unstuck. You never got a TAT? Well-adjusted boy like you?"
 "Once or twice," I said. "Maybe."
 "Same principle."
-"So I'm going to keep seeing this stuff."
+"So I'm going to keep seeing this stuff." ^Page-178
+
+[[Chapter-11#^Page-179]] #Chapter-11 #Page-179
 "Party line is they fade over time. Week or two you're back to normal. But out here, with that thing..."
 He shrugged. "Too many variables. Not the least of which is, I assume we'll keep going back until
 Sarasti says otherwise."
@@ -264,7 +287,9 @@ floating around up there."
 "Probably." Szpindel seemed almost amused. "Couldn't hurt to check for leakage in the shielding,
 though. Just in case. Not like we need something else making us see things, eh?"
 I shook my head at remembered nightmares. "How are the others?"
-"Gang's fine, if a bit disappointed. Haven't seen the Major." He shrugged. "Maybe she's avoiding me."
+"Gang's fine, if a bit disappointed. Haven't seen the Major." He shrugged. "Maybe she's avoiding me." ^Page-179
+
+[[Chapter-11#^Page-180]] #Chapter-11 #Page-180
 "It hit her pretty hard."
 "No worse than the rest of us, really. She might not even remember it."
 "How—how could she possibly believe she didn't even exist?"
@@ -289,7 +314,9 @@ He started to deny it, then remembered who he was talking to. "Not personally. J
 running mechanical infantry. Electronic reflexes slaved to meat reflexes. You tell me where the weak
 spot is."
 "Down in Rorschach, I'd have to say all the links are pretty weak."
-"Not talking about Rorschach," Szpindel said. "We go there. What stops them from coming here?"
+"Not talking about Rorschach," Szpindel said. "We go there. What stops them from coming here?" ^Page-180
+
+[[Chapter-11#^Page-181]] #Chapter-11 #Page-181
 "Them."
 "Maybe they haven't arrived yet," he admitted. "But when they do, I'm betting we'll be going up
 against something bigger than anaerobic microbes." When I didn't answer he continued, his voice
@@ -312,7 +339,10 @@ I nodded, and didn't wince inwardly. It was just Szpindel.
 *
 Imagine you are a prisoner of war.
 You've got to admit you saw it coming. You've been crashing tech and seeding biosols for a solid
-eighteen months; that's a good run by anyone's standards. Realist saboteurs do not, as a rule, enjoy
+eighteen months; that's a good ^Page-181
+
+[[Chapter-11#^Page-182]] #Chapter-11 #Page-182
+run by anyone's standards. Realist saboteurs do not, as a rule, enjoy
 long careers. Everyone gets caught eventually.
 It wasn't always thus. There was a day you might have even hoped for a peaceful retirement. But then
 they brought the vampires back from the Pleistocene and Great Grieving Ganga did that ever turn the
@@ -335,7 +365,10 @@ letting that happen. They're having too much fun.
 That's what it all comes down to. This is not an interrogation; there are less invasive ways to get more
 reliable answers. These are simply a few more sadistic thugs with Authority, killing time and other
 things, and you can only cry and squeeze your eyes tight and whimper like an animal even though they
-haven't laid a hand on you yet. You can only wish they hadn't saved you for last, because you know
+haven't laid a hand on ^Page-182
+
+[[Chapter-11#^Page-183]] #Chapter-11 #Page-183
+you yet. You can only wish they hadn't saved you for last, because you know
 what that means.
 But suddenly your tormentors stop in mid-game and cock their heads as if listening to some collective
 inner voice. Presumably it tells them to take you off the wall, bring you into the next room, and sit you
@@ -359,7 +392,9 @@ A microwave pistol. Fully charged, unlocked. On its lowest setting it causes sun
 its highest it flash-boils brains in the skull. At any setting between, it inflicts pain and injury in
 increments as fine as your imagination.
 Your imagination has been retooled for great sensitivity along such scales. You stare numbly at the
-gun, trying to figure the trick.
+gun, trying to figure the trick. ^Page-183
+
+[[Chapter-11#^Page-184]] #Chapter-11 #Page-184
 "Two of your friends are dead," Bates says, as though you haven't just watched them die.
 "Irrecoverably so."
 Irrecoverably dead. Good one.
@@ -383,7 +418,10 @@ this cunt has the nerve to talk about productivity?
 "I don't know and I don't care. Like I said, it's not my job." Bates jerks a thumb over her shoulder at a
 door in the wall behind her, the door she must have entered through. "In there," she says, "are the ones
 who killed your friends. They've been disarmed. When you go through that door the room will go
-offline and remain unmonitored for a period of sixty seconds. Nobody besides yourself will ever hold
+offline and remain unmonitored for a period of sixty seconds. Nobody besides yourself ^Page-184
+
+[[Chapter-11#^Page-185]] #Chapter-11 #Page-185
+will ever hold
 you accountable for whatever happens in there during that time."
 It's a trick. It has to be.
 "What do you have to lose?" Bates wonders. "We can already do anything we want to you. It's not like
@@ -406,7 +444,9 @@ don't want to impose on the good graces of this Bates woman.
 Because she may at last be someone you can deal with.
 *
 Under other circumstances, Lieutenant Amanda Bates would have been court-martialed and executed
-within the month. No matter that the four who'd died had been guilty of multiple counts of rape,
+within the month. No matter that the four who'd died had been guilty of multiple counts of rape, ^Page-185
+
+[[Chapter-11#^Page-186]] #Chapter-11 #Page-186
 torture, and homicide; that's just what people did in wartime. It's what they'd always done. There was
 nothing polite about war, no honorable code beyond the chain of command and the circling of wagons.
 Deal with indiscretions if you must; punish the guilty if you have to, for appearance if nothing else.
@@ -430,7 +470,10 @@ tempered. The debate might have gone on forever if the story hadn't leaked—but
 the generals had a hero on their hands.
 Sometime during her court-martial, Bates's death sentence turned into a rehabilitation; the only
 question was whether it would take place in the stockade or Officer's College. As it turned out,
-Leavenworth had both; it took her to its bosom and squeezed hard enough to virtually guarantee
+Leavenworth had both; it took her to its bosom and squeezed ^Page-186
+
+[[Chapter-11#^Page-187]] #Chapter-11 #Page-187
+hard enough to virtually guarantee
 promotion, if it didn't kill her first. Three years later Major Bates was bound for the stars, where she
 was heard to say
 We're breaking and entering, Siri...
@@ -438,4 +481,4 @@ Szpindel was not the first to register doubts. Others had wondered whether her a
 much to superior qualifications as it did to the resolution of inconvenient PR. I, of course, had no
 opinion one way or the other; but I could see how she might strike some as a double-edged sword.
 When the fate of the world hangs in the balance, you want to keep an eye on anyone whose career-
-defining moment involves consorting with the enemy.
+defining moment involves consorting with the enemy. ^Page-187
