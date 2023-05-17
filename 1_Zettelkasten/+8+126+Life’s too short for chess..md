@@ -1,4 +1,4 @@
-#Chapter #Chapter-8
+![[Chapter-8#^Page-126]]
 -Lord Byron (p. 126 of 272) (Watts 126)
 * "It's rule-based, Isaac. It was following some kind of flowchart it drew up by observing Human
 languages in action. And somehow those rules told it to respond with threats of violence."

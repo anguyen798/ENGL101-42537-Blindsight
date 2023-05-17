@@ -1,23 +1,4 @@
-#Chapter #Chapter-14
-—The r-selectors, Trunclade (p. 139 of 272) (Watts 209)
-
-“My genes done gone and tricked my brain
-
-By making fucking feel so great
-
-That’s how the little creeps attain
-
-Their plan to fuckin’ replicate
-
-But brain’s got tricks itself, you see
-
-To get the bang but not the bite
-
-I got this here vasectomy
- My genes can fuck themselves tonight.”
-
-
-—The r-selectors, Trunclade (p. 139/272) (Watts 209)
+![[Chapter-14#^Page-209]]
 
 * r organism produce more children (biotic potential)
 * k organisms produce less children ()

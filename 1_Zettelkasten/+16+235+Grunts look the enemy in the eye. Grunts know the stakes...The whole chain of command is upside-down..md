@@ -1,9 +1,4 @@
-#Chapter #Chapter-16
-—Kenneth Lubin, Zero Sum (p. 158 of 272) (Watts 235)
-
-“Grunts look the enemy in the eye. Grunts know the stakes. Grunts know the price of poor strategy. What do the generals know?
-
-Overlays and Tactical plots. The whole chain of command is upside-down.” —Kenneth Lubin, Zero Sum (p. 158/272) (Watts 235)
+![[Chapter-16#^Page-235]]
 
 * Peristalsis, I thought at first. But this motion was utterly unlike the slow, undulating waves that
 usually rippled along Rorschach's passageways. So hallucination, I thought instead— and then those writhing walls reached out with a thousand whiplike calcareous tongues that grabbed our quarry from every direction and tore it to pieces...

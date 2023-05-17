@@ -13,5 +13,5 @@ Thesis May be Complex Enough Where Everything is a little bit all around
 Theory and why they do this to the reader
 
 
-Will need other peices to understand it
+Will need other pieces to understand it
 ![[Essay-Hit.excalidraw]]

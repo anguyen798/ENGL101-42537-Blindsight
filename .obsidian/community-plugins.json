@@ -3,5 +3,14 @@
   "obsidian-git",
   "dataview",
   "table-editor-obsidian",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "templater-obsidian",
+  "obsidian-outliner",
+  "obsidian-minimal-settings",
+  "obsidian-admonition",
+  "obsidian-citation-plugin",
+  "quick-latex",
+  "copy-as-latex",
+  "tag-wrangler",
+  "obsidian-tasks-plugin"
 ]

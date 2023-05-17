@@ -1,5 +1,4 @@
-#Chapter #Chapter-22
-—Thoreau (p.212 of 272) (Watts 314)
+![[Chapter-22#^Page-314]]
 
 
 Sarasti wanted me to believe. Somehow he must have thought that brutalising and humiliating me

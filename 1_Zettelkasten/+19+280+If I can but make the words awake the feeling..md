@@ -1,5 +1,4 @@
-#Chapter #Chapter-19
-—Ian Anderson, Stand Up (p.189 of 272) (Watts 280)
+![[Chapter-19#^Page-280]]
 
 Not in Theseus, anyway. The Gang hid in their tent. The transient lurked weightless and silent below
 the surface. Bates was in the bridge— she more or less lived up there now, vigilant and conscientious,

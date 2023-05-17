@@ -1,5 +1,4 @@
-#Chapter #Chapter-20
--(p.199 of 272) (Watts 294)
+![[Chapter-20#^Page-294]]
 
 Siri is crucified because he needs pain
 Something stabbed my hand like a spike at a crucifixion.

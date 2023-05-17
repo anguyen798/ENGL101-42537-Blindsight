@@ -1,5 +1,4 @@
-#Chapter #Chapter-10
-(p. 100 of 272) (Watts 154)
+![[Chapter-10#^Page-154]]
 
 * And the sounds—Rorschach creaked around us like some ancient wooden hull trapped in pack ice. Electricity hissed like rattlesnakes.
 * Not living, not by a long shot. Haunted.

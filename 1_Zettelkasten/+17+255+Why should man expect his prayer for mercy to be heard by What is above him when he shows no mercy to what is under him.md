@@ -1,7 +1,4 @@
-#Chapter #Chapter-17
-—Pierre Troubetzkoy“ (p.172 of 272) (Watts 255)
-
-Why should man expect his prayer for mercy to be heard by What is above him when he shows no mercy to what is under him? —Pierre Troubetzkoy (p.172/272) (Watts 255)
+![[Chapter-17#^Page-255]]
 
 * He sighed. "Biochemistry is a tradeoff. The faster you synthesize ATP, the more expensive each
 molecule becomes. It turns out scramblers are a lot more energy-efficient at making it than we are.
