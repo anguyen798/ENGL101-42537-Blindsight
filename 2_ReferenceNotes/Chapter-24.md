@@ -1,4 +1,4 @@
-[[Chapter-24#^Page-357]] #Chapter-24 #Page-357
+[[Chapter-24#^Page-357]] ~Chapter-24 ~Page-357
 "Species used to go extinct. Now they go on hiatus."
 —Deborah MacLennan, Tables of our Reconstruction
 "You poor guy," Chelsea said as we went our separate ways. "Sometimes I don't think you'll ever be
@@ -17,7 +17,7 @@ stitch itself back together.
 Occasionally it talks to me, recites system stats, updates me on any chatter from back home. Mostly,
 though, it leaves me alone with my thoughts and the machinery ticking away where my left ^Page-357
 
-[[Chapter-24#^Page-358]] #Chapter-24 #Page-358
+[[Chapter-24#^Page-358]] ~Chapter-24 ~Page-358
 hemisphere used to be. So I talk to myself, dictate history and opinion from real hemisphere to
 synthetic one: bright brief moments of awareness, long years of oblivious decay between. Maybe the
 whole exercise is pointless from the start, maybe no one's even listening.
@@ -43,7 +43,7 @@ still in proper working order I'd know, I'd be able to parse it down to the punc
 battered my tools and left them barely functional. I'm as blind now as any baseline. All I have is
 uncertainty and suspicion, ^Page-358
 
-[[Chapter-24#^Page-359]] #Chapter-24 #Page-359
+[[Chapter-24#^Page-359]] ~Chapter-24 ~Page-359
 and the creeping dread that even with my best tricks in tatters, I might be
 reading him right.
 I think he's warning me to stay away.
@@ -68,7 +68,7 @@ magnetism stir random neurons in Susan's head; further down the timeline a whole
 to take control, to send Theseus diving into Rorschach's waiting arms. Blind stupid random chance.
 Maybe that's all it was. ^Page-359
 
-[[Chapter-24#^Page-360]] #Chapter-24 #Page-360
+[[Chapter-24#^Page-360]] ~Chapter-24 ~Page-360
 But I don't think so. Too many lucky coincidences. I think Rorschach made its own luck, planted and
 watered that new persona right under our noses, safely hidden—but for the merest trace of elevated
 oxytocin— behind all the lesions and tumors sewn in Susan's head. I think it looked ahead and saw the
@@ -94,7 +94,7 @@ buried the Broadcast Age in tightbeams and fiberop, but we never completely stop
 throughout the heavens. Earth, Mars, and Luna conduct their interplanetary trialog in a million
 overlapping voices. Every ship ^Page-360
 
-[[Chapter-24#^Page-361]] #Chapter-24 #Page-361
+[[Chapter-24#^Page-361]] ~Chapter-24 ~Page-361
 cruising the void speaks in all directions at once. The O'Neils and the
 asteroids never stopped singing. The Fireflies might never have found us if they had.
 I've heard those songs changing over time, a fast-forward time-lapse into oblivion. Now it's mostly
@@ -120,7 +120,7 @@ Sarasti than I did with any human.
 But I just don't have it in me. He was a predator and I was prey, and it's not in the nature of the lamb to
 mourn the lion. Though he died for our sins, I cannot miss Jukka Sarasti. ^Page-361
 
-[[Chapter-24#^Page-362]] #Chapter-24 #Page-362
+[[Chapter-24#^Page-362]] ~Chapter-24 ~Page-362
 I can empathize with him, though. At long long last I can empathise, with Sarasti, with all his extinct
 kind. Because we humans were never meant to inherit the Earth. Vampires were. They must have been
 sentient to some degree, but that semi-aware dream state would have been a rudimentary thing next to

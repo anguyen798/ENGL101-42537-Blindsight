@@ -1,4 +1,4 @@
-[[Chapter-5#^Page-73]] #Chapter-5 #Page-73
+[[Chapter-5#^Page-73]] ~Chapter-5 ~Page-73
 " Leaders are visionaries with a poorly developed sense of fear
 and no concept of the odds against them."
 —Robert Jarvik
@@ -18,7 +18,7 @@ Szpindel shook his head. "Meteorites. Must be a lot of rock in the neighborhood.
 the Captain—but ConSensus put him anywhere on board he wanted to be.
 Morphometrics scrolled across my inlays: mass, diameter, mean ^Page-73
 
-[[Chapter-5#^Page-74]] #Chapter-5 #Page-74
+[[Chapter-5#^Page-74]] ~Chapter-5 ~Page-74
 density. Ben's day lasted seven hours
 twelve minutes. Diffuse but massive accretion belt circling the equator, more torus than ring,
 extending almost a half-million kilometers from the cloud-tops: the pulverized corpses of moons
@@ -46,7 +46,7 @@ on to. Still. There was something wrong about it somehow, something about the ti
 core of that fading brightness. Something that some primitive part of my mind refused to accept as
 natural— ^Page-74
 
-[[Chapter-5#^Page-75]] #Chapter-5 #Page-75
+[[Chapter-5#^Page-75]] ~Chapter-5 ~Page-75
 The image lurched again, and flashed to black, and didn't return.
 "Probe's fried," Bates reported. "Spike there at the end. Like it hit a Parker Spiral, but with a really
 tight wind."
@@ -73,7 +73,7 @@ There'd been thousands of the things.
 Theseus shivered along her length. It was just a pulse of decelerating thrust; but for that one moment, I
 imagined I knew how she felt. ^Page-75
 
-[[Chapter-5#^Page-76]] #Chapter-5 #Page-76
+[[Chapter-5#^Page-76]] ~Chapter-5 ~Page-76
 *
 We headed in and hedged our bets.
 Theseus weaned herself with a ninety-eight-second burn, edged us into some vast arc that might, with
@@ -97,7 +97,7 @@ Every perigee dipped briefly into atmosphere; there they burned, and slowed, and
 into space, their anterior scoops glowing with residual heat.
 Bates grabbed a ConSensus image, drew highlights and a conclusion around the front end: "Scramjet." ^Page-76
 
-[[Chapter-5#^Page-77]] #Chapter-5 #Page-77
+[[Chapter-5#^Page-77]] ~Chapter-5 ~Page-77
 We tracked nearly four hundred thousand in less than two days. That appeared to be most of them;
 new sightings leveled off afterwards, the cumulative curve flattening towards some theoretical
 asymptote. Most of the orbits were close and fast, but Sarasti projected a frequency distribution
@@ -124,7 +124,7 @@ Synthesists don't have opinions on the job; it keeps observer effects to a minim
 permitted myself a small breach. "The static's nice. I could do without the screeching."
 "Are you kidding? That's the music of the spheres, commissar. It's beautiful. Like old jazz." ^Page-77
 
-[[Chapter-5#^Page-78]] #Chapter-5 #Page-78
+[[Chapter-5#^Page-78]] ~Chapter-5 ~Page-78
 "I never got the hang of that either."
 He shrugged and squelched the upper register, left the rain pattering around us. His jiggling eyes fixed
 on some arcane graphic. "Want a scoop for your notes?"
@@ -150,7 +150,7 @@ Szpindel's findings were front and center at our next get-together.
 The vampire summed it up for us, visual aids dancing on the table: "Von Neumann self-replicating r-
 selector. Seed washes up and ^Page-78
 
-[[Chapter-5#^Page-79]] #Chapter-5 #Page-79
+[[Chapter-5#^Page-79]] ~Chapter-5 ~Page-79
 sprouts skimmers, skimmers harvest raw materials from the accretion
 belt. Some perturbations in those orbits; belt's still unsettled."
 "Haven't seen any of the herd giving birth," Szpindel remarked. "Any sign of a factory?"
@@ -173,7 +173,7 @@ overlap, no basis for conflict. There's no reason we shouldn't get along just fi
 Michelle snorted softly. "According to a coterie of theoretical historians who've never actually met an
 alien, yes. Maybe now we get to prove them wrong." And in the next instant she was just gone, ^Page-79
 
-[[Chapter-5#^Page-80]] #Chapter-5 #Page-80
+[[Chapter-5#^Page-80]] ~Chapter-5 ~Page-80
 her
 affect scattered like leaves in a dust-devil, and Susan James was back in her place saying:
 "Why don't we just ask them?"
@@ -199,7 +199,7 @@ Bates shrugged. "It only makes sense to be cautious. I may be a jarhead but I'm 
 anything that hops between stars and terraforms superJovians for a living. I don't have to remind
 anyone here that Theseus is no warship." ^Page-80
 
-[[Chapter-5#^Page-81]] #Chapter-5 #Page-81
+[[Chapter-5#^Page-81]] ~Chapter-5 ~Page-81
 She'd said anyone; she'd meant Sarasti. And Sarasti, focused on his own horizon, didn't answer. Not
 out loud, at least; but his surfaces spoke in a different tongue entirely.
 Not yet, they said.
@@ -224,7 +224,7 @@ universe crawling with gentle intelligence—spiritual brethren vaster and more 
 great galactic siblinghood into whose ranks we would someday ascend. Surely, said the Optimists,
 space travel implies enlightenment, ^Page-81
 
-[[Chapter-5#^Page-82]] #Chapter-5 #Page-82
+[[Chapter-5#^Page-82]] ~Chapter-5 ~Page-82
 for it requires the control of great destructive energies. Any race
 which can't rise above its own brutal instincts will wipe itself out long before it learns to bridge the
 interstellar gulf.
@@ -250,7 +250,7 @@ abundant? Why build fortresses if you have no enemies? Why force change upon a w
 no threat?
 Human civilization had a lot of branches, not so long ago. ^Page-82
 
-[[Chapter-5#^Page-83]] #Chapter-5 #Page-83
+[[Chapter-5#^Page-83]] ~Chapter-5 ~Page-83
 Even into the twenty-first century, a few
 isolated tribes had barely developed stone tools. Some settled down with agriculture. Others weren't
 content until they had ended nature itself, still others until they'd built cities in space.
@@ -275,7 +275,7 @@ already awarded the game to Fermi on points. But the Historian paradigm was just
 Darwinian, for most people, and besides, no one really cared any more. Not even the Cassidy Survey's
 late-breaking discoveries changed much. So what if some dirtball at ^Page-83
 
-[[Chapter-5#^Page-84]] #Chapter-5 #Page-84
+[[Chapter-5#^Page-84]] ~Chapter-5 ~Page-84
 Ursae Majoris Eridani had an
 oxygen atmosphere? It was forty-three lightyears away, and it wasn't talking; and if you wanted flying
 chandeliers and alien messiahs, you could build them to order in Heaven. If you wanted testosterone
@@ -301,7 +301,7 @@ less alone; the rest of the crew was strewn from dome to Fab.
 "Linguists don't use it?" I knew some that did.
 "We don't." And the others are hacks. "Thing about game theory ^Page-84
 
-[[Chapter-5#^Page-85]] #Chapter-5 #Page-85
+[[Chapter-5#^Page-85]] ~Chapter-5 ~Page-85
 is, it assumes rational self-interest
 among the players. And people just aren't rational."
 "It used to assume that," I allowed. "These days they factor in the social neurology."
@@ -329,7 +329,7 @@ tell anyone when your birthday is."
 Chelsea had said exactly the same thing when I'd tried to explain it to her. Look, I'd said, say you tell
 everyone when it is and nothing happens. It's kind of a slap in the face. ^Page-85
 
-[[Chapter-5#^Page-86]] #Chapter-5 #Page-86
+[[Chapter-5#^Page-86]] ~Chapter-5 ~Page-86
 Or suppose they throw you a party, Chelsea had replied.
 Then you don't know whether they're doing it sincerely, or if your earlier interaction just guilted them
 into observing an occasion they'd rather have ignored. But if you don't tell anyone, and nobody
@@ -354,7 +354,7 @@ I nodded. "Once."
 My nightly constitutional up the spine: glorious dreamy flight along a single degree of freedom. I
 sailed through hatches and corridors, threw my arms wide and spun in the gentle cyclonic breezes ^Page-86
 
-[[Chapter-5#^Page-87]] #Chapter-5 #Page-87
+[[Chapter-5#^Page-87]] ~Chapter-5 ~Page-87
 of
 the drum. Bates ran circles around me, bouncing her ball against bins and bulkheads, stretching to
 field each curving rebound in the torqued pseudograv. The toy ricocheted off a stairwell and out of
@@ -382,7 +382,7 @@ I heard Michelle let it out.
 "You could always move in with us."
 I heard the rustle of bodies in gentle contact. "How are you?" Szpindel asked. "You okay?" ^Page-87
 
-[[Chapter-5#^Page-88]] #Chapter-5 #Page-88
+[[Chapter-5#^Page-88]] ~Chapter-5 ~Page-88
 "Pretty good. I think I'm finally used to being alive again. You?"
 "Hey, I'm a spaz no matter how long I've been dead."
 "You get the job done."
@@ -407,7 +407,7 @@ interesting stuff happens when we get in there and start poking with a stick."
 "Maybe for you. There's got to be a biological somewhere in the mix, with all those organics."
 "Damn right. And you'll be talking to 'em while I'm giving them their physicals." ^Page-88
 
-[[Chapter-5#^Page-89]] #Chapter-5 #Page-89
+[[Chapter-5#^Page-89]] ~Chapter-5 ~Page-89
 "Maybe not. I mean, Mom would never admit it in a million years but you had a point about language.
 When you get right down to it, it's a workaround. Like trying to describe dreams with smoke signals.
 It's noble, it's maybe the most noble thing a body can do but you can't turn a sunset into a string of
@@ -431,7 +431,7 @@ in charge?"
 "I'm not talking about the present-tense thing, or all the glottals. He—well, you know how he talks.
 He's terse." ^Page-89
 
-[[Chapter-5#^Page-90]] #Chapter-5 #Page-90
+[[Chapter-5#^Page-90]] ~Chapter-5 ~Page-90
 "It's efficient."
 "It's artificial, Isaac. He's smarter than all of us put together, but sometimes he talks like he's got a
 fifty-word vocabulary." A soft snort. "It's not like it'd kill him to use an adverb once in a while."
@@ -456,7 +456,7 @@ Szpindel chuckled. "It's probably not that bad. I guess even killer whales let t
 making a kill. Why sneak around on a full stomach, eh?"
 "So he's not fighting his brain stem. He just isn't hungry." ^Page-90
 
-[[Chapter-5#^Page-91]] #Chapter-5 #Page-91
+[[Chapter-5#^Page-91]] ~Chapter-5 ~Page-91
 "Probably a little of both. Brain stem never really goes away, you know. But I'll tell you one thing."
 Some of the playfulness ebbed from Szpindel's voice. "I've got no problem if Sarasti wants to run the
 occasional briefing from his quarters. But the moment we stop seeing him altogether? That's when you
@@ -480,7 +480,7 @@ defenses— maybe we'd be able to hold things together.
 So I thought about it, and I came up with the perfect way to raise her awareness. I wrote her a bedtime
 story, a disarming blend of humor and affection, and I called it ^Page-91
 
-[[Chapter-5#^Page-92]] #Chapter-5 #Page-92
+[[Chapter-5#^Page-92]] ~Chapter-5 ~Page-92
 The Book of Oogenesis
 In the beginning were the gametes. And though there was sex, lo, there was no gender, and life
 was in balance.
@@ -506,7 +506,7 @@ myself to those, and protect them at every turn. And I will make Sperm help me, 
 this. And though he doth struggle at my side, I shall not let him stray, nor lie with my
 competitors." ^Page-92
 
-[[Chapter-5#^Page-93]] #Chapter-5 #Page-93
+[[Chapter-5#^Page-93]] ~Chapter-5 ~Page-93
 And Sperm liked this not.
 And God smiled, for Its commandment had put Sperm and Egg at war with each other, even unto
 the day they made themselves obsolete.

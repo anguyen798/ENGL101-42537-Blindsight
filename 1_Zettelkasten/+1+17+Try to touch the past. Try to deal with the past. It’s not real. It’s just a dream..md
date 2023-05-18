@@ -1,3 +1,10 @@
+Status: #idea
+Tags: [[]]
+
+* 
+
+## References
+
 ![[Chapter-1#^Page-17]] 
 
 

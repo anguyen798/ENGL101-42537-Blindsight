@@ -1,4 +1,4 @@
-[[Chapter-9#^Page-143]] #Chapter-9 #Page-143
+[[Chapter-9#^Page-143]] ~Chapter-9 ~Page-143
 "Mothers are fonder than fathers of their children because they are more certain they are their own."
 —Aristotle
 I couldn't say goodbye to Dad. I didn't even know where he was.
@@ -17,7 +17,7 @@ share the same view. I could have pulled any conventional worldview off the shel
 this place rendered in any style I chose. Except for the Ascended themselves, of course. That was one
 of the perks of the Afterlife: only they got to choose the face we saw. ^Page-143
 
-[[Chapter-9#^Page-144]] #Chapter-9 #Page-144
+[[Chapter-9#^Page-144]] ~Chapter-9 ~Page-144
 But the thing my mother had become had no face, and I was damned if she was going to see me hide
 behind some mask.
 "Hello, Helen."
@@ -48,7 +48,7 @@ know."
 Not again.
 "Dad's in the field, Helen. Interplanetary crisis. You might have heard something." ^Page-144
 
-[[Chapter-9#^Page-145]] #Chapter-9 #Page-145
+[[Chapter-9#^Page-145]] ~Chapter-9 ~Page-145
 "I certainly have. You know, I haven't always been happy about your father's—extended assignments,
 but maybe it was really a blessing in disguise. The less he was around, the less he could do."
 "Do?"
@@ -75,7 +75,7 @@ commitment. I made a commitment, and I never broke it."
 "What, are you saying you were abused?" Back from the places he'd take you. "Are—are you saying I
 was?" ^Page-145
 
-[[Chapter-9#^Page-146]] #Chapter-9 #Page-146
+[[Chapter-9#^Page-146]] ~Chapter-9 ~Page-146
 "There are all kinds of abuse, Siri. Words can hurt more than bullets, sometimes. And child
 abandonment—"
 "He didn't abandon me." He left me with you.
@@ -101,7 +101,7 @@ doesn't solve anything at this stage. I just thought—well, really, I thought y
 for what it's worth."
 A memory, unbidden: called into Helen's bed when I was nine, ^Page-146
 
-[[Chapter-9#^Page-147]] #Chapter-9 #Page-147
+[[Chapter-9#^Page-147]] ~Chapter-9 ~Page-147
 her hand stroking my scar, her stale
 sweet breath stirring against my cheek. You're the man of the house now Siri. We can't count on your
 father any more. It's just you and me...
@@ -127,7 +127,7 @@ The Gang was up across the drum, squaring away something in their tent. Sarasti 
 today, monitoring the proceedings from his quarters. That left me with Bates and Szpindel in the
 Commons. ^Page-147
 
-[[Chapter-9#^Page-148]] #Chapter-9 #Page-148
+[[Chapter-9#^Page-148]] ~Chapter-9 ~Page-148
 "Maybe against direct EM." Szpindel stretched, stifled a yawn. "Ultrasound boots up magnetic fields
 through shielding sometimes, in living tissue at least. Any chance something like that could be
 happening with your electronics?"
@@ -155,7 +155,7 @@ obviously saw us coming. It yelled at us, as I recall. If they're smart and they
 they shooting?"
 "Maybe they are." ^Page-148
 
-[[Chapter-9#^Page-149]] #Chapter-9 #Page-149
+[[Chapter-9#^Page-149]] ~Chapter-9 ~Page-149
 "If something's hiding down the hall wrecking your robots, it's not frying them any faster than the
 baseline environment would do anyway."
 "What you call a baseline environment might be an active counterintrusion measure. Why else would
@@ -182,7 +182,7 @@ Szpindel gave me a look.
 "We've shielded everything except the sensor heads," Bates explained. "If we shield those we're
 blind." ^Page-149
 
-[[Chapter-9#^Page-150]] #Chapter-9 #Page-150
+[[Chapter-9#^Page-150]] ~Chapter-9 ~Page-150
 "But visible light's harmless enough. What about purely optical li—"
 "We're using optical links, commissar," Szpindel snapped. "And you may have noticed the shit's
 getting through anyway."
@@ -208,7 +208,7 @@ download; none had returned. We'd tried everything.
 Almost everything.
 "Right," Szpindel replied in a voice that couldn't mean anything but wrong. ^Page-150
 
-[[Chapter-9#^Page-151]] #Chapter-9 #Page-151
+[[Chapter-9#^Page-151]] ~Chapter-9 ~Page-151
 "It's the only way to learn anything useful."
 "Yeah. Like how many seconds it would take your brain to turn into synchrotron soup."
 "Our suits can be shielded."
@@ -235,7 +235,7 @@ leakage where the wire went through."
 "Some, yes. But it'd be better than—"
 "Jesus." A tremor sent spittle sailing from the corner of Szpindel's mouth. "Let me talk to Mi—" ^Page-151
 
-[[Chapter-9#^Page-152]] #Chapter-9 #Page-152
+[[Chapter-9#^Page-152]] ~Chapter-9 ~Page-152
 "I've discussed it with the rest of the gang, Isaac. We're all agreed."
 "All agreed? You don't have a working majority in there, Suze. Just because you cut your brain into
 pieces doesn't mean they each get a vote."
@@ -261,7 +261,7 @@ Sarasti paused.
 "I don't participate in field ops," I reminded him.
 "Now you do." ^Page-152
 
-[[Chapter-9#^Page-153]] #Chapter-9 #Page-153
+[[Chapter-9#^Page-153]] ~Chapter-9 ~Page-153
 "I'm a synthesist." He knew that. Of course he knew, everyone did: you can't observe the system unless
 you stay outside the system.
 "On Earth you're a synthesist," he said. "In the Kuiper you're a synthesist. Here you're mass. Do what

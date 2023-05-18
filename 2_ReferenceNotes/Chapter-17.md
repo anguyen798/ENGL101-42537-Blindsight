@@ -1,4 +1,4 @@
-[[Chapter-17#^Page-255]] #Chapter-17 #Page-255
+[[Chapter-17#^Page-255]] ~Chapter-17 ~Page-255
 Why should man expect his prayer for mercy to be heard by What is above him when he shows no mercy to what is under him?
 —Pierre Troubetzkoy
 "The thing is," Chelsea said, "this whole first-person thing takes effort. You have to care enough to try,
@@ -17,7 +17,7 @@ I stared at the butterfly on the back of her hand. Its wings flexed and folded, 
 wondered how many of those tattoos she had; I'd seen five of them on different body parts, albeit only
 one at a time. I thought about asking her, but this didn't seem like the right moment. ^Page-255
 
-[[Chapter-17#^Page-256]] #Chapter-17 #Page-256
+[[Chapter-17#^Page-256]] ~Chapter-17 ~Page-256
 "You can be so—so brutal sometimes," she was saying. "I know you don't mean to be, but... I don't
 know. Maybe I'm your pressure-release valve, or something. Maybe you have to submerge yourself so
 much on the job that everything just, just builds up and you need some kind of punching bag. Maybe
@@ -44,7 +44,7 @@ I opened my mouth, and closed it.
 She gave me a sad smile. "Nothing, Siri? Nothing at all? There was a time you always knew exactly
 what to say." She looked back ^Page-256
 
-[[Chapter-17#^Page-257]] #Chapter-17 #Page-257
+[[Chapter-17#^Page-257]] ~Chapter-17 ~Page-257
 at some earlier version of me. "Now I wonder if you ever actually
 meant any of it."
 "That's not fair."
@@ -69,7 +69,7 @@ I was good at what I did. I was so damned good, I did it without even meaning to
 Susan James bounced around the drum like a pronking wildebeest in the half-gravity. I could see the
 whites of her eyes from ninety degrees away. "Check your feeds! Check your feeds! The pens!" ^Page-257
 
-[[Chapter-17#^Page-258]] #Chapter-17 #Page-258
+[[Chapter-17#^Page-258]] ~Chapter-17 ~Page-258
 I checked. One scrambler afloat; the other still jammed into its corner.
 James landed at my side with a two-footed thump, wobbling for balance. "Turn the sound up!"
 The hissing of the air conditioners. The clank of distant machinery echoing along the spine; Theseus'
@@ -95,7 +95,7 @@ now I could make out the bony spur of a ninth peeking from behind the central ma
 curled up and hidden from view, tick tick ticking while another creature casually leaned against the
 other side of the wall... ^Page-258
 
-[[Chapter-17#^Page-259]] #Chapter-17 #Page-259
+[[Chapter-17#^Page-259]] ~Chapter-17 ~Page-259
 Now, there was nothing. The floating scrambler had drifted aimlessly back to the center of its
 enclosure.
 James's eyes shone. "We've got to check the rest of—"
@@ -122,7 +122,7 @@ Cunningham followed my gaze, and nodded. "I'd wager it does..."
 There was no way to learn what they'd whispered across that wall. We could recover the audio easily
 enough, parse every tick and tap they'd exchanged, but you can't decipher a code without some ^Page-259
 
-[[Chapter-17#^Page-260]] #Chapter-17 #Page-260
+[[Chapter-17#^Page-260]] ~Chapter-17 ~Page-260
 idea of
 content. We had patterns of sound that could have meant anything. We had creatures whose grammar
 and syntax—if their mode of communication even contained such attributes—were unknown and
@@ -148,7 +148,7 @@ ultrasonic sound. You have to experiment; and when you discover just the right s
 balance between pain and injury, you must inflict it without the remorse.
 You leave them an escape hatch, of course. That's the very point of ^Page-260
 
-[[Chapter-17#^Page-261]] #Chapter-17 #Page-261
+[[Chapter-17#^Page-261]] ~Chapter-17 ~Page-261
 the exercise: give one of your
 subjects the means to end the pain, but give the other the information required to use it. To one you
 might present a single shape, while showing the other a whole selection. The pain will stop when the
@@ -175,7 +175,7 @@ principal. She'd just fallen back on the oldest trick in the Torturer's Handbook
 home to your family after work, and play with your children, and sleep at night: never humanize your
 victims. ^Page-261
 
-[[Chapter-17#^Page-262]] #Chapter-17 #Page-262
+[[Chapter-17#^Page-262]] ~Chapter-17 ~Page-262
 It shouldn't have been such an issue when dealing with methane-breathing medusae. I guess every
 little bit helped.
 Biotelemetry danced across the headspace beside each alien, luminous annotations shuddering through
@@ -202,7 +202,7 @@ I cleared my throat. "I mean—"
 "Who else is going to do this, Siri? Jukka? You?"
 "The rest of the Gang. Sascha could—" ^Page-262
 
-[[Chapter-17#^Page-263]] #Chapter-17 #Page-263
+[[Chapter-17#^Page-263]] ~Chapter-17 ~Page-263
 "Sascha?" She stared at me. "Siri, I created them. Do you think I did that so I could hide behind them
 when—so I could force them to do things like this?" She shook her head. "I'm not bringing them out.
 Not for this. I wouldn't do that to my worst enemy."
@@ -230,7 +230,7 @@ intelligence."
 "I know what splinter skills are, Robert. I just think you're wrong."
 "Prove it." ^Page-263
 
-[[Chapter-17#^Page-264]] #Chapter-17 #Page-264
+[[Chapter-17#^Page-264]] ~Chapter-17 ~Page-264
 So she gave up on geometry and told the scramblers that one plus one equaled two. Evidently they
 knew that already: ten minutes later they were predicting ten-digit prime numbers on demand.
 She showed them a sequence of two-dimensional shapes; they picked the next one in the series from a
@@ -257,7 +257,7 @@ be saying it. Right down to the Angstrom."
 the way they move those bristles. But I can't find the pattern, I can't even follow how they count,
 much less tell them I'm...sorry..." ^Page-264
 
-[[Chapter-17#^Page-265]] #Chapter-17 #Page-265
+[[Chapter-17#^Page-265]] ~Chapter-17 ~Page-265
 Nobody spoke for a while. Bates watched us from the galley on our ceiling, but made no attempt to
 join the proceedings. On ConSensus the reprieved scramblers floated in their cages like multiarmed
 martyrs.
@@ -283,7 +283,7 @@ Sunflowers look the way they do because of purely physical buckling stress. You 
 sequences and Golden ratios everywhere in nature, and there's no gene that codes for them; it's all just
 mechanical interactions. Take ^Page-265
 
-[[Chapter-17#^Page-266]] #Chapter-17 #Page-266
+[[Chapter-17#^Page-266]] ~Chapter-17 ~Page-266
 a developing embryo—the genes say start growing or stop growing, but
 the number of digits and vertebrae result from the mechanics of cells bumping against other cells.
 Those mitotic spindles I mentioned? Absolutely essential for replication in every eukaryotic cell, and
@@ -309,7 +309,7 @@ and regulate a good chunk of scrambler metabolism. What we've got back in the ho
 creatures dragged out of their element and holding their breath. And they can't hold it forever."
 "How long?" James asked. ^Page-266
 
-[[Chapter-17#^Page-267]] #Chapter-17 #Page-267
+[[Chapter-17#^Page-267]] ~Chapter-17 ~Page-267
 "How should I know? If I'm right, I'm not even dealing with complete organisms here."
 "Guess," Bates said.
 He shrugged. "A few days. Maybe." ^Page-267

@@ -1,4 +1,5 @@
-[[Chapter-1#^Page-17]] #Chapter-1 #Page-17
+[[Chapter-1#^Page-17]]
+Tags: ~Chapter-1 ~Page-17
 "Try to touch the past. Try to deal with the past. It's not real. It's just a dream." —Ted Bundy
 It didn't start out here. Not with the scramblers or Rorschach, not with Big Ben or Theseus or the
 vampires. Most people would say it started with the Fireflies, but they'd be wrong. It ended with all
@@ -16,7 +17,8 @@ waiting their turn. I watched him raise his arms, almost hesitantly, to ward off
 I could see into his head better than I could see into my own; he was scared that his attackers might
 think those hands were coming up to hit back, that they'd read it as an act of defiance ^Page-17
 
-[[Chapter-1#^Page-18]] #Chapter-1 #Page-18
+[[Chapter-1#^Page-18]]
+Tags: ~Chapter-1 ~Page-18
 and hurt him
 even more. Even then, at the tender age of eight and with half my mind gone, I was becoming a
 superlative observer.
@@ -42,7 +44,8 @@ lauding anyone who ever stuck up for the underdog.
 So I picked up a rock the size of my fist and hit two of Pag's assailants across the backs of their heads
 before anyone even knew I was in the game. ^Page-18
 
-[[Chapter-1#^Page-19]] #Chapter-1 #Page-19
+[[Chapter-1#^Page-19]]
+Tags: ~Chapter-1 ~Page-19
 A third, turning to face the new threat, took a blow to the face that audibly crunched the bones of his
 cheek. I remember wondering why I didn't take any satisfaction from that sound, why it meant nothing
 beyond the fact I had one less opponent to worry about.
@@ -69,7 +72,8 @@ I actually did feel something then—faint, distant, but unmistakable. I felt an
 Pag backed away, eyes wide. "What are you doing? Put that down!"
 I'd raised my fists. I didn't remember doing that. I unclenched ^Page-19
 
-[[Chapter-1#^Page-20]] #Chapter-1 #Page-20
+[[Chapter-1#^Page-20]]
+Tags: ~Chapter-1 ~Page-20
 them. It took a while. I had to look at
 my hands very hard for a long, long time.
 The rock dropped to the ground, blood-slick and glistening.
@@ -94,7 +98,8 @@ reason they call it radical hemispherectomy: half the brain thrown out with yest
 remaining half press-ganged into double duty. Think of all the rewiring that one lonely hemisphere
 must have struggled with as it tried to take up the slack. It turned ^Page-20
 
-[[Chapter-1#^Page-21]] #Chapter-1 #Page-21
+[[Chapter-1#^Page-21]]
+Tags: ~Chapter-1 ~Page-21
 out okay, obviously. The brain's a
 very flexible piece of meat; it took some doing, but it adapted. I adapted. Still. Think of all that must
 have been squeezed out, deformed, reshaped by the time the renovations were through. You could
@@ -117,7 +122,8 @@ depending on your point of view. Point of view matters: I see that now, blind, t
 trapped in a coffin falling past the edge of the solar system. I see it for the first time since some
 beaten bloody friend on a childhood battlefield convinced me to throw my own point of view away. ^Page-21
 
-[[Chapter-1#^Page-22]] #Chapter-1 #Page-22
+[[Chapter-1#^Page-22]]
+Tags: ~Chapter-1 ~Page-22
 He may have been wrong. I may have been. But that, that distance—that chronic sense of being an
 alien among your own kind—it's not entirely a bad thing.
 It came in especially handy when the real aliens came calling. ^Page22

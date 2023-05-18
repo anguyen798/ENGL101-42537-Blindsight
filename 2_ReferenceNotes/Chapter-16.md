@@ -1,4 +1,4 @@
-[[Chapter-16#^Page-235]] #Chapter-16 #Page-235
+[[Chapter-16#^Page-235]] ~Chapter-16 ~Page-235
 "Grunts look the enemy in the eye. Grunts know the stakes. Grunts know the price of poor strategy. What do the generals know?
 Overlays and Tactical plots. The whole chain of command is upside-down."
 —Kenneth Lubin, Zero Sum
@@ -17,7 +17,7 @@ moment to kick sand in our faces. As it was, by the time our grunts staggered ba
 quarry was already disappearing around the bend. Bates was tethered to her troops; they yanked her
 down the rabbit hole ("Set it up!" she yelled back at Sascha) the moment she let them loose. ^Page-235
 
-[[Chapter-16#^Page-236]] #Chapter-16 #Page-236
+[[Chapter-16#^Page-236]] ~Chapter-16 ~Page-236
 I was tethered to Bates. I barely had a chance to exchange a wide-eyed look with Sascha before being
 yanked away in turn. Suddenly I was inside again; the sated biopsy dart bounced off my faceplate and
 flashed past, still attached to a few meters of discarded monofilament. Hopefully Sascha would pick it
@@ -43,7 +43,7 @@ grunts veered in pursuit, crashing into walls, stumbling—
 —stopping—
 —and suddenly Bates was braking hard, shooting back past me ^Page-236
 
-[[Chapter-16#^Page-237]] #Chapter-16 #Page-237
+[[Chapter-16#^Page-237]] ~Chapter-16 ~Page-237
 as I flailed with my pistol. I was past
 the drones in the next instant; my leash snapped tight and snapped back, bringing me to a dead drifting
 stop. For a second or two I was on the front line. For a second or two I was the front line, Siri Keeton,
@@ -69,7 +69,7 @@ She was running both machines herself, as manually as marionettes.
 Grainy turbulent echoes appeared on the rear sonar display. The scramblers had finished with their
 sacrifice. Now they were coming ^Page-237
 
-[[Chapter-16#^Page-238]] #Chapter-16 #Page-238
+[[Chapter-16#^Page-238]] ~Chapter-16 ~Page-238
 after us. My grunt stumbled and careened against the side of the
 passage. Jagged shards of alien décor dug parallel gouges across my faceplate, tenderized chunks of
 thigh through the shielded fabric of my suit. I clenched down on a cry. It got out anyway. Some
@@ -95,7 +95,7 @@ Sascha had set the trap just within the mouth of the breach. Bates armed it in p
 one gloved hand. Motion sensors were supposed to do the rest— but the enemy was close behind, and
 there was no room to spare. ^Page-238
 
-[[Chapter-16#^Page-239]] #Chapter-16 #Page-239
+[[Chapter-16#^Page-239]] ~Chapter-16 ~Page-239
 It went off just as I was emerging into the vestibule. The cannon net shot out behind me in a glorious
 exploding conic, caught something, snapped back up the rabbit hole and slammed into my grunt from
 behind. The recoil kicked us against the top of the vestibule so hard I thought the fabric would tear. It
@@ -120,7 +120,7 @@ parts. There was little of anything that might pass for blood. What there was fl
 shuddering spherules. The cannon net floated like a shrink-wrapped asteroid in our midst. The things
 inside had wrapped their ^Page-239
 
-[[Chapter-16#^Page-240]] #Chapter-16 #Page-240
+[[Chapter-16#^Page-240]] ~Chapter-16 ~Page-240
 arms around themselves, around each other, curled into a shivering and
 unresponsive ball. Compressed methonia hissed around them, keeping them fresh for the long trip
 home.
@@ -146,7 +146,7 @@ On one level she already knew the reason, of course. We all did. We could not af
 The risks were too great; we had to preempt. Sarasti, wise beyond all of us, saw this more clearly than
 we. Amanda Bates knew he was right in her mind—but perhaps ^Page-240
 
-[[Chapter-16#^Page-241]] #Chapter-16 #Page-241
+[[Chapter-16#^Page-241]] ~Chapter-16 ~Page-241
 she didn't feel it in her gut. Perhaps, I
 thought as my vision failed, she was asking Sarasti to convince her.
 But that wasn't all she was doing.
@@ -172,7 +172,7 @@ dumb Siri Keeton, who may have missed some salient point but is too ashamed to r
 No, there is only one reason why you might ask for such details: to challenge. To rebel, to the
 infinitesimal degree that rebellion is permitted once the word is given. ^Page-241
 
-[[Chapter-16#^Page-242]] #Chapter-16 #Page-242
+[[Chapter-16#^Page-242]] ~Chapter-16 ~Page-242
 You argued and advocated as forcefully as you could, back when Sarasti was soliciting input. But he
 ignored yours, abandoned any attempt at communication and preemptively invaded foreign territory.
 He knew that Rorschach might contain living beings and still he tore it open without regard for their
@@ -197,7 +197,7 @@ full of updates clogging my inlays.
 I flipped through them, climbing down into the drum. The Gang of Four sat at the galley below me,
 staring at untouched portions ^Page-242
 
-[[Chapter-16#^Page-243]] #Chapter-16 #Page-243
+[[Chapter-16#^Page-243]] ~Chapter-16 ~Page-243
 of nutritionally-balanced sludge on her plate. Cunningham, over in his
 inherited domain, grunted at my appearance and turned back to work, the fingers of one hand tapping
 compulsively on the desktop.
@@ -222,7 +222,7 @@ The Gang didn't look up as I passed. One forefinger tapped absently against thei
 pursed and twitched in the characteristic mode that said internal dialog in progress . I could never tell
 who was on top when they were like that. ^Page-243
 
-[[Chapter-16#^Page-244]] #Chapter-16 #Page-244
+[[Chapter-16#^Page-244]] ~Chapter-16 ~Page-244
 I sucked on the squeezebulb and looked in on the pens. Two cubes suffused in pale red light: in one a
 scrambler floated center stage, waving its segmented arms like seaweed in gentle surge. The occupant
 of the other cage was squeezed into a corner, four arms splayed across the converging walls; four
@@ -249,7 +249,7 @@ column, piled up. When the top one develops to a certain point, it buds off from
 free-living."
 The archived scramblers were exploring their new environment ^Page-244
 
-[[Chapter-16#^Page-245]] #Chapter-16 #Page-245
+[[Chapter-16#^Page-245]] ~Chapter-16 ~Page-245
 now, climbing gingerly along the
 walls, unrolling their arms along the corners where the panels met. Those swollen central bodies
 struck me again. "So that first one, with the flattened..."
@@ -276,7 +276,7 @@ cloacae if they were so inclined, but those didn't get us anywhere either. Harmo
 "So we're sticking to the blood-cells-with-waldoes model."
 "Pretty much. But you know, they didn't go into a loop. Hardwired ^Page-245
 
-[[Chapter-16#^Page-246]] #Chapter-16 #Page-246
+[[Chapter-16#^Page-246]] ~Chapter-16 ~Page-246
 animals repeat themselves. Even
 smart ones pace, or chew their fur. Stereotyped behaviors. But these two, they gave everything a very
 careful once-over and then just—shut down."
@@ -303,7 +303,7 @@ Just like that, Susan went away. "Why, Keeton. you just made a suggestion. You g
 whole noninterference thing?"
 "Hello, Sascha. No, of course not. Just—making a list of what's been tried." ^Page-246
 
-[[Chapter-16#^Page-247]] #Chapter-16 #Page-247
+[[Chapter-16#^Page-247]] ~Chapter-16 ~Page-247
 "Good." There was an edge to her voice. "Hate to think you were slipping. We're going to grab some
 down time now, so maybe you could go and talk to Cunningham for a bit. Yeah, do that.
 "And be sure to tell him your theory about radiation-eating aliens. I bet he could use a laugh."
@@ -328,7 +328,7 @@ But Isaac Szpindel had been an atheist. All of us were. We'd all started out tha
 Cunningham sank into his chair without looking at me. In his head, and in mine, a new window opened
 within a frame marked Electrophoresis. ^Page-247
 
-[[Chapter-16#^Page-248]] #Chapter-16 #Page-248
+[[Chapter-16#^Page-248]] ~Chapter-16 ~Page-248
 I tried again. "I'm sorry. I didn't mean to intru—"
 "What can I do for you, Siri?"
 "I was hoping you could bring me up to speed on your findings."
@@ -355,7 +355,7 @@ of its time inactive. Rorschach—whatever Rorschach started out as— could hav
 before it washed up here. That's a lot of time to build up an energy reserve for bouts of high activity,
 and once you've laid the ^Page-248
 
-[[Chapter-16#^Page-249]] #Chapter-16 #Page-249
+[[Chapter-16#^Page-249]] ~Chapter-16 ~Page-249
 groundwork glycolysis is explosive. Two-thousand-fold boost, and no oxygen
 demand."
 "Scramblers sprint. Their whole lives."
@@ -383,7 +383,7 @@ What do you want from me?"
 they're just biomechanical machines."
 "That's what life is, Keeton. That's what you are." Another hit ^Page-249
 
-[[Chapter-16#^Page-250]] #Chapter-16 #Page-250
+[[Chapter-16#^Page-250]] ~Chapter-16 ~Page-250
 of nicotine, another storm of numbers,
 another sample. "Life isn't either/or. It's a matter of degree."
 "What I'm asking is, are they natural? Could they be constructs?"
@@ -408,7 +408,7 @@ peeking over our shoulders and writing home to our masters?"
 masters even know it's started." He sucked smoke. "Or perhaps not. Perhaps you're talking to someone
 closer, hmm? That it? Is the Fourth Wave telling you what to do?" ^Page-250
 
-[[Chapter-16#^Page-251]] #Chapter-16 #Page-251
+[[Chapter-16#^Page-251]] ~Chapter-16 ~Page-251
 "There is no Fourth Wave. Not that anyone's told me, anyway."
 "Probably not. They'd never risk their lives out here, would they? Too dangerous even to hang back
 and watch from a distance. That's why they built us."
@@ -434,7 +434,7 @@ resenting the presence of this mole among the crew.
 It would hardly have been the first time I'd encountered such a reaction. Everyone resented me to
 some extent. Oh, they liked me ^Page-251
 
-[[Chapter-16#^Page-252]] #Chapter-16 #Page-252
+[[Chapter-16#^Page-252]] ~Chapter-16 ~Page-252
 well enough, or thought they did. They tolerated my intrusions, and
 cooperated, and gave away far more than they thought they did.
 But beneath Szpindel's gruff camaraderie, beneath James's patient explanations—there was no real
@@ -460,7 +460,7 @@ That was the center of Cunningham's awareness right now, not this nicotine-stain
 me. Those were his eyes, or his tongue, or whatever unimaginable bastard-senses he used to parse
 what the machines sent him. Those clusters aimed back at me, at us—and if Robert Cunningham ^Page-252
 
-[[Chapter-16#^Page-253]] #Chapter-16 #Page-253
+[[Chapter-16#^Page-253]] ~Chapter-16 ~Page-253
 still
 possessed anything that might be called vision, he was watching himself from eyes two meters outside
 his own skull.
@@ -490,6 +490,6 @@ He couldn't hear the real conversation we were having. All his angles and surfac
 although their voices were strangely fuzzed with feedback and distortion I knew I'd be able to
 understand them eventually. I only had to keep him talking. ^Page-253
 
-[[Chapter-16#^Page-254]] #Chapter-16 #Page-254
+[[Chapter-16#^Page-254]] ~Chapter-16 ~Page-254
 But Jukka Sarasti chose that moment to wander past and surgically trash my best-laid plans.
 "Siri's best in his field," he remarked. "But not when it gets too close to home." ^Page-254

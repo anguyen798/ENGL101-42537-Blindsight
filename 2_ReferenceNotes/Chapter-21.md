@@ -1,4 +1,4 @@
-[[Chapter-21#^Page-304]] #Chapter-21 #Page-304
+[[Chapter-21#^Page-304]] ~Chapter-21 ~Page-304
 If the human brain were so simple that we could understand it,
 we would be so simple that we couldn't."
 —Emerson M. Pugh
@@ -18,7 +18,7 @@ until you're on them again, and again because it's fun, because it gives you ple
 of shit. You send us into the arms of that hellish thing and it plays with us too, and maybe you're even
 working together because it let me escape just like you do, it let me run right back into your arms and ^Page-304
 
-[[Chapter-21#^Page-305]] #Chapter-21 #Page-305
+[[Chapter-21#^Page-305]] ~Chapter-21 ~Page-305
 then you strip me down to some raw half-brained defenseless animal, I can't rotate or transform I can't
 even talk and you—
 You—
@@ -45,7 +45,7 @@ Susan James, her personhood restored. I knew her again: not a meat sack, no long
 "We have been over this." That was Cunningham. I knew him too. I knew them all. Whatever Sarasti
 had done to me, however far he'd yanked me from my room, I'd somehow fallen back inside. ^Page-305
 
-[[Chapter-21#^Page-306]] #Chapter-21 #Page-306
+[[Chapter-21#^Page-306]] ~Chapter-21 ~Page-306
 It should have mattered more.
 "—because for one thing, if it were really so pernicious, natural selection would have weeded it out,"
 James was saying.
@@ -73,7 +73,7 @@ release. Now he didn't care who knew he was around.
 completely unwarranted, Jukka."
 "It isn't." ^Page-306
 
-[[Chapter-21#^Page-307]] #Chapter-21 #Page-307
+[[Chapter-21#^Page-307]] ~Chapter-21 ~Page-307
 "You assaulted a crewmember. If we had a brig you'd be in it for the rest of the trip."
 "This isn't a military vessel, Major. You're not in charge."
 I didn't need a visual feed to know what Bates thought of that. But there was something else in her
@@ -99,7 +99,7 @@ into which it might fit.
 I stayed in the center of the universe for a long time, hiding. I kept the lights off. I didn't eat. I crept
 from my tent only to piss or shit in the cramped head down at Fab, and only when the spine ^Page-307
 
-[[Chapter-21#^Page-308]] #Chapter-21 #Page-308
+[[Chapter-21#^Page-308]] ~Chapter-21 ~Page-308
 was
 deserted. A field of painful blisters rose across my flash-burned back, as densely packed as kernels on
 a corncob. The slightest abrasion tore them open.
@@ -127,7 +127,7 @@ cough or a grunt.
 When they did speak, they never mentioned my name. Only once did I hear any of them even hint at
 my existence. ^Page-308
 
-[[Chapter-21#^Page-309]] #Chapter-21 #Page-309
+[[Chapter-21#^Page-309]] ~Chapter-21 ~Page-309
 That was Cunningham, talking to Sascha about zombies. I heard them in the galley over breakfast,
 unusually talkative. Sascha hadn't been let out for a while, and was making up for lost time.
 Cunningham let her, for reasons of his own. Maybe his fears had been soothed somehow, maybe
@@ -152,7 +152,7 @@ Orangutans, did you know that? Higher encephalisation quotient. Yet they can't a
 themselves in a mirror. Orangs can."
 "So what's your point? Smarter animal, less self-awareness? Chimpanzees are becoming nonsentient?" ^Page-309
 
-[[Chapter-21#^Page-310]] #Chapter-21 #Page-310
+[[Chapter-21#^Page-310]] ~Chapter-21 ~Page-310
 "Or they were, before we stopped everything in its tracks."
 "So why didn't that happen to us?"
 "What makes you think it didn't?"
@@ -178,7 +178,7 @@ infodump. But even real people do that, don't they?"
 thing an automaton lacks is empathy; if you can't feel, you can't really relate to something that does,
 even if you act as though you do. Which makes it interesting ^Page-310
 
-[[Chapter-21#^Page-311]] #Chapter-21 #Page-311
+[[Chapter-21#^Page-311]] ~Chapter-21 ~Page-311
 to note how many sociopaths show up in
 the world's upper echelons, hmm? How ruthlessness and bottom-line self-interest are so lauded up in
 the stratosphere, while anyone showing those traits at ground level gets carted off into detention with
@@ -206,7 +206,7 @@ For once in your goddamned life, understand something.
 He'd said that to me. Or something had. During the assault.
 Understand that your life depends on it. ^Page-311
 
-[[Chapter-21#^Page-312]] #Chapter-21 #Page-312
+[[Chapter-21#^Page-312]] ~Chapter-21 ~Page-312
 Almost as if he were doing me a favor.
 Then he'd left me alone. And had evidently told the others to do the same.
 Are you listening, Keeton?
@@ -231,7 +231,7 @@ of it: why not soft computers, and no more? Why should nonsentient systems be in
 But they never really raised their voices above the crowd. The value of what we are was too trivially
 self-evident to ever call into serious question. ^Page-312
 
-[[Chapter-21#^Page-313]] #Chapter-21 #Page-313
+[[Chapter-21#^Page-313]] ~Chapter-21 ~Page-313
 Yet the questions persisted, in the minds of the laureates, in the angst of every horny fifteen-year-old
 on the planet. Am I nothing but sparking chemistry? Am I a magnet in the ether? I am more than my
 eyes, my ears, my tongue; I am the little thing behind those things, the thing looking out from inside.

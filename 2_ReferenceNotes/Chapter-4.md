@@ -1,4 +1,4 @@
-[[Chapter-4#^Page-54]] #Chapter-4 #Page-54
+[[Chapter-4#^Page-54]] ~Chapter-4 ~Page-54
 "All kinds of animals living here. Occasional demons too."
 — Ian Anderson, Catfish Rising
 The Third Wave, they called us. All in the same boat, driving into the long dark courtesy of a
@@ -17,7 +17,7 @@ the darkness, my twin brother a stereoscopic hundred klicks to starboard, dual s
 pions boosting us to relativity before poor old Theseus had even crawled past Mars.
 But now, six billion kilometers to stern, Mission Control turns off ^Page-54
 
-[[Chapter-4#^Page-55]] #Chapter-4 #Page-55
+[[Chapter-4#^Page-55]] ~Chapter-4 ~Page-55
 the tap and leaves us coasting. The
 comet swells in our sights, a frozen enigma sweeping its signal across the sky like a lighthouse beam.
 We bring rudimentary senses to bear and stare it down on a thousand wavelengths.
@@ -43,7 +43,7 @@ than anything flesh-constrained. We are weighed down by payloads which make us v
 omniscient. We see on every wavelength, from radio to string. Our autonomous microprobes measure
 everything our masters anticipated; ^Page-55
 
-[[Chapter-4#^Page-56]] #Chapter-4 #Page-56
+[[Chapter-4#^Page-56]] ~Chapter-4 ~Page-56
 tiny onboard assembly lines can build tools from the atoms up, to
 assess the things they did not. Atoms, scavenged from where we are, join with ions beamed from where
 we were: thrust and materiel accumulate in our bellies.
@@ -68,7 +68,7 @@ are back online in seconds, diagnostics green within and without. I reach out to
 identical experiences, identical recoveries. We are all still fully functional, unless the sudden increase
 in ambient ion density is some ^Page-56
 
-[[Chapter-4#^Page-57]] #Chapter-4 #Page-57
+[[Chapter-4#^Page-57]] ~Chapter-4 ~Page-57
 kind of sensory artefact. We are ready to continue our investigation of
 Burns-Caulfield.
 The only real problem is that Burns-Caulfield seems to have disappeared...
@@ -93,7 +93,7 @@ twenty-four until the ship decided we were fully recovered. For the next few day
 rare and blesséd thing.
 Light sculptures appeared on the tabletop. Sarasti could have fed ^Page-57
 
-[[Chapter-4#^Page-58]] #Chapter-4 #Page-58
+[[Chapter-4#^Page-58]] ~Chapter-4 ~Page-58
 the information directly to our inlays
 — the whole briefing could have gone through ConSensus, without the need to assemble physically in
 the same place— but if you want to be sure everyone's paying attention, you bring them together.
@@ -119,7 +119,7 @@ Bates: "Torqued by what?"
 Layers of statistical inference piled up on the table while Sarasti sketched background: even with a
 solid bearing and half the world's attention, the object had hidden from all but the most intensive ^Page-58
 
-[[Chapter-4#^Page-59]] #Chapter-4 #Page-59
+[[Chapter-4#^Page-59]] ~Chapter-4 ~Page-59
 search. A thousand telescopic snapshots had been stacked one on another and squeezed through a
 dozen filters before something emerged from the static, just below the three-meter band and the
 threshold of certainty. For the longest time it hadn't even been real: just a probabilistic ghost until
@@ -145,7 +145,7 @@ set up. Whoever built it obviously values their anonymity and has the technology
 The ball bounced one last time and wobbled back towards the Commons. Bates half-hopped from her
 seat (she floated briefly), ^Page-59
 
-[[Chapter-4#^Page-60]] #Chapter-4 #Page-60
+[[Chapter-4#^Page-60]] ~Chapter-4 ~Page-60
 barely catching it on its way past. There remained a new-born-animal
 awkwardness to her movements, half Coriolis, half residual rigor. Still: a big improvement in four
 hours. The rest of the Humans were barely past the walking stage.
@@ -171,7 +171,7 @@ Sarasti opened his mouth, closed it again. Filed teeth, briefly visible, clicked
 Tabletop graphics reflected off his visor, a band of writhing polychrome distortions where eyes should
 be. ^Page-60
 
-[[Chapter-4#^Page-61]] #Chapter-4 #Page-61
+[[Chapter-4#^Page-61]] ~Chapter-4 ~Page-61
 Sascha shut up.
 Sarasti continued. "They trade stealth for speed. By the time you react, they already have what they
 want." He spoke quietly, patiently, a well-fed predator explaining the rules of the game to prey that
@@ -197,7 +197,7 @@ pings Theseus four hours forty-eight minutes ago. We respond with an identical s
 launches half-hour before we wake up. We don't go in blind, but we don't wait. They see us already.
 Longer we wait, greater risk of countermeasures." ^Page-61
 
-[[Chapter-4#^Page-62]] #Chapter-4 #Page-62
+[[Chapter-4#^Page-62]] ~Chapter-4 ~Page-62
 I looked at the dark featureless placeholder on the table: bigger than Jupiter and we couldn't even see
 it yet. Something in the shadow of that mass had just reached out with casual, unimaginable precision
 and tapped us on the nose with a laser beam.
@@ -222,7 +222,7 @@ molecules, but even with all those technical specs in his head he never really g
 He called me, before we left. I hadn't been expecting it; ever since the roster had been announced our
 watches had blocked calls ^Page-62
 
-[[Chapter-4#^Page-63]] #Chapter-4 #Page-63
+[[Chapter-4#^Page-63]] ~Chapter-4 ~Page-63
 from anyone not explicitly contact-listed. I'd forgotten that Pag had been.
 We hadn't spoken since Chelsea. I'd given up on ever hearing from him again.
 But there he was. "Pod-man." He smiled, a tentative overture.
@@ -248,7 +248,7 @@ his own little world."
 Necker cube in their heads at the same time?"
 The term rang a bell. I subtitled, and saw the thumbnail of a familiar wireframe box: ^Page-63
 
-[[Chapter-4#^Page-64]] #Chapter-4 #Page-64
+[[Chapter-4#^Page-64]] ~Chapter-4 ~Page-64
 Now I remembered: classic ambiguous illusion. Sometimes the shaded panel seemed to be in front,
 sometimes behind. The perspective flipped back and forth as you watched.
 "You or I, we can only see it one way or the other," Pag was saying. "Vamps see it both ways at once.
@@ -269,7 +269,7 @@ They don't remember stuff, they relive it."
 "Not so traumatic." He grimaced. "Not for them, at least."
 "So this is obviously your current hot spot? Vampires?" ^Page-64
 
-[[Chapter-4#^Page-65]] #Chapter-4 #Page-65
+[[Chapter-4#^Page-65]] ~Chapter-4 ~Page-65
 "Pod, vampires are the capital-Hot spot for anyone with a 'neuro' in their c.v. I'm just doing a couple
 of histology papers. Pattern-matching receptors, Mexican-hat arrays, reward/irrelevance filters. The
 eyes, basically."
@@ -297,7 +297,7 @@ He let the lie sit there for a while.
 "Anyway," he said at last. "I just wanted to wish you luck." Which wasn't exactly true either.
 "Thanks. I appreciate that." ^Page-65
 
-[[Chapter-4#^Page-66]] #Chapter-4 #Page-66
+[[Chapter-4#^Page-66]] ~Chapter-4 ~Page-66
 "Kick their alien asses. If aliens have asses."
 "There's five of us, Pag. Nine if you count the backups. We're not exactly an army."
 "Just an expression, fellow mammal. Bury the hatchet. Damn the torpedoes. Soothe the serpent."
@@ -322,7 +322,7 @@ children on his behalf, Robert Paglino was still my best and only friend.
 "You need to seriously thaw out," he told me, "And I know just the lady to handle the oven mitts."
 "That is perhaps the worst use of metaphor in the history of human language," I said. ^Page-66
 
-[[Chapter-4#^Page-67]] #Chapter-4 #Page-67
+[[Chapter-4#^Page-67]] ~Chapter-4 ~Page-67
 "Seriously, Pod. She'll be good for you. A, a counterbalance—ease you a bit closer to the comfy mean,
 you know?"
 "No, Pag, I don't. What is she, another neuroeconomist?"
@@ -350,7 +350,7 @@ He grinned. "Different deal. We got history."
 "Appoin—you're an asshole, Pag."
 "The tightest." ^Page-67
 
-[[Chapter-4#^Page-68]] #Chapter-4 #Page-68
+[[Chapter-4#^Page-68]] ~Chapter-4 ~Page-68
 Which was how I found myself intrusively face-to-face in an airspace lounge south of Beth and Bear.
 The lighting was low and indirect, creeping from under seats and the edges of tables; the chromatics,
 this afternoon at least, were defiantly longwave. It was a place where baselines could pretend to see in
@@ -376,7 +376,7 @@ embarrassed to admit it. Monahan was her favorite artist. She thought herself a 
 she'd stayed on chemical libidinals all these years, even though a synaptic edit would have been
 simpler. She revelled in her own inconsistency: a woman whose ^Page-68
 
-[[Chapter-4#^Page-69]] #Chapter-4 #Page-69
+[[Chapter-4#^Page-69]] ~Chapter-4 ~Page-69
 professional machinery edited
 thought itself, yet mistrustful of the dehumanising impact of telephones. Innately affectionate, and
 innately afraid of unreturned affection, and indomitably unwilling to let any of that stop her.
@@ -401,7 +401,7 @@ Chelsea grimaced; the butterfly on her cheek fluttered nervously at the motion, 
 Changing taste in music or cuisine, you know, optimizing mate compatibility. It's all completely
 reversible." ^Page-69
 
-[[Chapter-4#^Page-70]] #Chapter-4 #Page-70
+[[Chapter-4#^Page-70]] ~Chapter-4 ~Page-70
 "There aren't drugs for that?"
 "Nah. Too much developmental variation between brains; our targeting is really fine-scale. But it's not
 all microsurgery and fried synapses, you know. You'd be surprised how much rewiring can be done
@@ -429,7 +429,7 @@ She nodded. "I'm very old-school. You okay with that?"
 I wasn't certain. I was a virgin in the real world, one of the few things I still had in common with the
 rest of civilized society. ^Page-70
 
-[[Chapter-4#^Page-71]] #Chapter-4 #Page-71
+[[Chapter-4#^Page-71]] ~Chapter-4 ~Page-71
 "In principle, I guess. It just seems—a lot of effort for not as much payoff,
 you know?"
 "Don't I." She smiled. "Real fuckbuddies aren't airbrushed. Got all these needs and demands that you
@@ -458,7 +458,7 @@ a name that means something."
 And we were, I realized. Chelsea had decided while I wasn't looking. I could have stopped her right
 there, told her what a bad idea ^Page-71
 
-[[Chapter-4#^Page-72]] #Chapter-4 #Page-72
+[[Chapter-4#^Page-72]] ~Chapter-4 ~Page-72
 this was, apologized for any misunderstanding. But then there'd be
 wounded looks and hurt feelings and guilt because after all, if I wasn't interested why the hell had I
 even shown up?

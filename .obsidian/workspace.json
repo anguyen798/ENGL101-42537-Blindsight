@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ff19a21bbc6467e7",
+        "id": "a9447d29c658da6b",
         "type": "tabs",
         "children": [
           {
-            "id": "f9409c28dfb84187",
+            "id": "49f6186fcd47b861",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_ReferenceNotes/Chapter-1.md",
+                "file": "2_ReferenceNotes/Chapter-24.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "fe692e74a9b99097",
+            "id": "2f3c0217011f84ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Zettelkasten/Example - Chinese Room.md",
+                "file": "4_Templates/lvl4-advanced-inference.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,20 +34,15 @@
             }
           },
           {
-            "id": "f1bb118b0c7b69fc",
+            "id": "f86f921e4fa513a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Zettelkasten/Essay Hit List.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "rorschach may have been reproducing but",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Zettelkasten/Essay Hit List.md",
+                "file": "4_Templates/lvl4-advanced-inference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Zettelkasten/Essay Hit List.md",
+                "file": "4_Templates/lvl4-advanced-inference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Zettelkasten/Essay Hit List.md"
+                "file": "4_Templates/lvl4-advanced-inference.md"
               }
             }
           },
@@ -193,36 +188,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f1bb118b0c7b69fc",
+  "active": "2f3c0217011f84ef",
   "lastOpenFiles": [
-    "1_Zettelkasten/Example - Chinese Room.md",
-    "2_ReferenceNotes/Chapter-1.md",
-    "1_Zettelkasten/@Siri has low self-esteem.md",
-    "1_Zettelkasten/+6+94+The glass ceiling is in you. The glass ceiling is conscience.”.md",
-    "1_Zettelkasten/Amanda Bates.md",
+    "4_Templates/lvl3-basic-analysis.md",
+    "4_Templates/lvl4-advanced-inference.md",
+    "4_Templates/lvl2-investigating.md",
+    "1_Zettelkasten/And it's not just the sex. She keeps asking...wanting to know things..md",
+    "2_ReferenceNotes/Chapter-24.md",
+    "2_ReferenceNotes/Chapter-23.md",
+    "2_ReferenceNotes/Chapter-22.md",
+    "2_ReferenceNotes/Chapter-21.md",
+    "2_ReferenceNotes/Chapter-20.md",
+    "2_ReferenceNotes/Chapter-19.md",
+    "2_ReferenceNotes/Chapter-18.md",
+    "2_ReferenceNotes/Chapter-17.md",
+    "2_ReferenceNotes/Chapter-16.md",
+    "2_ReferenceNotes/Chapter-15.md",
+    "2_ReferenceNotes/Chapter-14.md",
+    "2_ReferenceNotes/Chapter-13.md",
+    "2_ReferenceNotes/Chapter-12.md",
+    "2_ReferenceNotes/Chapter-11.md",
+    "2_ReferenceNotes/Chapter-10.md",
+    "2_ReferenceNotes/Chapter-9.md",
+    "2_ReferenceNotes/Chapter-8.md",
+    "2_ReferenceNotes/Chapter-7.md",
+    "2_ReferenceNotes/Chapter-6.md",
+    "2_ReferenceNotes/Chapter-5.md",
+    "2_ReferenceNotes/Chapter-4.md",
+    "2_ReferenceNotes/Chapter-3.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "1_Zettelkasten/Imagine a crown of thorns, twisted, dark and unreflective, grown too thickly tangled to ever rest on any human head. (Watts 124).md",
-    "1_Zettelkasten/+24+357+Species used to go extinct. Now they go on hiatus..md",
-    "1_Zettelkasten/+23+332+You cannot prevent and prepare for war at the same time..md",
-    "1_Zettelkasten/+22+314+Not until we are lost do we begin to understand ourselves..md",
-    "1_Zettelkasten/+21+304+If the human brain were so simple that we could understand it, we would be so simple that we couldn’t..md",
-    "1_Zettelkasten/+20+294+Ye shall know the truth, and the truth shall make you mad..md",
-    "1_Zettelkasten/+19+280+If I can but make the words awake the feeling..md",
-    "1_Zettelkasten/+18+268+That which does not kill us, makes us stranger..md",
-    "1_Zettelkasten/+17+255+Why should man expect his prayer for mercy to be heard by What is above him when he shows no mercy to what is under him.md",
-    "1_Zettelkasten/+16+235+Grunts look the enemy in the eye. Grunts know the stakes...The whole chain of command is upside-down..md",
-    "1_Zettelkasten/+15+228+Problems cannot be solved at the same level of awareness that created them..md",
-    "1_Zettelkasten/+14+139+My genes done gone and tricked my brain-By making fucking feel so great.md",
-    "1_Zettelkasten/+13+198+You have eyes, but you do not see..md",
-    "1_Zettelkasten/+12+188+If you can see it, chances are it doesn’t exist..md",
-    "1_Zettelkasten/+11+169+Predators run for their dinner. Prey run for their lives..md",
-    "1_Zettelkasten/+10+154+The Lord will take control of you. You will dance and shout and become a different person..md",
-    "1_Zettelkasten/+9+143+Mothers are fonder than fathers of their children because they are more certain they are their own..md",
-    "1_Zettelkasten/+8+126+Life’s too short for chess..md",
-    "1_Zettelkasten/+7+110+They know the music but not the words..md",
-    "1_Zettelkasten/+5+73+Leaders are visionaries with a poorly developed sense of fear and no concept of the odds against them..md",
-    "1_Zettelkasten/+1+17+Try to touch the past. Try to deal with the past. It’s not real. It’s just a dream..md",
     "Blindsight.canvas",
     "2-25.canvas",
     "Excalidraw",

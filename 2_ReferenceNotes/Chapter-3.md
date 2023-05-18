@@ -1,6 +1,4 @@
-#Chapter-3 
-
-[[Chapter-3#^Page-36]] #Chapter-3 #Page-36
+[[Chapter-3#^Page-36]] ~Chapter-3 ~Page-36
 "When it is dark enough, you can see the stars."
 —Emerson
 Where was I when the lights came down?
@@ -20,7 +18,7 @@ more real than it would ever be, of course; the body could not talk to us. But a
 flesh warm, the sheets clean and straight. Helen's lower face was still visible below the cowl, though
 eyes and ears ^Page-36
 
-[[Chapter-3#^Page-37]] #Chapter-3 #Page-37
+[[Chapter-3#^Page-37]] ~Chapter-3 ~Page-37
 were helmeted. We could touch her. My father often did. Perhaps some distant part of
 her still felt it.
 But eventually someone has to close the casket and dispose of the remains. Room must be made for
@@ -45,7 +43,7 @@ We donned the hoods that served as day passes for the Unwired, and we met my mot
 visiting room she imagined for these visits. She'd built no windows into the world she occupied, no
 hint of whatever utopian environment she'd constructed ^Page-37
 
-[[Chapter-3#^Page-38]] #Chapter-3 #Page-38
+[[Chapter-3#^Page-38]] ~Chapter-3 ~Page-38
 for herself. She hadn't even opted for one of
 the prefab visiting environments designed to minimize dissonance among visitors. We found
 ourselves in a featureless beige sphere five meters across. There was nothing in there but her.
@@ -72,7 +70,7 @@ corpse on the bed to my blind and catatonic father in his couch, murmuring sweet
 datastream. Let them perform for each other. Let them formalize and finalize their so-called
 relationship in whatever way they ^Page-38
 
-[[Chapter-3#^Page-39]] #Chapter-3 #Page-39
+[[Chapter-3#^Page-39]] ~Chapter-3 ~Page-39
 saw fit. Maybe, just once, they could even bring themselves to be
 honest, there in that other world where everything else was a lie. Maybe.
 I felt no desire to bear witness either way.
@@ -99,7 +97,7 @@ He smiled a bit at that. "It's my life, son. I'm comfortable with it."
 "I don't blame her," he said. "And neither should you."
 Easy for him to say. Easy even to accept the hurt she'd inflicted ^Page-39
 
-[[Chapter-3#^Page-40]] #Chapter-3 #Page-40
+[[Chapter-3#^Page-40]] ~Chapter-3 ~Page-40
 on him all these years. This cheerful
 façade here at the end hardly made up for the endless bitter complaints my father had endured
 throughout living memory. Do you think it's easy when you disappear for months on end? Do you think
@@ -126,7 +124,7 @@ rest of us, her eyes shining yellow and bright as a cat's in the deepening dark.
 watched, that something was amiss. She looked around, glanced at the sky—and continued on her way,
 totally indifferent to the ^Page-40
 
-[[Chapter-3#^Page-41]] #Chapter-3 #Page-41
+[[Chapter-3#^Page-41]] ~Chapter-3 ~Page-41
 cattle on all sides, to the heavenly portent that had transfixed them. Totally
 indifferent to the fact that the world had just turned inside-out.
 It was 1035 Greenwich Mean Time, February 13, 2082.
@@ -150,7 +148,7 @@ We'd been surveyed—whether as a prelude to formal introductions or outright in
 guess.
 My father might have known someone who might have known. ^Page-41
 
-[[Chapter-3#^Page-42]] #Chapter-3 #Page-42
+[[Chapter-3#^Page-42]] ~Chapter-3 ~Page-42
 But by then he'd long since
 disappeared, as he always did during times of hemispheric crisis. Whatever he knew or didn't, he left
 me to find my own answers with everyone else.
@@ -175,7 +173,7 @@ can see them and feel them and smell them next to you. But it's not. It's just s
 I mean, sure, the shadows come in three-dee color with force-feedback tactile interactivity. They're
 good enough to fool the civilized brain. But your gut knows ^Page-42
 
-[[Chapter-3#^Page-43]] #Chapter-3 #Page-43
+[[Chapter-3#^Page-43]] ~Chapter-3 ~Page-43
 those aren't people, even if it can't put its
 finger on how it knows. They just don't feel real. Know what I mean?"
 I didn't. Back then I'd had no clue what she was talking about. But now we were all cavemen again,
@@ -201,7 +199,7 @@ gather information.
 I can imagine that easily. It is in fact a much simpler impersonation than the kind I'm usually called
 on to perform. ^Page-43
 
-[[Chapter-3#^Page-44]] #Chapter-3 #Page-44
+[[Chapter-3#^Page-44]] ~Chapter-3 ~Page-44
 I coast through the abyss on the colder side of Neptune's orbit. Most of the time I exist only as an
 absence, to any observer on the visible spectrum: a moving, asymmetrical silhouette blocking the
 stars. But occasionally, during my slow endless spin, I glint with dim hints of reflected starlight. If
@@ -225,7 +223,7 @@ requests for information. I answer as best I can: yes, this is the bearing at wh
 greatest. No, it is not the usual bearing for Mission Control. Yes, I can retransmit: here it is, all over
 again. Yes, I will go into standby mode. ^Page-44
 
-[[Chapter-3#^Page-45]] #Chapter-3 #Page-45
+[[Chapter-3#^Page-45]] ~Chapter-3 ~Page-45
 I await further instructions. They arrive 839 minutes later, and they tell me to stop studying comets
 immediately.
 I am to commence a controlled precessive tumble that sweeps my antennae through consecutive 5-
@@ -250,7 +248,7 @@ stalled AI for decades; once broken, the experts promised we'd be eighteen month
 personality upload and only two years from reliable Human-consciousness emulation in a software
 environment. It would spell the end of corporeal history, usher ^Page-45
 
-[[Chapter-3#^Page-46]] #Chapter-3 #Page-46
+[[Chapter-3#^Page-46]] ~Chapter-3 ~Page-46
 in a Singularity that had been waiting
 impatiently in the wings for nigh on fifty years.
 Two months after Firefall, the Institute cancelled my contract.
@@ -276,7 +274,7 @@ Disgraceful breakdown of global security.
 No harm done.
 Comsats annihilated. Thousands dead. ^Page-46
 
-[[Chapter-3#^Page-47]] #Chapter-3 #Page-47
+[[Chapter-3#^Page-47]] ~Chapter-3 ~Page-47
 Random collisions. Accidental
 deaths.
 (who sent them?)
@@ -312,7 +310,7 @@ Accept?
 The text window blossomed directly in my line of sight, eclipsing the debate. I read it twice. I tried to
 remember the last time he'd called from the field, and couldn't. ^Page-47
 
-[[Chapter-3#^Page-48]] #Chapter-3 #Page-48
+[[Chapter-3#^Page-48]] ~Chapter-3 ~Page-48
 I muted the other windows. "Dad?"
 "Son," he replied after a moment. "Are you well?"
 "Like everyone else. Still wondering whether we should be celebrating or crapping our pants."
@@ -335,7 +333,7 @@ Because while my father was a man of few words, he was not a man of frequent, in
 and he had hesitated before each and every line he'd spoken in this exchange.
 I tugged ever-so-gently on the line—"But they've sent ships."—and started counting. ^Page-48
 
-[[Chapter-3#^Page-49]] #Chapter-3 #Page-49
+[[Chapter-3#^Page-49]] ~Chapter-3 ~Page-49
 One one-thousand, two one-thousand—
 "Just a precaution. Icarus was overdue for a visit anyway. You don't swap out your whole grid without
 at least dropping in and kicking the new tires first."
@@ -366,7 +364,7 @@ WestHem lab.
 transmission."
 "Who are they talking to?" ^Page-49
 
-[[Chapter-3#^Page-50]] #Chapter-3 #Page-50
+[[Chapter-3#^Page-50]] ~Chapter-3 ~Page-50
 "We don't know."
 "Friendly? Hostile?"
 "Son, we don't know. The encryption seems similar, but we can't even be sure of that. All we have is
@@ -393,7 +391,7 @@ He didn't have to answer. I didn't have to ask. At these kind of stakes, mission
 get the luxury of choice. I wouldn't even have the childish satisfaction of holding my breath and
 refusing to play—the will to resist is no less mechanical than ^Page-50
 
-[[Chapter-3#^Page-51]] #Chapter-3 #Page-51
+[[Chapter-3#^Page-51]] ~Chapter-3 ~Page-51
 the urge to breathe. Both can be
 subverted with the right neurochemical keys.
 "You killed my Kurzweill contract," I realized.
@@ -423,7 +421,7 @@ increasing its clarity.
 The new Millennium changed all that. We've surpassed ourselves now, we're exploring terrain beyond
 the limits of merely human understanding. Sometimes its contours, even in conventional space, ^Page-51
 
-[[Chapter-3#^Page-52]] #Chapter-3 #Page-52
+[[Chapter-3#^Page-52]] ~Chapter-3 ~Page-52
 are
 just too intricate for our brains to track; other times its very axes extend into dimensions
 inconceivable to minds built to fuck and fight on some prehistoric grassland. So many things constrain
@@ -448,7 +446,7 @@ In formal settings you'd call me Synthesist. On the street you call me jargonaut
 of those savants whose hard-won truths are being bastardized and lobotomized for powerful know-
 nothings interested only in market share, you might call me a mole or a chaperone. ^Page-52
 
-[[Chapter-3#^Page-53]] #Chapter-3 #Page-53
+[[Chapter-3#^Page-53]] ~Chapter-3 ~Page-53
 If you're Isaac Szpindel you'd call me commissar, and while the jibe would be a friendly one, it would
 also be more than that.
 I've never convinced myself that we made the right choice. I can cite the usual justifications in my
