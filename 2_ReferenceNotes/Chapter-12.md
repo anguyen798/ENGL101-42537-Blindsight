@@ -132,7 +132,6 @@ at the midline. You know it with the same unshakeable certainty of any man regar
 his own limbs, with that hardwired awareness that needs no other confirmation. Against that
 conviction, what is reason? What is logic?
 Inside Rorschach, they had no place at all.
-*
 On the sixth orbit it acted.
 "It's talking to us," James said. Her eyes were wide behind the faceplate, but not bright, not manic.
 Around us Rorschach's guts oozed and crawled at the corner of my eye; it still took effort to ignore the

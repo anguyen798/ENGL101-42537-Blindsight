@@ -293,7 +293,6 @@ technology, should they prove unfriendly. Still, I could tell that Bates' presen
 Human members of the crew at least. If you have to go up unarmed against an angry T-rex with a four-
 digit IQ, it can't hurt to have a trained combat specialist at your side.
 At the very least, she might be able to fashion a pointy stick from the branch of some convenient tree.
-*
 "I swear, if the aliens end up eating the lot of us, we'll have the Church of Game Theory to thank for
 it," Sascha said.
 She was grabbing a brick of couscous from the galley. I was there for the caffeine. We were more or

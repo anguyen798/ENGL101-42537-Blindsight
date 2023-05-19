@@ -1,5 +1,5 @@
 Status: #idea
-Tags: [[Living object]]
+Tags: [[@Rorsarch]]
 
 * Rorsarch is growing 
 

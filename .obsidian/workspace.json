@@ -4,45 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a9447d29c658da6b",
+        "id": "a750e746f2961260",
         "type": "tabs",
         "children": [
           {
-            "id": "49f6186fcd47b861",
+            "id": "1a3745bf1fa2a5b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_ReferenceNotes/Chapter-24.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f3c0217011f84ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4_Templates/lvl4-advanced-inference.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f86f921e4fa513a6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rorschach may have been reproducing but",
+                "query": "\"Another prototype\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -108,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4_Templates/lvl4-advanced-inference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4_Templates/lvl4-advanced-inference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "4_Templates/lvl4-advanced-inference.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,34 +157,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2f3c0217011f84ef",
+  "active": "1a3745bf1fa2a5b5",
   "lastOpenFiles": [
-    "4_Templates/lvl3-basic-analysis.md",
-    "4_Templates/lvl4-advanced-inference.md",
-    "4_Templates/lvl2-investigating.md",
-    "1_Zettelkasten/And it's not just the sex. She keeps asking...wanting to know things..md",
-    "2_ReferenceNotes/Chapter-24.md",
-    "2_ReferenceNotes/Chapter-23.md",
-    "2_ReferenceNotes/Chapter-22.md",
-    "2_ReferenceNotes/Chapter-21.md",
-    "2_ReferenceNotes/Chapter-20.md",
-    "2_ReferenceNotes/Chapter-19.md",
-    "2_ReferenceNotes/Chapter-18.md",
-    "2_ReferenceNotes/Chapter-17.md",
-    "2_ReferenceNotes/Chapter-16.md",
-    "2_ReferenceNotes/Chapter-15.md",
-    "2_ReferenceNotes/Chapter-14.md",
+    "1_Zettelkasten/Real-fuckbuddies-aren't-airbrushed...How-can-you-blame-anyone-for-saying-no-thanks-to-all-that,-now-there's-a-choice-You-gotta-wonder-how-our-parents-ever-stayed-together-sometimes.md",
+    "1_Zettelkasten/Robert-Cunningham.-Another-prototype...Both-smoother-and-harsher-...Szpindel-had-ticced-and-jerked-as-if-static-charged,-Cunningham's-face-held-all-the-expression-of-a-wax-dummy's..md",
+    "1_Zettelkasten/Our-hybrids-become-as-brilliant-as-savants,-and-as-autistic.-We-graft-people-to-prosthetics,-make-their-overloaded-motor-strips-...their-tongues-stutter.md",
+    "1_Zettelkasten/Or-rather,-they'd-had-less-than-three-minutes-four-fully-conscious-hub-personalities...in-parallel...-I-could-almost-see-why...-if-it-resulted-in-this-kind-of-performance..md",
+    "1_Zettelkasten/Natural-selection-doesn't-care-about-motives...Keep-it-up-long-enough-and-no-conscious-being-would-be-able-to-pick-your-zombie-out-of-a-crowd..md",
+    "1_Zettelkasten/The-Optimists,-whose-patron-saints-were-Drake-and-Sagan,-believed-in-a-universe-crawling-with-gentle-intelligence...Surely,-said-the-Optimists,-space-travel-implies-enlightenment.md",
+    "1_Zettelkasten/The-point-is-they-can-do-something-that's-neurologically-impossible-for-us-Humans...multiple-worldviews...they-don't-have-to-think-about-it..md",
+    "1_Zettelkasten/The-thing-is,-Chelsea-said...-You-have-to-care-enough-to-try,-you-know-I've-been-working-my-ass-off-on-this-relationship...you-just-don't-seem-to-care....md",
+    "1_Zettelkasten/There-was-a-day-you-might-have-even-hoped-for-a-peaceful-retirement.-But-then-they-brought-the-vampires-back...hunting-people-is-what-bloodsuckers-evolved-to-do.md",
+    "1_Zettelkasten/Your-intellect-makes-up-for-your-self-awareness-to-some-extent...flightless-birds-on-a-remote-island...not-so-much-successful-as-isolated-from-any-real-competition....md",
+    "1_Zettelkasten/In-the-end...Back-then-I-didn't-so-much-think-as-observe...what-I-remembered-was-a-thousand-inspirational-stories-lauding-anyone-who-ever-stuck-up-for-the-underdog.md",
+    "1_Zettelkasten/God,-you-make-it-sound...They're-just-tweaks,-mainly.-...optimizing-mate-compatibility.-It's-all-completely-reversible.md",
+    "1_Zettelkasten/Former-neuroaestheticist...Siri,-I-said.-Freelance-synthesist,-indentured-servant-to-the-genes-and-machines-that-turned-you-into-a-parasite..md",
+    "1_Zettelkasten/Equidistant-to-the-other-two-tribes-sat-the-Historians.-...they-said,-they're-not-just-going-to-be-smart.-They're-going-to-be-mean..md",
+    "1_Zettelkasten/Consciousness-as-Divine-Spark...electromagnetic-field...functional-cluster.-I-explored-it-all...trying-to-prove-what-consciousness-was-none-to-explain-what-it-was-good-for..md",
+    "1_Zettelkasten/Computers...grow-so-wise-and-incomprehensible...unfocused-and-irrelevant-to-the-barely-intelligent-creatures-left-behind.md",
+    "1_Zettelkasten/Across-from-the-Optimists-sat-the-Pessimists,-who-genuflected-before-graven-images-of-Saint-Fermi...The-odds-are-just-too-low,-they-insisted..md",
+    "1_Zettelkasten/They-never-experience-the-past-tense.....they-relive-it.-What,-like-a-post-traumatic-flashback.-Not-so-traumatic...Not-for-them,-at-least.md",
+    "1_Zettelkasten/We-were-fellow-outcasts...Mine-was-developmental.-His-was-genetic-an-uncontrolled-genotype...-His-parents-had-never-had-him-optimized.-Those-few-TwenCen-relics.md",
+    "1_Zettelkasten/When-you're-in-the-grip-of-Cotard's-Syndrome-or-hemineglect-you-cannot-be-swayed-by-argument...you-know-that-the-self-is-gone,-that-reality-ends-at-the-midline.md",
+    "1_Zettelkasten/You-figured-it-out.-From-Rorschach's-architecture,-probably-form-follows-...good-idea-of-what-a-scrambler-looked-like-before-anyone-ever-laid-eyes-on-them.-Or-at-least-...part-of-you-did.md",
     "2_ReferenceNotes/Chapter-13.md",
-    "2_ReferenceNotes/Chapter-12.md",
-    "2_ReferenceNotes/Chapter-11.md",
-    "2_ReferenceNotes/Chapter-10.md",
-    "2_ReferenceNotes/Chapter-9.md",
-    "2_ReferenceNotes/Chapter-8.md",
-    "2_ReferenceNotes/Chapter-7.md",
-    "2_ReferenceNotes/Chapter-6.md",
+    "Excalidraw/DisabilityAndBodyAnxieties.excalidraw",
+    "1_Zettelkasten/+5+73+Leaders are visionaries with a poorly developed sense of fear and no concept of the odds against them..md",
+    "Excalidraw/DisabilityAndBodyAnxieties.excalidraw.crswap",
     "2_ReferenceNotes/Chapter-5.md",
-    "2_ReferenceNotes/Chapter-4.md",
-    "2_ReferenceNotes/Chapter-3.md",
+    "2_ReferenceNotes/Chapter-21.md",
+    "2_ReferenceNotes/Chapter-22.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Blindsight.canvas",
@@ -233,8 +204,6 @@
     "2_ReferenceNotes",
     "1_Zettelkasten",
     "3_Files/Excalidraw",
-    "Chapters",
-    "Rorschach/Personality",
-    "Rorschach/Growth"
+    "Chapters"
   ]
 }

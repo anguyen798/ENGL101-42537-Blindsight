@@ -244,7 +244,6 @@ her eyes. ^Page-322
 There was pleading. There were tears.
 "Imagine you're a scrambler," she whispered again, as they floated like tiny perfect beads before her
 face.
-*
 Imagine you're a scrambler.
 Imagine you have intellect but no insight, agendas but no awareness. Your circuitry hums with
 strategies for survival and persistence, flexible, intelligent, even technological—but no other circuitry
@@ -279,7 +278,6 @@ consume the resources of a recipient for zero payoff and reduced fitness. The si
 Viruses do not arise from kin, symbionts, or other allies.
 The signal is an attack.
 And it's coming from right about there.
-*
 "Now you get it," Sascha said.
 I shook my head, trying to wrap it around that insane, impossible conclusion. "They're not even
 hostile." Not even capable of hostility. Just so profoundly alien that they couldn't help but treat human

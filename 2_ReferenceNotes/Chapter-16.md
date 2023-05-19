@@ -425,7 +425,6 @@ along. But I'm not nearly that smart, so you'll forgive me if it all seems a bit
 "I'm just—"
 "You're just doing your job. I know. But I don't like being played, Keeton. And that's what your job
 is."
-*
 Even back on Earth, Robert Cunningham had barely disguised his opinion of the ship's commissar. It
 had been obvious even to the topologically blind.
 I'd always had a hard time imagining the man. It wasn't just his expressionless face. Sometimes, not

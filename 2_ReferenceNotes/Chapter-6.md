@@ -334,7 +334,6 @@ Fast talkers, no conscience, tend to malapropism and self-contradiction. No emot
 "But if we were," Szpindel added, "we might call Rorschach a clinical sociopath."
 Sarasti had said nothing during this entire exchange. Now, with the word hanging out in the open, I
 noticed that nobody else would look at him.
-*
 We all knew that Jukka Sarasti was a sociopath, of course. Most of us just didn't mention it in polite
 company.
 Szpindel was never that polite. Or maybe it was just that he seemed to almost understand Sarasti; he

@@ -372,13 +372,13 @@ The glow on her cheek flapped bright lazy wings: a tattoo, a bioluminescent butt
 a parasite."
 She waved at the empty seat. I took it, assessing the system before me, sizing up the best approach for
 a fast yet diplomatic disconnect. The set of her shoulders told me she enjoyed lightscapes, and was
-embarrassed to admit it. Monahan was her favorite artist. She thought herself a natural girl because
+embarrassed to admit it. Monahan was her favorite artist.  thought herself a natural girl because
 she'd stayed on chemical libidinals all these years, even though a synaptic edit would have been
 simpler. She revelled in her own inconsistency: a woman whose ^Page-68
 
 [[Chapter-4#^Page-69]] ~Chapter-4 ~Page-69
 professional machinery edited
-thought itself, yet mistrustful of the dehumanising impact of telephones. Innately affectionate, and
+thought itself, yet mistrustful of the dehumanising impact of telephonShees. Innately affectionate, and
 innately afraid of unreturned affection, and indomitably unwilling to let any of that stop her.
 She liked what she saw when looked at me. She was a little afraid of that, too.
 Chelsea gestured at my side of the table. The touchpads there glowed soft, dissonant sapphire in the

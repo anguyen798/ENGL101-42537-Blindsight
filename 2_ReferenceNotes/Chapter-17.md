@@ -65,7 +65,6 @@ fault, that she'd tried as hard as she could, even that I had under the tragic w
 left, and maybe she didn't even blame me, and I never even knew who'd made that final decision.
 I was good at what I did. I was so damned good, I did it without even meaning to.
 "My God! Did you hear that!?"
-*
 Susan James bounced around the drum like a pronking wildebeest in the half-gravity. I could see the
 whites of her eyes from ninety degrees away. "Check your feeds! Check your feeds! The pens!" ^Page-257
 

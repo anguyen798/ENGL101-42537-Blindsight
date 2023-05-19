@@ -211,7 +211,6 @@ Almost as if he were doing me a favor.
 Then he'd left me alone. And had evidently told the others to do the same.
 Are you listening, Keeton?
 And he hadn't locked me out of ConSensus.
-*
 Centuries of navel-gazing. Millennia of masturbation. Plato to Descartes to Dawkins to Rhanda. Souls
 and zombie agents and qualia. Kolmogorov complexity. Consciousness as Divine Spark.
 Consciousness as electromagnetic field. Consciousness as functional cluster.

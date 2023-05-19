@@ -1,6 +1,7 @@
 {
   "vimMode": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "1",
-  "attachmentFolderPath": "3_Files"
+  "newFileFolderPath": "1_Zettelkasten",
+  "attachmentFolderPath": "3_Files",
+  "alwaysUpdateLinks": true
 }

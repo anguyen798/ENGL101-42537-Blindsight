@@ -1,4 +1,3 @@
-#Chapter-20 
 
 When Siri Keaton frames his punctured and split hand as that of a cruified limb,
 > Siri places himself in Jesus'subject position which is notable because when calling Rosarch a crown of thorns he says it's human head
