@@ -136,7 +136,6 @@ couldn't do was admit it to yourself." Cunningham shook his head. "Siri Keeton. 
 to you."
 He touched his face.
 "See what they've done to us all," he whispered.
-*
 I found the Gang floating in the center of the darkened observation blister. She made room as I joined
 her, pushed to one side and anchored herself to a bit of webbing.
 "Susan?" I asked. I honestly couldn't tell any more.

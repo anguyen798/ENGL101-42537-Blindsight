@@ -41,8 +41,8 @@
 		},
 		{
 			"type": "text",
-			"version": 813,
-			"versionNonce": 617539097,
+			"version": 848,
+			"versionNonce": 896193412,
 			"isDeleted": false,
 			"id": "UAEIy9a8",
 			"fillStyle": "hachure",
@@ -52,28 +52,28 @@
 			"opacity": 100,
 			"angle": 0,
 			"x": -1340.3745853484631,
-			"y": -3376.2085372847746,
+			"y": -3373.6514329175175,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 1186.589111328125,
-			"height": 277.7334594726565,
+			"height": 324.0223693847659,
 			"seed": 3225337,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684456419778,
+			"updated": 1684465065820,
 			"link": null,
 			"locked": false,
 			"fontSize": 37.031127929687536,
 			"fontFamily": 1,
-			"text": "Paragraph 1\n- Intro paragraph summarizing\n*Disabilities \n*Imply that conscioussness is a disability\n*Theseus and why it is called it and how it relates to disability\n(replacing parts of ship)",
-			"rawText": "Paragraph 1\n- Intro paragraph summarizing\n*Disabilities \n*Imply that conscioussness is a disability\n*Theseus and why it is called it and how it relates to disability\n(replacing parts of ship)",
+			"text": "Paragraph 1\n- Intro paragraph summarizing\n*Disabilities \n*Imply that conscioussness is a disability\n*Theseus and why it is called it and how it relates to disability\n(replacing parts of ship)\n*Start with a character, Imagine ",
+			"rawText": "Paragraph 1\n- Intro paragraph summarizing\n*Disabilities \n*Imply that conscioussness is a disability\n*Theseus and why it is called it and how it relates to disability\n(replacing parts of ship)\n*Start with a character, Imagine ",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Paragraph 1\n- Intro paragraph summarizing\n*Disabilities \n*Imply that conscioussness is a disability\n*Theseus and why it is called it and how it relates to disability\n(replacing parts of ship)",
+			"originalText": "Paragraph 1\n- Intro paragraph summarizing\n*Disabilities \n*Imply that conscioussness is a disability\n*Theseus and why it is called it and how it relates to disability\n(replacing parts of ship)\n*Start with a character, Imagine ",
 			"lineHeight": 1.25,
-			"baseline": 263
+			"baseline": 310
 		},
 		{
 			"type": "text",
@@ -113,8 +113,8 @@
 		},
 		{
 			"type": "text",
-			"version": 589,
-			"versionNonce": 1130056983,
+			"version": 623,
+			"versionNonce": 823081604,
 			"isDeleted": false,
 			"id": "ShvWGDaC",
 			"fillStyle": "hachure",
@@ -123,8 +123,8 @@
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -1326.034623867597,
-			"y": -2773.1448467021673,
+			"x": -1317.7268815259622,
+			"y": -2798.0680737270723,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 1255.1900634765625,
@@ -133,7 +133,7 @@
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684456419778,
+			"updated": 1684465087243,
 			"link": null,
 			"locked": false,
 			"fontSize": 38.19088609421636,
@@ -168,12 +168,7 @@
 			"seed": 1570939373,
 			"groupIds": [],
 			"roundness": null,
-			"boundElements": [
-				{
-					"id": "vPs7dBPwn0VbmZBc9JzmK",
-					"type": "arrow"
-				}
-			],
+			"boundElements": [],
 			"updated": 1684456419778,
 			"link": null,
 			"locked": false,
@@ -330,7 +325,7 @@
 			"containerId": null,
 			"originalText": "Paragraph 8\n- Cutting Edge and Crew of Theseus\n(Issac Szpindel & Robert Cunningham)",
 			"lineHeight": 1.25,
-			"baseline": 128
+			"baseline": 129
 		},
 		{
 			"type": "text",
@@ -366,7 +361,7 @@
 			"containerId": null,
 			"originalText": "\r\n",
 			"lineHeight": 1.25,
-			"baseline": 43
+			"baseline": 42
 		},
 		{
 			"type": "text",
@@ -474,7 +469,7 @@
 			"containerId": null,
 			"originalText": "Paragraph 12\n- Narrative structure of the novel and how it relates to the vampire disability\nof not experiencing the past",
 			"lineHeight": 1.25,
-			"baseline": 128
+			"baseline": 129
 		},
 		{
 			"type": "text",
@@ -546,7 +541,7 @@
 			"containerId": null,
 			"originalText": "Paragraph 11\n- Scramblers Disabilities and lack of consciousness as an evolutionary advantage\n(Malcolm Gladwell - David and Goliath)",
 			"lineHeight": 1.25,
-			"baseline": 128
+			"baseline": 129
 		},
 		{
 			"type": "text",
@@ -582,7 +577,7 @@
 			"containerId": null,
 			"originalText": "Paragraph 13\n- Imagine you're... and how those passages allow us baselines to experience\ndisability",
 			"lineHeight": 1.25,
-			"baseline": 128
+			"baseline": 129
 		},
 		{
 			"type": "line",
@@ -661,7 +656,7 @@
 			"containerId": null,
 			"originalText": "David and Goliath \nby Malcolm Gladwell\n- How people with \nDyslexia or with \nother disabilities \nbecome better \nleaders (Outside \nSource)",
 			"lineHeight": 1.25,
-			"baseline": 266
+			"baseline": 265
 		},
 		{
 			"type": "text",
@@ -2591,10 +2586,10 @@
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1334.536312395011,
-		"scrollY": 1414.2878861805714,
+		"scrollX": 1664.3724406685803,
+		"scrollY": 3399.199737770846,
 		"zoom": {
-			"value": 0.5499999999999999
+			"value": 0.48147858172655095
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
