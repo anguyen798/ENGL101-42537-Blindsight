@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "23d2485fb092ff07",
+            "id": "edab115e626a62cb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Five times\"",
+                "query": "\"szpindel\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -157,35 +158,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "23d2485fb092ff07",
+  "active": "edab115e626a62cb",
   "lastOpenFiles": [
-    "2_ReferenceNotes/Chapter-22.md",
-    "2_ReferenceNotes/Chapter-12.md",
-    "2_ReferenceNotes/Chapter-11.md",
-    "1_Zettelkasten/She-knows-you're-cheating-on-her.md",
-    "1_Zettelkasten/Siri-Keeton.-See-what-they've-done-to-you.-He-touched-his-face.-See-what-they've-done-to-us-all,-he-whispered..md",
+    "3_Files/Essay-Paragraph-1.md",
+    "2_ReferenceNotes/Chapter-18.md",
+    "3_Files/Essay-Paragraph-2.md",
+    "2_ReferenceNotes/Chapter-1.md",
+    "2_ReferenceNotes/Chapter-14.md",
     "Excalidraw/DisabilityAndBodyAnxieties.excalidraw",
-    "1_Zettelkasten/Essay-Paragraph-1.md",
-    "1_Zettelkasten/Chelsea becomes golemized.md",
-    "1_Zettelkasten/Inclass-1.md",
-    "2_ReferenceNotes/Chapter-3.md",
-    "2_ReferenceNotes/Chapter-16.md",
-    "2_ReferenceNotes/Chapter-21.md",
-    "1_Zettelkasten/Real-fuckbuddies-aren't-airbrushed...How-can-you-blame-anyone-for-saying-no-thanks-to-all-that,-now-there's-a-choice-You-gotta-wonder-how-our-parents-ever-stayed-together-sometimes.md",
-    "1_Zettelkasten/Robert-Cunningham.-Another-prototype...Both-smoother-and-harsher-...Szpindel-had-ticced-and-jerked-as-if-static-charged,-Cunningham's-face-held-all-the-expression-of-a-wax-dummy's..md",
-    "1_Zettelkasten/Our-hybrids-become-as-brilliant-as-savants,-and-as-autistic.-We-graft-people-to-prosthetics,-make-their-overloaded-motor-strips-...their-tongues-stutter.md",
-    "1_Zettelkasten/Or-rather,-they'd-had-less-than-three-minutes-four-fully-conscious-hub-personalities...in-parallel...-I-could-almost-see-why...-if-it-resulted-in-this-kind-of-performance..md",
-    "1_Zettelkasten/Natural-selection-doesn't-care-about-motives...Keep-it-up-long-enough-and-no-conscious-being-would-be-able-to-pick-your-zombie-out-of-a-crowd..md",
-    "1_Zettelkasten/The-Optimists,-whose-patron-saints-were-Drake-and-Sagan,-believed-in-a-universe-crawling-with-gentle-intelligence...Surely,-said-the-Optimists,-space-travel-implies-enlightenment.md",
-    "1_Zettelkasten/The-point-is-they-can-do-something-that's-neurologically-impossible-for-us-Humans...multiple-worldviews...they-don't-have-to-think-about-it..md",
-    "1_Zettelkasten/The-thing-is,-Chelsea-said...-You-have-to-care-enough-to-try,-you-know-I've-been-working-my-ass-off-on-this-relationship...you-just-don't-seem-to-care....md",
-    "1_Zettelkasten/There-was-a-day-you-might-have-even-hoped-for-a-peaceful-retirement.-But-then-they-brought-the-vampires-back...hunting-people-is-what-bloodsuckers-evolved-to-do.md",
-    "1_Zettelkasten/Your-intellect-makes-up-for-your-self-awareness-to-some-extent...flightless-birds-on-a-remote-island...not-so-much-successful-as-isolated-from-any-real-competition....md",
+    "1_Zettelkasten/I'm-not-completly-unsympathetic.md",
+    "3_Files/Essay-Paragraph-9.md",
+    "3_Files/Essay-Paragraph-14.md",
+    "3_Files/Essay-Paragraph-13.md",
+    "3_Files/Essay-Paragraph-12.md",
+    "3_Files/Essay-Paragraph-11.md",
+    "3_Files/Essay-Paragraph-10.md",
+    "3_Files/Essay-Paragraph-8.md",
+    "3_Files/Essay-Paragraph-7.md",
+    "3_Files/Essay-Paragraph-6.md",
+    "3_Files/Essay-Paragraph-5.md",
+    "3_Files/Essay-Paragraph-4.md",
+    "3_Files/Essay-Paragraph-3.md",
+    "1_Zettelkasten/Spliced-and-diced,-a-gangly-mass-of-tics-and-jitters-that-could-barely-feel-his-own-skin,-somehow-he-managed-to-be-Charming.md",
+    "1_Zettelkasten/Sometimes-I-don't-think-you'll-ever-be-lonely.md",
+    "1_Zettelkasten/They-never-experience-the-past-tense.....they-relive-it.-What,-like-a-post-traumatic-flashback.-Not-so-traumatic...Not-for-them,-at-least.md",
+    "1_Zettelkasten/We-can-be-utterly-useless,-or-we-can-try-and-compete-against-the-vampires-and-the-constructs-and-the-AIs.-And-perhaps-you-could-tell-me-how-to-do-that-without-turning-into-a—an-utter-freak.md",
+    "1_Zettelkasten/It's-a-matter-of-degree-and-you-know-it.-Even-in-a-crowd-there's-a-certain-expectation-of-privacy.-People-aren't-prepared-to-have-their-minds-read-off-every-twitch-of-the-eyeball.md",
+    "3_Files/Inclass-1.md",
     "1_Zettelkasten/In-the-end...Back-then-I-didn't-so-much-think-as-observe...what-I-remembered-was-a-thousand-inspirational-stories-lauding-anyone-who-ever-stuck-up-for-the-underdog.md",
-    "1_Zettelkasten/God,-you-make-it-sound...They're-just-tweaks,-mainly.-...optimizing-mate-compatibility.-It's-all-completely-reversible.md",
-    "1_Zettelkasten/Former-neuroaestheticist...Siri,-I-said.-Freelance-synthesist,-indentured-servant-to-the-genes-and-machines-that-turned-you-into-a-parasite..md",
-    "1_Zettelkasten/Equidistant-to-the-other-two-tribes-sat-the-Historians.-...they-said,-they're-not-just-going-to-be-smart.-They're-going-to-be-mean..md",
-    "1_Zettelkasten/Consciousness-as-Divine-Spark...electromagnetic-field...functional-cluster.-I-explored-it-all...trying-to-prove-what-consciousness-was-none-to-explain-what-it-was-good-for..md",
+    "1_Zettelkasten/Imagine-you're-a-scrambler.md",
     "Excalidraw/DisabilityAndBodyAnxieties.excalidraw.crswap",
     "Untitled 1.canvas",
     "Untitled.canvas",
