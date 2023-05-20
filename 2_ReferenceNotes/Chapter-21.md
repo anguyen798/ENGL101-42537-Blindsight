@@ -89,7 +89,6 @@ wouldn't see it. The lid on her affect was tight as a boilerplate. But even thro
 my window the topology glowed around her like neon.
 Amanda Bates was no longer merely considering a change of command. Now it was only a matter of
 when.
-*
 The universe was closed and concentric.
 My tiny refuge lay in its center. Outside that shell was another, ruled by a monster, patrolled by his
 lackeys. Beyond that was another still, containing something even more monstrous and

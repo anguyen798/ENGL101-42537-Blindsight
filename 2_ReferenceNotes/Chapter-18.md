@@ -87,7 +87,6 @@ She wasn't talking about radiation.
 I nodded carefully. "That must have been..."
 "Like nothing at all. You couldn't possibly imagine." Bates took a breath and let it out.
 "Maybe you don't have to," she added, and sailed away up the spine.
-*
 Cunningham and the Gang in BioMed, thirty degrees of arc between them. Each poked their captives
 in their own way. Susan James stabbed indifferently at a keypad painted across her desktop. Windows
 to either side looked in on Stretch and Clench.
@@ -235,7 +234,6 @@ Cunningham must have thought he saw something in my face. "It helps if you try n
 as people," he said. And for the very first time I could read the subtext, as clear and sharp as broken
 glass:
 Of course, you don't think of anyone that way...
-*
 Cunningham didn't like to be played.
 No one does. But most people don't think that's what I'm doing. They don't know how much their
 bodies betray when they close their mouths. When they speak aloud, it's because they want to confide;
@@ -282,7 +280,6 @@ about the one doing the modelling. Bad eyes are only one bane of clear vision: b
 can be
 just as blinding, and it wasn't enough to imagine I was Robert Cunningham.
 I had to imagine I was Siri Keeton as well.
-*
 Of course, that only raises another question. If my guess about Cunningham was right, why did my
 tricks work on Isaac Szpindel? He was every bit as discontinuous as his replacement.
 I didn't think about it much at the time. Szpindel was gone but the thing that had killed him was still

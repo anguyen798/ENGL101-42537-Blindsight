@@ -37,7 +37,6 @@ An ampsat relay, climbing at long last to an intercept with the Icarus antimatte
 behind the call of duty, my heart sank.
 We weren't running, Robert Cunningham's fondest wishes notwithstanding. Theseus was stockpiling
 ordinance.
-*
 The open hatch gaped like a cave in the face of a cliff. The pale blue light from the spine couldn't
 seem to reach inside. Sarasti was barely more than a silhouette, black on gray, his bright bloody eyes
 reflecting catlike in the surrounding gloom.
@@ -160,7 +159,6 @@ God talking, and that I couldn't help but understand.
 is you do. Just listen. For once in your goddamned life, understand something. Understand that your
 life depends on it. Are you listening, Keeton?"
 And I cannot tell you what it said. I can only tell you what I heard.
-*
 You invest so much in it, don't you? It's what elevates you above the beasts of the field, it's what
 makes you special. Homo sapiens, you call yourself. Wise Man. Do you even know what it is, this
 consciousness you cite in your own exaltation? Do you even know what it's for?
@@ -206,7 +204,6 @@ reality. You're always better off looking at
 more than one side of anything. Go on, try. Defocus. It's the next logical step.
 Oh, but you can't. There's something in the way.
 And it's fighting back.
-*
 Evolution has no foresight. Complex machinery develops its own agendas. Brains—cheat. Feedback
 loops evolve to promote stable heartbeats and then stumble upon the temptation of rhythm and music.
 The rush evoked by fractal imagery, the algorithms used for habitat selection, metastasize into art.
@@ -216,7 +213,6 @@ beyond modeling the organism. It begins to model the very process of modeling. I
 more computational resources, bogs itself down with endless recursion and irrelevant simulations.
 Like the parasitic DNA that accretes in every natural genome, it persists and proliferates and produces
 nothing but itself. Metaprocesses bloom like cancer, and awaken, and call themselves I.
-*
 The system weakens, slows. It takes so much longer now to perceive—to assess the input, mull it over,
 decide in the manner of cognitive beings. But when the flash flood crosses your path, when the lion
 leaps at you from the grasses, advanced self-awareness is an unaffordable indulgence. The brain stem

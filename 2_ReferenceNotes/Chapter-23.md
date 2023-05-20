@@ -111,7 +111,6 @@ her study of slingshot mechanics. "Rorschach wouldn't have tried so hard to scar
 place if we couldn't touch it, right?"
 I swallowed. "Right."
 "So there's still a chance." She nodded to herself. "There's still a chance."
-*
 The demon arranged his pieces for the end game. He didn't have many left. The soldier he placed in
 the bridge. He packed obsolete linguists and diplomats back in their coffin, out of sight and out of the
 way.
@@ -268,7 +267,6 @@ on me."
 "Forgive you?"
 Sarasti waved his hand. All faces save two disappeared.
 "I don't know what I'm doing."
-*
 The news bloomed across ConSensus a few seconds before Bates called it aloud: Thirteen skimmers
 had not reappeared from behind Big Ben on schedule. Sixteen. Twenty-eight.
 And counting.

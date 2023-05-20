@@ -36,7 +36,6 @@ longer.
 But deceleration is for pansies. We're headed for the stars.
 Bye, Burnsie. Bye, Mission Control. Bye, Sol.
 See you at heat death.
-*
 Warily, we close on target.
 There are three of us in the second wave—slower than our predecessors, yes, but still so much faster
 than anything flesh-constrained. We are weighed down by payloads which make us virtually
@@ -72,7 +71,6 @@ in ambient ion density is some ^Page-56
 kind of sensory artefact. We are ready to continue our investigation of
 Burns-Caulfield.
 The only real problem is that Burns-Caulfield seems to have disappeared...
-*
 Theseus carried no regular crew—no navigators or engineers, no one to swab the decks, no meat
 wasted on tasks that machinery orders of mag smaller could perform orders of mag better. Let
 superfluous deckhands weigh down other ships, if the nonAscendent hordes needed to attach some
@@ -206,7 +204,6 @@ Szpindel spoke for all of us: "You knew that all along? You're telling us now?"
 This time Sarasti's smile was wide and toothy. It was as though a gash had opened in the lower half of
 his face.
 Maybe it was a predator thing. He just couldn't help playing with his food.
-*
 It wasn't so much the way they looked. The elongate limbs, the pale skin, the canines and the extended
 mandible—noticeable, yes, even alien, but not disturbing, not frightening. Not even the eyes, really.
 The eyes of dogs and cats shine in the darkness; we don't shiver at the sight.
@@ -313,7 +310,6 @@ Raise the white flag, I thought.
 "So, you know. Bye," Robert Paglino told me. Which was, when you got down to it, the reason he'd
 called.
 He wasn't expecting another chance.
-*
 Pag blamed me for the way it had ended with Chelsea. Fair enough. I blamed him for the way it began.
 He'd gone into neuroeconomics at least partly because his childhood buddy had turned into a pod
 person before his eyes. I'd ended up in Synthesis for roughly the same reason. Our paths had diverged,

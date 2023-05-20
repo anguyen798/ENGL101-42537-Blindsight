@@ -1,0 +1,195 @@
+[[Echopraxia-Notes-Only#^Page-358]]
+## NOTES AND REFERENCES
+
+I am naked as I type this.
+
+I was naked writing the whole damn book.
+
+I aspire to a certain degree of discomfort in my writing, on the principle that if you never risk a face-plant you never go anywhere new. And if there’s one surefire way to get me out of my comfort zone, it’s the challenge of taking invisible omnipotent sky fairies seriously enough to incorporate into a hard SF novel. The phrase “faith-based hard SF” may, in fact, be the ultimate oxymoron—Clarke’s Third notwithstanding—which means that Echopraxia could be my biggest face-plant since βehemoth (especially in the wake of Blindsight, which continues to surprise with all the love it’s garnered over the years). And thanks to a lack of empirical evidence (as of this writing, anyway) for the existence of deities, I can’t even fall back on my usual strategy of shielding my central claims behind papers from Nature.
+
+I can try to shield everything else there, though. Perhaps that will do.
+
+PSY-OPS AND THE CONSCIOUSNESS GLITCH
+
+I’m not dwelling too much on consciousness this time around—I pretty much shot my load on that subject with Blindsight—except to note in passing that the then-radical notion of consciousness- ^Page-358
+
+[[Echopraxia-Notes-Only#^Page-359]]
+as-nonadaptive-side-effect has started appearing in the literature,1 and that more and more “conscious” activities (including math!2) are turning out to be nonconscious after all3,4,5 (though holdouts remain6).
+
+One fascinating exception informs Keith Honeyborne’s report on “Prismatics,” who nearly drown themselves to achieve a heightened state of awareness. The premise of Ezequiel Morsella’s PRISM model7,8 is that consciousness originally evolved for the delightfully mundane purpose of mediating conflicting motor commands to the skeletal muscles. (I have to point out that exactly the same sort of conflict—the impulse to withdraw one’s hand from a painful stimulus, versus the knowledge that you’ll ^Page-359
+
+[[Echopraxia-Notes-Only#^Page-360]]
+die if you act on that impulse—was exactly how the Bene Gesserit assessed whether Paul Atriedes qualified as “Human” during their gom jabbar test in Frank Herbert’s Dune.)
+
+Everything else comes down to tricks and glitches. The subliminal “gang signs” Valerie programmed onto the Crown’s bulkheads seem a logical (if elaborate) extension of the newborn field of optogenetics.9 The “sensed presence” Dan Brüks and Lianna Lutterodt experienced in the attic results from a hack on the temporoparietal junction which screws up the brain’s body map10,11 (basically, the part of your brain that keeps track of your body parts gets kicked in the side, and registers a duplicate set of body parts off to the side). Sengupta’s induced misiphonia is a condition in which relatively innocuous sounds—a slurp, a hiccup—are enough to provoke violent rage.12 All of this was inflicted in the service of education, though: as Brüks points out, fear promotes memory formation.13,14
+
+Fear and belief can also kill you,15 a trick used to good effect in ^Page-360
+
+[[Echopraxia-Notes-Only#^Page-361]]
+certain religious practices.16 And in case you were wondering what was up with the fusiform gyrus there at the end (a couple of my beta readers did), it’s the structure containing the face-recognition circuitry17 we tweaked to amp up the mutual-agonism response in vampires. It’s part of the same circuitry that evolved to let us see faces in the clouds, involved—once again—in the evolution of our religious impulse (see below).
+
+The brain’s habit of literalising metaphors—the tendency to regard people as having “warmer” personalities when you happen to be holding a mug of coffee, the Bicamerals’ use of hand-washing to mitigate feelings of guilt and uncertainty—is also an established neurological fact.18
+
+I pulled “induced thanoparorasis” out of my ass. It’s a cool idea, though, huh?
+
+UNDEAD UPDATE
+
+Back in Blindsight I laid out a fair bit of groundwork on the biology and evolution of vampires. I’m not going to revisit that here (you can check out FizerPharm’s stockholder presentation19 if you need a refresher), except for the citation in Blindsight implying ^Page-361
+
+[[Echopraxia-Notes-Only#^Page-362]]
+that female vampires were impossible (the gene responsible for their obligate primatovory being located on the Y chromosome20). More recent work by Cheberda et al have established a more general protocadherin dysfunction on both X and Y chromosomes,21 resolving this inadvertent paradox.
+
+At any rate, zombies are more relevant to the current tale. Both surgical and viral varieties appear in Echopraxia; the surgically induced military model is essentially the “p-zombie” favored by philosophers22; it already got a workout back in Blindsight. Examples of the viral model would include victims of the Pakistan pandemic: “civilian hordes reduced to walking brain stems by a few kilobytes of weaponized code drawn to the telltale biochemistry of conscious thought.”
+
+What telltale signatures might these bugs be targeting? Consciousness appears to be largely a property of distributed activity—the synchronous firing of far-flung provinces of the brain23,24—but it is also correlated with specific locations and ^Page-362
+
+[[Echopraxia-Notes-Only#^Page-363]]
+structures.25 In terms of specific cellular targets I’m thinking maybe “von Economo neurons” or VENs: disproportionately large, anomalously spindly, sparsely branched neurons which grow 50 to 200 percent larger than the human norm.26,27They aren’t numerous—they occupy only 1 percent of the anterior cingulate gyrus and the fronto-insular cortex—but they appear to be crucial to the conscious state.
+
+Zombie brains—freed from the metabolic costs of self-awareness—exhibit reduced glucose metabolism in those areas, as well as in the prefrontal cortex, superior parietal gyrus and the left angular gyrus; this accounts the fractionally-reduced temperature of the zombie brain. Interestingly, the same metabolic depression can be found in the brains of clinically insane murderers.28
+
+PORTIA
+
+I’d like to start this section by emphasising how utterly cool Portia’s eight-legged namesake is in real life. That stuff about improvisational hunting strategies, mammalian-level problem-solving and visual acuity all contained within a time-sharing bundle ^Page-363
+
+[[Echopraxia-Notes-Only#^Page-364]]
+of neurons smaller than a pinhead—God’s own truth, all of it.29,30,31,32
+
+That said, the time-sharing cognitive slime mold at Icarus is even cooler. Given the limitations of Human telematter technology at the end of the twenty-first century—and given that any invasive agent hitching a ride on someone else’s beam would be well-advised to keep its structural complexity to a minimum—the capacity for some kind of self-assembly is going to be highly desirable once you reach your destination. Miras et al describe a process that might fit the rudiments of such a bill, at least.33,34 Once it starts assembling itself, I imagine that Portia might function something like Cooper’s “iCHELLs”35: inorganic metal cells, capable of reactions you could call “metabolic” without squinting too hard. Maybe with a sprinkling of magical fairy- ^Page-364
+
+[[Echopraxia-Notes-Only#^Page-365]]
+dust plasma36 (although I’m guessing those two processes might be incompatible).
+
+ADAPTIVE DELUSIONAL SYSTEMS …
+
+An enormous amount of recent research has been published about the natural history of the religious impulse and the adaptive value of theistic superstition.37,38,39,40,41,42,43,44 It’s no great surprise that religion confers adaptive benefits, given the near-universality ^Page-365
+
+[[Echopraxia-Notes-Only#^Page-366]]
+of that impulse among our species45,46,47,48. If you’re interested and you’ve got ninety minutes to spare, I’d strongly recommend Robert Sapolsky’s brilliant lecture on the evolutionary and neurological roots of religious belief.49
+
+It’s not all food taboos and slashed foreskins, though. Far more relevant to the current discussion is the fact that religious minds exhibit certain characteristic neurological traits.50 Believers, for example, are better than nonbelievers at finding patterns in visual data51. Buddhist meditation increases the thickness of the prefrontal cortex and right anterior insula (structures associated with attention, interoception and sensory processing).52 There’s even circumstantial evidence that Christians are less ruled by their ^Page-366
+
+[[Echopraxia-Notes-Only#^Page-367]]
+emotions than are nonbelievers53 (although whether the rules they follow instead are any more rational is another question). Certain religious rituals are so effective at focusing the mind and relieving stress that some have suggested coopting them into a sort of “religion for atheists.”54
+
+An obvious significant down side is that most religious beliefs—gods, souls, Space Disneyland—are held at best in the complete absence of empirical evidence (and are more frequently held in the face of opposing evidence). While it remains impossible to disprove the negative, for most practical purposes it’s reasonable to describe such beliefs as simply wrong.
+
+It was only during the writing this book that it occurred to me to wonder if one couldn’t say the same about science.
+
+Lutterodt’s comparison of religious faith with the physiology of vision came to me while I was reading Inzlicht et al,55 a paper that describes religion as an internal model of reality that confers benefits even though it’s wrong. While that idea is nothing new, the way it was phrased was so reminiscent of the way our brains work—the old survival-engines-not-truth-detectors shtick—that I had to wonder if the whole right/wrong distinction might be off the table the moment any worldview passes through a Human nervous system. And the next paper56 I read suggested that certain cosmic mysteries might not be a function of dark energy so much as inconstancies in the laws of physics—and if that were case, there’d really be no way to tell … ^Page-367
+
+[[Echopraxia-Notes-Only#^Page-368]]
+Of course, there’s absolutely no denying the functional utility of the scientific method, especially when you compare it to the beads and rattles of those guys with the funny hats. Still, I have to admit: not entirely comfy with where that seemed to be heading for a bit.
+
+… AND THE BICAMERAL CONDITION
+
+The Bicameral Order did not begin as a hive. They began as a fortunate juxtaposition of adaptive malfunctions and sloppy fitness.
+
+The name does not derive from Julian Jaynes.57 Rather, both Jaynes and the Order recall a time when paired hemispheres were the only option: the right a pragmatic and unimaginative note-taker, the left a pattern-matcher.58 Think of “gene duplication,” that process by which genetic replication occasionally goes off the rails to serve up multiple copies of a gene where only one had existed before; these become “spares” available for evolutionary experimentation. Hemispheric lateralization was a little like that. A pragmatist core; a philosopher core.
+
+The left hemisphere is on a quest for meaning, even when there isn’t any. False memories, pareidolia—the stress-induced perception of pattern in noise59—these are Lefty’s doing. When there are no data, or no meaning, Lefty may find it anyway. Lefty gets religion.
+
+But sometimes patterns are subtle. Sometimes, noise is almost all there is: a kindof noise anyway, at least to classically evolved ^Page-368
+
+[[Echopraxia-Notes-Only#^Page-369]]
+senses. Smeared probabilities, waves that obscure the location or momentum of whatever you’re squinting at. Virtual particles that elude detection anywhere past the edges of black holes. Maybe, when you move a few orders of magnitude away from the world our senses evolved to parse, a touch of pareidolia can take up the slack. Like the feather that evolved for thermoregulation and then got press-ganged, fully formed, into flight duty, perhaps the brain’s bogus-purpose-seeking wetware might be repurposed to finding patterns it once had to invent. Maybe the future is a fusion of the religious and the empirical.
+
+Maybe all Lefty needs is a little help.
+
+Malfunctions and breakdowns showed them the way. Certain kinds of brain damage result in massive increases in certain types of creativity.16 Strokes provoke bursts of artistic creativity,60 frontotemporal dementia supercharges some parts of the brain even as it compromises others.61 Some autistics possess visual hyperacuity comparable to that of birds of prey, even though they’re stuck with the same human eyes as the rest of us62. Schizophrenics are immune to certain optical illusions.63 At least some kinds of synesthesia confer cognitive advantages64 (people who literally see ^Page-369
+
+[[Echopraxia-Notes-Only#^Page-370]]
+time, arrayed about them in multicolored splendor, are twice as good as the rest of us at recalling events from their own personal timelines65). And—as Daniel Brüks reflects—brain damage is actually a prerequisite for basic rationality in certain types of decision-making.66
+
+The Bicamerals set out to damage their brains, in very specific ways. They manipulated the expression of NR2B,67 tweaked TRNP-168 production, used careful cancers to promote growth (their genes tagged for easy identification,69 should anything go wrong) and increase neurosculptural degrees of freedom. Then they ruthlessly weeded those connections, pruned back the tangle into optimum, isolated islands of functionality.70 They improved their pattern-matching skills to a degree almost inconceivable to mere baselines. ^Page-370
+
+[[Echopraxia-Notes-Only#^Page-371]]
+Such enhancements come at a cost.71,72 Bicamerals have lost the ability to communicate effectively across the cognitive-species divide. It’s not just that they’ve rewired their speech centers.73 and are now using different parts of the brain to talk; they think now almost entirely in metaphor, in patterns that contain meaning even if they don’t, strictly speaking, exist.
+
+Things get even messier when linked into networks, which can literally scatter one’s mind even at today’s rudimentary levels of connectivity. The “transactive memory system” called Google is already rewiring the parts of our brains that used to remember facts locally; now, those circuits store search protocols for remote access of a distributed database.74 And Google doesn’t come anywhere close to the connectivity of a real hive mind.
+
+Which is not to say that hive minds aren’t already a ubiquitous part Human society. You are a hive mind, always have been: a single coherent consciousness spread across two cerebral hemispheres, each of which—when isolated—can run its own stand-alone, conscious entity with its own thoughts, aesthetics, even religious beliefs.75 The reverse also happens. A hemisphere forced ^Page-371
+
+[[Echopraxia-Notes-Only#^Page-372]]
+to run solo when its partner is anaesthetised (preparatory to surgery, for instance) will manifest a different personality than the brain as a whole—but when those two hemispheres reconnect, that solo identity gets swallowed up by whatever dual-core persona runs on the whole organ.16 Consciousness expands to fill the space available.
+
+The Bicameral hive takes its lead from Krista and Tatiana Hogan, conjoined craniopagus twins whose brains are fused at the thalamus.76 Among other things, the thalamus acts as a sensory relay; the twins share a common set of sensory inputs. Each sees through the other’s eyes. Tickle one, the other laughs. Anecdotal evidence suggests that they can share thoughts, and although they have distinct personalities each uses the word “I” when talking about the other twin.
+
+All this resulting from fusion at a sensory relay. Suppose they were linked further up? A thought doesn’t know to stop and turn back when it reaches the corpus callosum. Why would it behave any differently if it encountered a callosum of a different sort, why should two minds linked by a sufficiently fat pipe be any more distinct than the halves of your own brain?
+
+Sufficiently high bandwidth, therefore, would likely result in a single integrated consciousness across any number of platforms. Technologically, the links themselves might exploit so-called “ephatic coupling”77 (in which direct synaptic stimulation is bypassed and neurons are induced to fire by diffuse electrical fields generated elsewhere in the brain). Synchrony is vital: unified conscious ^Page-372
+
+[[Echopraxia-Notes-Only#^Page-373]]
+only exists when all parts fire together with a signal latency of a few hundred milliseconds, tops.23,24 Throttle that pipe and it should be possible to retain individuality while accessing memories and sensory data from your fellow nodes.78
+
+I’ve kept the extent of Bicameral hive integration flexible, allowing internode connections to throttle up and down as the need arises—but whether those bandwidth-vs.-dialup decisions are made by the nodes themselves or by something more inclusive remains ambiguous. If you want some hint of the ramifications of total cognitive integration, I point you to the (apparently) catatonic Moksha Mind of the Dharmic Alliance.79
+
+However the hive links up—whatever its degree of conscious coherence—it is a religious experience. Literally.
+
+We know what rapture is: a glorious malfunction, a glitch in the part of the brain that keeps track of where the body ends and everything else begins.80 When that boundary dissolves the mind feels connected to everything, feels literally at one with the universe. It’s an illusion, of course. Transcendence is experience, not insight. That’s not why Bicamerals feel the rapture.
+
+They feel it because it’s an unavoidable side effect of belonging to a hive. Sharing sensory systems, linking minds one to another—such connections really dodissolve the boundaries between bodies. Bicameral spiritual rapture isn’t so much an illusion as a bandwidth meter. It still feels good, of course, which has its own implications. Bicams rap out when they hook up to ^Page-373
+
+[[Echopraxia-Notes-Only#^Page-374]]
+solve problems. They actually get off on discovery; if baselines got those kind of rewards they wouldn’t need tenure.
+
+The side effect has side effects, though. The activation of rapture-related neurocircuitry generates glossolalia even in baseline brains81,82; given the modifications that Bicamerals use to enhance transcendence,83,84 the occasional bout of speaking in tongues is pretty much a given. Brüks should be thankful the hive doesn’t just scream all the time.
+
+In hindsight, it is apparent that describing the Bicamerals as a religious order is a little misleading: the parts of the brain they’ve souped up simply overlap with the parts that kick in during religious neurobehavioral events, so the manifestations are similar. Whether that’s a distinction that makes a difference is left as an exercise for the reader.
+
+GOD AND THE DIGITAL UNIVERSE
+
+The idea of God as a virus only really works if you buy into the burgeoning field of Digital physics.85 Most of you probably know what that is: a family of models based on the premise that the ^Page-374
+
+[[Echopraxia-Notes-Only#^Page-375]]
+universe is discrete and mathematic at its base, and that every event therein can therefore be thought of as a kind of computation. Digital physics comes in several flavours: the universe is a simulation running in a computer somewhere86,87,88; or the universe is a vast computer in its own right, where matter is hardware and physics is software and every flip of an electron is a calculation. In some versions matter itself is illusory, a literal instantiation of numbers.89,90 In others, reality is a hologram and the universe is empty inside91,92,93; the real action takes place way out on its two-dimensional boundary, and we are merely interferences patterns projected from the surface of a soap bubble into its interior. There’s no shortage of popular summaries of all this stuff, either online94 or off.95 ^Page-375
+
+[[Echopraxia-Notes-Only#^Page-376]]
+Lee Smolin (of Waterloo’s Perimeter Institute) goes against the grain: he rejects digital physics outright and serves up a single universe in which time is not an illusion, reality is not deterministic, and universes themselves grow, reproduce, and evolve via Natural Selection writ very large (think of black holes as offspring; think of entropy as a selective force).96,97,98 Even Smolin’s model, however, is vulnerable to inconstancy in the laws of physics; the model actually predicts that physical laws evolve along with the rest of reality. Which kind of leaves us back at the question of how one can legitimately assume constancy in an inconstant universe.
+
+You can’t get through these references without realizing that, whacked out as it sounds, digital physics has a lot of scientific heavy-hitters on its side. I, of course, am not one of them; but since so many smarter people are defending the premise, I’m happy to sneak viral deities onto the back of all their hard work and hope it slips through.
+
+MISCELLANEOUS BACKGROUND AMBIANCE
+
+The fieldwork preoccupying Brüks at the start of the story descends from the “DNA barcoding” that’s all the rage today: a quick-and-dirty taxonomic technique for distinguishing species based on a chunk of the cytochrome oxidase gene.99 There’s no ^Page-376
+
+[[Echopraxia-Notes-Only#^Page-377]]
+way it’ll still be around in its present form eight decades from now—we’ve already got handheld analyzers100 that put conventional wet analysis right out to pasture—but the concept of a genetic barcode will, I think, persist even as the technology improves.
+
+The vortex engine101 powering the Bicameral monastery derives from work patented by Louis Michaud,102 a retired engineer who basically came up with the idea while tinkering in his garage. I have no idea whether two-hundred-megawatt, twenty-kilometer-high wind funnels are in our future, but the patents went through,103 and the project’s got some serious attention from government and academic agencies. Nobody’s saying the physics are wrong.
+
+We are already closing in on learning techniques that bypass conscious awareness,104 a la Lianna Lutterodt’s training at the hands of her Bicameral masters. Likewise, the precursors of the gimp hood which Brüks uses in lieu of a brain implant can be seen taking shape in a diversity of mind-reading/writing tech ^Page-377
+
+[[Echopraxia-Notes-Only#^Page-378]]
+already extant in the literature.105,106,107,108,109 Brüks’s dependence on Cognital, on the other hand, marks him truly as a relic of a past age (ours, in fact): memory boosters are already in the pipe,110,111,112 and as far back 2008, one in five working scientists already indulged in brain-doping to help keep up with the competition.113
+
+The use of massively multiplayer online games as a tool for epidemiological simulation was first proposed by Loffgren and Fefferman114; they, in turn, were inspired by an unexpected pandemic ^Page-378
+
+[[Echopraxia-Notes-Only#^Page-379]]
+of “corrupted blood” in World of Warcraft,115which occurred because people in RPGs—like those in real life—often don’t behave the way they’re supposed to. I don’t know how many have since picked up this ball and run with it—at least one paper speaks of using online gaming for economics research116—but if that’s all there is I think we’re missing a huge opportunity.
+
+Near the end of this novel there’s a teaching moment on the subject of natural selection. Most people seem to think that organisms develop adaptive traits in response to environmental change. This is bullshit. The environment changes and those who already happen to have newly- adaptive traits don’t get wiped out. A deteriorating Daniel Brüks muses on an especially neat case in point, the curious fact that the building blocks of advanced neural architecture already exist in single-celled animals lacking even the most rudimentary nervous systems.117,118,119,120 ^Page-379
+
+[[Echopraxia-Notes-Only#^Page-380]]
+A couple of isolated factoids. Fruit flies save energy in impoverished environments by becoming forgetful121; the construction and maintenance of memories is, after all, a costly affair. I imagine that Rhona McLennan’s “Splinternet” is suffering the same sort of energetic triage after Icarus drops offline. And that bit where Brüks wondered why Moore even bothered exercising to stay in shape? That’s because we’re within spitting distance of a pill that puts your metabolism into hardbody mode even if you spend the whole day sitting on the couch snarfing pork rinds and watching American Idol.122,123
+
+The poem Brüks discovers in the desert as his mind is coming apart is not, contrary to what you might think, a hallucination. It is real. It is the warped brainchild of Canadian poet Christian Bök,124 who has spent the past decade figuring out how to build a gene that not only spells a poem, but which functionally codes for a fluorescing protein whose amino acid sequence decodes into a responseto that poem.125 The last time we hung out he’d managed to insert it into E. coli, but his ultimate goal is to stick it into Deinococcus radiolarians, aka “Conan the Bacterium,”126 aka the toughest microbial motherfucker that ever laughed at the inside ^Page-380
+
+[[Echopraxia-Notes-Only#^Page-381]]
+of a nuclear reactor. If Christian’s project comes through, his words could be iterating across the face of this planet right up until the day the sun blows up. Who knew poetry could ever get that kind of a print run?
+
+Finally: free will. Although free will (rather, its lack) is one of Echopraxia’s central themes (the neurological condition of echopraxia is to autonomy as blindsight is to consciousness), I don’t have much to say about it because the arguments seem so clear-cut as to be almost uninteresting. Neurons do not fire spontaneously, only in response to external stimuli; therefore brains cannot actspontaneously, only in response to external stimuli127. No need to wade through all those studies that show the brain acting before the conscious mind “decides” to.128,129 Forget the revisionist interpretations that downgrade the definition from free will to will that’s merely unpredictable enough to confuse predators.130,131 It’s simpler than that: the switch cannot flip itself. QED. If you insist on clinging to this free will farce I’m not going to waste much time arguing here: plenty of ^Page-381
+
+[[Echopraxia-Notes-Only#^Page-382]]
+others have made the case far more persuasively than I ever could.132,133,134,135
+
+But given this current state of the art, one of the more indigestible nuggets Echopraxia asks you to swallow is that eight decades from now, people will still buy into such an incoherent premise—that as we close on the twenty-second century, we will continue to act as though we have Free Will.
+
+In fact, we might behave that way. It’s not that you can’t convince people that they’re automatons; that’s easy enough to pull off, intellectually at least. Folks will even change their attitudes and behavior in the wake of those insights136—be more likely to cheat or less likely to hold people responsible for unlawful acts, for example.137,138 But eventually our attitudes drift back to pre-enlightenment baselines; even most of those who accept determinism ^Page-382
+
+[[Echopraxia-Notes-Only#^Page-383]]
+somehow manage to believe in personal culpability.139,140 Over tens of thousands of years we just got used to cruising at one-twenty; without constant conscious intervention, we tend to ease back on the pedal to that place we feel most comfortable.
+
+Echopraxia makes the same token concessions that society is likely to. You may have noticed the occasional reference to the concept of personal culpability having been weeded out of justice systems the world over, that those dark-ages throwbacks still adhering to the notion are subject to Human Rights sanctions by the rest of the civilized world. Brüks and Moore squabble over “the old no-free-will shtick” back at the monastery. Adherents to those Eastern religions who never really took free will all that seriously anyway have buggered off into a hive-minded state of (as far as anyone can tell) deep catatonia. The rest of us continue to act pretty much the way we always have.
+
+Turns out we don’t have much choice in the matter. ^Page-383

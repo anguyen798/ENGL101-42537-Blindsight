@@ -48,7 +48,6 @@ where the others stir at the edge of vision. ^Page-26
 Szpindel works his jaw. Bone cracks audibly.
 "...Sssuckered," he hisses.
 You haven't even met the aliens yet, and already they're running rings around you.
-*
 So we dragged ourselves back from the dead: five part-time cadavers, naked, emaciated, barely able to
 move even in zero gee. We emerged from our coffins like premature moths ripped from their cocoons,
 still half-grub. We were alone and off course and utterly helpless, and it took a conscious effort to
@@ -88,7 +87,6 @@ vampire—Sarasti, ever courteous, tended to avoid eye contact for exactly that 
 other surfaces to his topology, just as mammalian and just as readable. If he had withdrawn from
 public view, maybe I was the reason. Maybe he was keeping secrets.
 After all, Theseus damn well was.
-*
 She'd taken us a good fifteen AUs towards our destination before something scared her off course.
 Then she'd skidded north like a startled cat and started climbing: a wild high three-gee burn off the  ^Page-28
 
@@ -113,7 +111,6 @@ took your calls.
 Sarasti was the offical intermediary. When the ship did speak, it spoke to him— and Sarasti called it
 Captain.
 So did we all.
-*
 He'd given us four hours to come back. It took more than three just to get me out of the crypt. By then
 my brain was at least firing on most of its synapses, although my body—still sucking fluids ^Page-29
 

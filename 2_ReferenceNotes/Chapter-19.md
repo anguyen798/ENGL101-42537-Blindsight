@@ -116,7 +116,6 @@ knows."
 Ventilators, breathing. The almost-subliminal hum of bearings in motion. Then Sarasti's disembodied
 voice rang forth through the drum.
 "Everyone to Commons. Robert wants to share."
-*
 Cunningham sat to my right, his plastic face lit from beneath by the conference table. He stared down
 into that light, rocking slightly. His lips went through the ongoing motions of some inaudible
 incantation. The Gang sat across from us. To my left Bates kept one eye on the proceedings and
@@ -216,7 +215,6 @@ another fit of inept psychology, had made it up on the spur of the moment. Or ma
 before we'd even reached orbit, held it back against the possibility—only now expired— that he might
 yet send us back into the labyrinth. I'd been half blind for half the mission; I didn't know.
 But one way or another, we had our Graduation Day.
-*
 The coffins lay against the rear bulkhead of the crypt—on what would be the floor during those
 moments when up and down held any meaning. We'd slept for years on the way out. We'd had no
 awareness of time's passage—undead metabolism is far too sluggish even to support dreams—but
@@ -262,7 +260,6 @@ what we know. For your reports."
 "I'm sorry I upset you." I rolled on my axis and braced against the mirror.
 "You can't know Meesh," he growled as I pushed off. "You never lost anyone. You never had anyone.
 "You leave her alone."
-*
 He was wrong on both counts. And at least Szpindel had died knowing that Michelle cared for him.
 Chelsea died thinking I just didn't give a shit.
 It had been two years or more, and while we still interfaced occasionally we hadn't met in the flesh

@@ -1,5 +1,5 @@
 Status: #idea
-Tags: [[@Rorsarch]] [[Evolutionary-Sociopathy]] [[@Jukka-Sarasti]]
+Tags: [[@Rorsarch]] [[Sociopathy]] [[@Jukka-Sarasti]]
 
 * Evolution has caused Rorsarch to develop sociopathy
 * Sociopathy is syndrome characterized by no conscience, self-contradiction, no emotional affect

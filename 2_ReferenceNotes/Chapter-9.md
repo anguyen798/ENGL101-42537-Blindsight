@@ -121,7 +121,6 @@ She could go the rest of her life without ever meeting any of them. But she knew
 and it drove her crazy. Taking my leave of Heaven, it occurred to me that omnipotent though she was,
 there was only be one way my mother would ever be truly happy in her own personal creation.
 The rest of creation would have to go.
-*
 "This shouldn't keep happening," Bates said. "The shielding was good."
 The Gang was up across the drum, squaring away something in their tent. Sarasti lurked offstage
 today, monitoring the proceedings from his quarters. That left me with Bates and Szpindel in the

@@ -110,7 +110,6 @@ about —extreme effects— until another spike hits."
 not to us, but it was talking."
 "Good." Bates pushed herself back to let us pass. "Maybe now we can finally learn to talk back."
 "Maybe we can learn to listen," James said.
-*
 We fled like frightened children with brave faces. We left a base camp behind: Jack, still miraculously
 functional in its vestibule; a tunnel into the haunted mansion; forlorn magnetometers left to die in the
 faint hope they might not. Crude pyronometers and thermographs, antique radiation-proof devices that
@@ -141,7 +140,6 @@ Into the crypt. Our coffins lay open across the rear bulkhead. We sank gratefull
 their embrace. Bates coughed blood as the lids came down.
 My bones hummed as the Captain began to shut me off. I went to sleep a dead man. I had only theory
 and the assurances of fellow machinery that I would ever be born again.
-*
 Keeton, come forth.
 I woke up ravenous. Faint voices drifted forward from the drum. I floated in my pod for a few
 moments, eyes closed, savoring absences: no pain, no nausea. No terrifying subliminal sense of one's
@@ -336,7 +334,6 @@ say. But funny thing, commissar; nobody talks about how many intentional wars go
 same reason. You're still writing those postcards to posterity?"
 I nodded, and didn't wince inwardly. It was just Szpindel.
 "Well, feel free to stick this conversation in your next one. For all the good it'll do."
-*
 Imagine you are a prisoner of war.
 You've got to admit you saw it coming. You've been crashing tech and seeding biosols for a solid
 eighteen months; that's a good ^Page-181
@@ -442,7 +439,6 @@ What's left? Maybe fifty seconds?
 It's not a lot. You could have done so much more with just a little extra time. But it's enough, and you
 don't want to impose on the good graces of this Bates woman.
 Because she may at last be someone you can deal with.
-*
 Under other circumstances, Lieutenant Amanda Bates would have been court-martialed and executed
 within the month. No matter that the four who'd died had been guilty of multiple counts of rape, ^Page-185
 

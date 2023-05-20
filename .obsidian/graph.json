@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "Evolutionary-s",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -29,9 +29,9 @@
   "lineSizeMultiplier": 1.00155925155925,
   "collapse-forces": false,
   "centerStrength": 0.246361746361746,
-  "repelStrength": 8.06228373702422,
-  "linkStrength": 0.65916955017301,
-  "linkDistance": 259,
-  "scale": 0.7262039656065595,
+  "repelStrength": 10.4158004158004,
+  "linkStrength": 0.633056133056133,
+  "linkDistance": 435,
+  "scale": 0.4760255037564157,
   "close": false
 }

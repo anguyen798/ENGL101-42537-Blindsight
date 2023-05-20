@@ -84,7 +84,6 @@ safety, that sense that it made a difference whether I lived or died. I only wan
 only wanted room to breathe.
 "You can be such a reptile sometimes," she said.
 Mission accomplished.
-*
 Our first approach had been all caution and safety margins. This time we came in like a strike force.
 Scylla burned towards Rorschach at over two gees, its trajectory a smooth and predictable arc ending
 at the ruptured base camp. It may have even landed there, for all I know; perhaps Sarasti had two-
@@ -151,7 +150,6 @@ She fell silent. I didn't have to ask why: the advance grunt had ^Page-214
 positioned itself over the newly-blasted
 entrance and sent back its first postcard.
 Light from below.
-*
 You'd think that would have made it easier. Our kind has always feared the dark; for millions of years
 we huddled in caves and burrows while unseen things snuffled and growled—or just waited, silent and
 undetectable—in the night beyond. You'd think that any light, no matter how meager, might strip
@@ -293,7 +291,6 @@ hallucination. Not even some understandable artefact of fear and synesthesia. Ro
 inhabited. Its inhabitants were invisible.
 Sometimes. Sort of.
 And, oh yeah. We'd just killed one.
-*
 Bates threw the deactivated grunt into the sky as soon as we'd made vacuum. Its comrades used it for
 target practice while we strapped in, firing and firing until there was nothing left but cooling vapor. ^Page-220
 

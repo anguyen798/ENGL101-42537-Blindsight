@@ -117,7 +117,6 @@ brains. I really don't think you've thought this through."
 Sudden prickling on the back of my neck. I looked around; I looked up. Jukka Sarasti had appeared in
 the center of the drum, eyes gleaming, teeth bared, watching us.
 Cunningham followed my gaze, and nodded. "I'd wager it does..."
-*
 There was no way to learn what they'd whispered across that wall. We could recover the audio easily
 enough, parse every tick and tap they'd exchanged, but you can't decipher a code without some ^Page-259
 
@@ -134,7 +133,6 @@ down the spine and Robert Cunningham had returned to his studies at the back of 
 one Susan James was left with. The first to speak the vile thought aloud, the official witness to
 posterity. I was the one she looked at, and looked away from, her surfaces hard and refractory.
 And then she started.
-*
 This is how you break down the wall:
 Start with two beings. They can be human if you like, but that's hardly a prerequisite. All that matters
 is that they know how to talk among themselves.
@@ -214,7 +212,6 @@ The current flickered on, then off.
 Not a twitch.
 I pointed. "I see it," she said.
 Clench had pressed the tip of one arm against the touchpad. The icon there glowed like a candle flame.
-*
 Six and a half minutes later they'd graduated from yellow squares to time-lapsed four-dimensional
 polyhedrons. It took them as long to distinguish between two twenty-six-faceted shifting solids—
 differing by one facet in a single frame—as it took them to tell the difference between a yellow square

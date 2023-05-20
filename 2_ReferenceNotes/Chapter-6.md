@@ -15,7 +15,6 @@ I wonder if that's what happened. I wonder if they made it back home.
 I look back now, and hope not. ^Page-94
 
 [[Chapter-6#^Page-95]] ~Chapter-6 ~Page-95
-*
 A giant marshmallow kicked Theseus in the side. Down swung like a pendulum. Across the drum
 Szpindel yelped as if scalded; in the galley, cracking a bulb of hot coffee, I nearly was.
 This is it, I thought. We got too close. They're hitting back.
@@ -110,7 +109,6 @@ The lightscape played on, knocking at the window.
 "Whatever it is," Bates said, "it's talking to us."
 "Well then," remarked a welcome voice. "By all means let's say hello."
 Susan James was back in the driver's seat.
-*
 I was the only pure spectator.
 They all performed what duties they could. Szpindel ran Sarasti's sketchy silhouette through a series
 of filters, perchance to squeeze a bit of biology from engineering. Bates compared morphometrics
@@ -180,7 +178,6 @@ James chewed her lip.
 "The environment of the disturbances. You should pay attention, Susan. Inattention connotes
 indifference," Rorschach said.
 "Or disrespect," it added after a moment.
-*
 We had four hours before Ben got in the way. Four hours of uninterrupted nonstop communication
 made vastly easier than anyone had expected. It spoke our language, after all. Repeatedly it expressed
 polite concern for our welfare. And yet, for all its facility with Human speech it told us very little. For

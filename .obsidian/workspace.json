@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "13e23fe93f107c5d",
+        "id": "12637585b521c268",
         "type": "tabs",
         "children": [
           {
-            "id": "edab115e626a62cb",
+            "id": "324bb9b8637b5b10",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"szpindel\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -60,13 +60,25 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "edab115e626a62cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3_Files/Essay-Paragraph-1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 544.5
   },
   "right": {
     "id": "17d9ef55b4e5bcd6",
@@ -158,35 +170,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "edab115e626a62cb",
+  "active": "324bb9b8637b5b10",
   "lastOpenFiles": [
-    "3_Files/Essay-Paragraph-1.md",
-    "2_ReferenceNotes/Chapter-18.md",
-    "3_Files/Essay-Paragraph-2.md",
-    "2_ReferenceNotes/Chapter-1.md",
-    "2_ReferenceNotes/Chapter-14.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-22.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-21.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-20.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-19.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-18.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-17.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-16.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-15.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-14.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-13.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-12.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-11.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-10.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-9.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-8.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-7.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-6.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-5.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-4.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-3.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-2.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-1.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-26-Notes-And-References.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-25-Acknowledgements.md",
+    "2_ReferenceNotes/Echopraxia-References-Only.md",
+    "2_ReferenceNotes/Echopraxia-Notes-Only.md",
     "Excalidraw/DisabilityAndBodyAnxieties.excalidraw",
-    "1_Zettelkasten/I'm-not-completly-unsympathetic.md",
-    "3_Files/Essay-Paragraph-9.md",
-    "3_Files/Essay-Paragraph-14.md",
-    "3_Files/Essay-Paragraph-13.md",
-    "3_Files/Essay-Paragraph-12.md",
-    "3_Files/Essay-Paragraph-11.md",
-    "3_Files/Essay-Paragraph-10.md",
-    "3_Files/Essay-Paragraph-8.md",
-    "3_Files/Essay-Paragraph-7.md",
-    "3_Files/Essay-Paragraph-6.md",
-    "3_Files/Essay-Paragraph-5.md",
-    "3_Files/Essay-Paragraph-4.md",
-    "3_Files/Essay-Paragraph-3.md",
-    "1_Zettelkasten/Spliced-and-diced,-a-gangly-mass-of-tics-and-jitters-that-could-barely-feel-his-own-skin,-somehow-he-managed-to-be-Charming.md",
-    "1_Zettelkasten/Sometimes-I-don't-think-you'll-ever-be-lonely.md",
-    "1_Zettelkasten/They-never-experience-the-past-tense.....they-relive-it.-What,-like-a-post-traumatic-flashback.-Not-so-traumatic...Not-for-them,-at-least.md",
-    "1_Zettelkasten/We-can-be-utterly-useless,-or-we-can-try-and-compete-against-the-vampires-and-the-constructs-and-the-AIs.-And-perhaps-you-could-tell-me-how-to-do-that-without-turning-into-a—an-utter-freak.md",
-    "1_Zettelkasten/It's-a-matter-of-degree-and-you-know-it.-Even-in-a-crowd-there's-a-certain-expectation-of-privacy.-People-aren't-prepared-to-have-their-minds-read-off-every-twitch-of-the-eyeball.md",
-    "3_Files/Inclass-1.md",
-    "1_Zettelkasten/In-the-end...Back-then-I-didn't-so-much-think-as-observe...what-I-remembered-was-a-thousand-inspirational-stories-lauding-anyone-who-ever-stuck-up-for-the-underdog.md",
-    "1_Zettelkasten/Imagine-you're-a-scrambler.md",
     "Excalidraw/DisabilityAndBodyAnxieties.excalidraw.crswap",
     "Untitled 1.canvas",
     "Untitled.canvas",

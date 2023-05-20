@@ -25,7 +25,6 @@ He had broken me. He had presented his arguments. I had followed his trail of br
 ConSensus, through Theseus. And now, only nine days from graduation, I knew one thing for sure:
 Sarasti was wrong. He had to be. I couldn't see how, but I knew it just the same. He was wrong.
 Somehow, absurdly, that had become the one thing I did care about.
-*
 No one in the spine. Only Cunningham visible in BioMed, poring over digital dissections, pretending
 to kill time. I floated above him, my rebuilt hand clinging to the top of the nearest stairwell; it
 dragged me in a slow, small circle as the Drum turned. Even from up there I could see the tension in
@@ -319,7 +318,6 @@ existed on the board. Stretch thought you were asking about—"
 [[Chapter-22#^Page-326]] ~Chapter-22 ~Page-326
 "Hey," James said. "Did you see tha—"
 But I never saw what she was pointing at. Theseus slammed its eyelids shut and started howling.
-*
 Graduation came nine days early.
 We didn't see the shot. Whatever gun port Rorschach had opened was precisely eclipsed on three
 fronts: the lab-hab hid it from Theseus, and two gnarled extrusions of the artefact itself hid it from
@@ -391,7 +389,6 @@ Observe.
 The Gang of Four strobed at my side, scared to death.
 Don't interfere.
 "It's okay," I said. "I'll go."
-*
 The open airlock was like a dimple in the face of an endless cliff. I looked out from that indentation
 into the abyss.
 This side of Theseus faced away from Big Ben, away from the enemy. The view was still unsettling

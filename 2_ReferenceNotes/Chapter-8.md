@@ -106,7 +106,6 @@ A sudden flicker from behind. I spun in the cramped passageway and bit down on a
 squirmed out of sight around the corner, something with arms, barely glimpsed, gone in an instant.
 Never there. Couldn't be there. Impossible.
 "Did you hear that?" Szpindel asked, but I'd fled to stern before Michelle could answer him.
-*
 We'd fallen so far that the naked eye didn't see a disk, barely even saw curvature any more. We were
 falling towards a wall, a vast roiling expanse of dark thunderclouds that extended in all directions to
 some new, infinitely-distant horizon. Ben filled half the universe.
@@ -145,7 +144,6 @@ One of a thousand. At the end of it all—after all the measurements, the theori
 outright guesswork—we settled into orbit with a million trivial details and no answers. In terms of the
 big questions, there was only one thing we knew for sure.
 So far, Rorschach was holding its fire.
-*
 "It sounded to me like it knew what it was saying," I remarked.
 "I guess that's the whole point," Bates said. She had no one to confide in, partook of no intimate
 dialogs that could be overheard. With her, I used the direct approach. ^Page-131
@@ -269,7 +267,6 @@ Vampire doesn't respect his command. Doesn't listen to advice. Hides away half t
 I remembered transient killer whales. "Maybe he's being considerate." He knows he makes us nervous.
 "I'm sure that's it," Bates said.
 Vampire doesn't trust himself.
-*
 It wasn't just Sarasti. They all hid from us, even when they had the upper hand. They always stayed
 just the other side of myth.
 It started pretty much the same way it did for anything else; vampires were far from the first to learn
@@ -302,7 +299,6 @@ of natural selection. Maybe he spent every moment in our company fighting voices
 hide, hide, let them forget. Maybe he retreated when they got too loud, maybe we made him as uneasy
 as he made us.
 We could always hope.
-*
 Our final orbit combined discretion and valor in equal measure.
 Rorschach described a perfect equatorial circle 87,900 km from Big Ben's center of gravity. Sarasti
 was unwilling to let it out of sight, and you didn't have to be a vampire to mistrust relay sats when

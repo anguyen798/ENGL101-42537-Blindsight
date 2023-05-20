@@ -74,7 +74,6 @@ Theseus shivered along her length. It was just a pulse of decelerating thrust; b
 imagined I knew how she felt. ^Page-75
 
 [[Chapter-5#^Page-76]] ~Chapter-5 ~Page-76
-*
 We headed in and hedged our bets.
 Theseus weaned herself with a ninety-eight-second burn, edged us into some vast arc that might, with
 a little effort, turn into an orbit—or into a quick discreet flyby if the neighborhood turned out to be a
@@ -145,7 +144,6 @@ If they were, the job would go a lot faster with self-replicating inoculates. "S
 "Sounds like agricultural aerosols, is what it sounds like. Those fuckers are turning the whole damn
 gas ball into a rice paddy bigger than Jupiter." He gave me a scary grin. "Something's got a beeeg
 appetite, hmm? You gotta wonder if we aren't gonna be a teeny bit outnumbered."
-*
 Szpindel's findings were front and center at our next get-together.
 The vampire summed it up for us, visual aids dancing on the table: "Von Neumann self-replicating r-
 selector. Seed washes up and ^Page-78
@@ -203,7 +201,6 @@ anyone here that Theseus is no warship." ^Page-80
 She'd said anyone; she'd meant Sarasti. And Sarasti, focused on his own horizon, didn't answer. Not
 out loud, at least; but his surfaces spoke in a different tongue entirely.
 Not yet, they said.
-*
 Bates was right, by the way. Theseus was officially tricked out for exploration, not combat. No doubt
 our masters would have preferred to load her up with nukes and particle cannons as well as her
 scientific payload, but not even a telemattered fuel stream can change the laws of inertia. A
@@ -349,7 +346,6 @@ I nodded. "Once."
 "Uh huh." Her eyes wandered back to the payoff matrix. "Just curious, Siri. How did she react?"
 "She didn't, really. Not at first. Then—well, she laughed."
 "Better woman than me." Sascha shook her head. "I'd have dumped you on the spot."
-*
 My nightly constitutional up the spine: glorious dreamy flight along a single degree of freedom. I
 sailed through hatches and corridors, threw my arms wide and spun in the gentle cyclonic breezes ^Page-86
 
@@ -460,7 +456,6 @@ making a kill. Why sneak around on a full stomach, eh?"
 Some of the playfulness ebbed from Szpindel's voice. "I've got no problem if Sarasti wants to run the
 occasional briefing from his quarters. But the moment we stop seeing him altogether? That's when you
 start watching your back."
-*
 Looking back, I can finally admit it: I envied Szpindel his way with the ladies. Spliced and diced, a
 gangly mass of tics and jitters that could barely feel his own skin, somehow he managed to be—
 Charming. That's the word. Charming.

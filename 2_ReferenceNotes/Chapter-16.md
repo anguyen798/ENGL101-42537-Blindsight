@@ -150,7 +150,6 @@ we. Amanda Bates knew he was right in her mind—but perhaps ^Page-240
 she didn't feel it in her gut. Perhaps, I
 thought as my vision failed, she was asking Sarasti to convince her.
 But that wasn't all she was doing.
-*
 Imagine you are Amanda Bates.
 The control you wield over your troops would give wet dreams and nightmares to generals of ages
 past. You can drop instantly into the sensorium of anyone under your command, experience the
@@ -190,7 +189,6 @@ remind Sarasti that you think he's wrong. You don't want him dwelling on that. Y
 think you're up to something.
 Because you are. Even if you're not quite ready to admit it to yourself.
 Amanda Bates is beginning to contemplate a change of command.
-*
 The laceration of my suit had done a real number on the gears. It took three solid days for Theseus to
 bring me back to life. But death was no excuse for falling behind the curve; I resurrected with a head
 full of updates clogging my inlays.
@@ -307,7 +305,6 @@ whole noninterference thing?"
 "Good." There was an edge to her voice. "Hate to think you were slipping. We're going to grab some
 down time now, so maybe you could go and talk to Cunningham for a bit. Yeah, do that.
 "And be sure to tell him your theory about radiation-eating aliens. I bet he could use a laugh."
-*
 He stood at his post in BioMed, though his empty chair was barely a meter away. The ubiquitous
 cigarette hung from between the fingers of one hand, burned down and burned out. His other hand
 played with itself, fingers tapping against thumb in sequence, little to index, index to little. Windows

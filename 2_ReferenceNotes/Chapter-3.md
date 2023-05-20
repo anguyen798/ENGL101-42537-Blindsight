@@ -79,7 +79,6 @@ one last time, partook of the usual lies. We all agreed that this wasn't going t
 nobody deviated enough from the script to call anyone else a liar on that account. And finally—careful
 to say until next time rather than goodbye—we took our leave of my mother.
 I even suppressed my gag reflex long enough to give her a hug.
-*
 Jim had his inhaler in hand as we emerged from the darkness. I hoped, without much hope, that he'd
 throw it into the garbage receptacle as we passed through the lobby. But he raised it to his mouth and
 took another hit of vassopressin, that he would never be tempted.
@@ -128,7 +127,6 @@ totally indifferent to the ^Page-40
 cattle on all sides, to the heavenly portent that had transfixed them. Totally
 indifferent to the fact that the world had just turned inside-out.
 It was 1035 Greenwich Mean Time, February 13, 2082.
-*
 They clenched around the world like a fist, each black as the inside of an event horizon until those last
 bright moments when they all burned together. They screamed as they died. Every radio up to geostat
 groaned in unison, every infrared telescope went briefly snowblind. Ashes stained the sky for weeks
@@ -190,7 +188,6 @@ Watching the world from a distance, it occurred to me at last: I knew exactly wh
 with her Luddite ramblings about desaturated Humanity and the colorless interactions of virtual space.
 I'd known all along.
 I'd just never been able to see how it was any different from real life.
-*
 Imagine you are a machine.
 Yes, I know. But imagine you're a different kind of machine, one built from metal and plastic and
 designed not by blind, haphazard natural selection but by engineers and astrophysicists with their eyes
@@ -241,7 +238,6 @@ tells me to change course. Mission Control informs me that henceforth my new des
 referred to as Burns-Caulfield. Given current fuel and inertial constraints I will not reach it in less
 than thirty-nine years.
 I am to watch nothing else in the meantime.
-*
 I'd been liaising for a team at the Kurzweil Institute, a fractured group of cutting-edge savants
 convinced they were on the verge of solving the quantum-glial paradox. That particular log-jam had
 stalled AI for decades; once broken, the experts promised we'd be eighteen months away from the first
@@ -405,7 +401,6 @@ would. In a second."
 "I love you, son."
 Where are you? Are you coming back?
 "Thanks," I said again. "That's good to know."
-*
 This is what my father could not unmake. This is what I am:
 I am the bridge between the bleeding edge and the dead center. I stand between the Wizard of Oz and
 the man behind the curtain.

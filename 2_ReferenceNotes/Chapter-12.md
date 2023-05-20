@@ -63,7 +63,6 @@ of Bates's drones, a simple tool with no initiative and no influence on the grou
 pulled it off, for the most part.
 My nonsights accumulated on schedule and piled up in Theseus's transmission stack, unsent. There
 was too much local interference to get a signal through to Earth.
-*
 Szpindel was right: the ghosts followed us back. We began to hear voices other than Sarasti's,
 whispering up the spine. Sometimes even the brightly-lit wraparound world of the drum would warp ^Page-190
 
@@ -211,7 +210,6 @@ the ragged pupil of some great unblinking eye. It stayed empty as long as it sta
 came out after us. Nothing we could see. A thought began cycling through my head, some half-assed
 eulogy stolen from an eavesdropped confessional, and try as I might I couldn't shut it down.
 Isaac Szpindel hadn't made the semifinals after all.
-*
 Susan James came back to us on the way up. Isaac Szpindel did not.
 We stripped wordlessly in the decon balloon. Bates, first out of her suit, reached for Szpindel but the
 Gang stopped her with a hand and a headshake. Personae segued one into another as ^Page-196

@@ -41,7 +41,6 @@ refracted background. Still. In some dark, haunting way, it was almost beautiful
 snakes and smoky crystal spines.
 "It's talking again," James reported.
 "Talk back," Sarasti said, and abandoned us.
-*
 So she did: and while the Gang spoke with the artefact, the others spied upon it. Their vision failed
 over time—mirrors fell away along their respective vectors, lines-of-sight degraded with each passing ^Page-111
 
@@ -157,7 +156,6 @@ Boney.
 That was crazy. There was nothing there. We were half a light year from home talking to unseen aliens
 about family reunions, and my eyes were playing tricks on me.
 Have to talk to Szpindel about that, if it happened again.
-*
 A lull in the background chatter brought me back. Sascha had stopped talking. Darkened facets hung
 around her like a thundercloud. I pulled back the last thing she had sent: "We usually find our nephews
 with telescopes. They are hard as Hobblinites."
@@ -184,7 +182,6 @@ Bates shook her head. "You're saying whatever we're talking to—it's not even i
 "So what is it? Voicemail?"
 "Actually," Szpindel said slowly, "I think they call it a Chinese Room..."
 About bloody time, I thought.
-*
 I knew all about Chinese Rooms. I was one. I didn't even keep it a secret, I told anyone who was
 interested enough to ask.
 In hindsight, sometimes that was a mistake.
@@ -238,7 +235,6 @@ A wicked grin wiped the questions right off her face. "Oooh, that's right..."
 It's risky, getting involved. Too many confounds. Every tool in the shed goes dull and rusty the
 moment you get entangled with the system you're observing.
 Still serviceable in a pinch, though.
-*
 "It hides now," Sarasti said. "It's vulnerable now.
 "Now we go in."
 It wasn't news so much as review: we'd been straight-lining towards Ben for days now. But perhaps the

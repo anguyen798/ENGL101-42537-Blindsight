@@ -1,3 +1,9 @@
+Status: #idea
+Tags: [[+Headquotes]]
+
+* 
+
+## References
 
 * ![[Chapter-6#^Page-94]]
 * "You wouldn't be happy here, Susan. Fetishistic religious beliefs involved. There are dangerous

@@ -1,7 +1,8 @@
 Status: #idea
-Tags: [[]]
+Tags: [[@Sir-Keaton]]
 
-* 
+* Siri Keeton is asking us to visualize being him, something he has trouble doing so
+* In Echopraxia, Portia 
 
 ## References
 

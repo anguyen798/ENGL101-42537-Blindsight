@@ -25,7 +25,6 @@ It doesn't matter. This is what I do.
 So there you have it: a memoir told from meat to machinery. A tale told to myself, for lack of
 someone else to take an interest.
 Anyone with half a brain could tell it.
-*
 I got a letter from Dad today. General delivery, he called it. I think that was a joke, in deference to my
 lack of known address. He just threw it omnidirectionally into the ether and hoped it would wash over
 me, wherever I was.
@@ -47,13 +46,11 @@ uncertainty and suspicion, ^Page-358
 and the creeping dread that even with my best tricks in tatters, I might be
 reading him right.
 I think he's warning me to stay away.
-*
 He also said he loved me. He said he missed Helen, that she was sorry for something she did before I
 was born, some indulgence or omission that carried developmental consequences. He rambled. I don't
 know what he was talking about. So much power my father must have had, to be able to authorize such
 a broadcast and yet waste so much of it on feelings.
 Oh God, how I treasure it. I treasure every word.
-*
 I fall along an endless futile parabola, all gravity and inertia. Charybdis couldn't reacquire the
 antimatter stream; Icarus has either been knocked out of alignment or shut off entirely. I suppose I
 could radio ahead and ask, but there's no hurry. I'm still a long way out. It will be years before I even
@@ -112,7 +109,6 @@ once been no more than protein. I wonder how I'd feel if my disability had been 
 leashed and denied my rightful place in the world.
 And then I wonder what it would be like to feel nothing at all, to be an utterly rational, predatory
 creature with meat putting itself so eagerly to sleep on all sides...
-*
 I can't miss Jukka Sarasti. God knows I try, every time I come online. He saved my life. He —
 humanized me. I'll always owe him for that, for however long I live; and for however long I live I'll
 never stop hating him for the same reason. In some sick surrealistic way I had more in common with

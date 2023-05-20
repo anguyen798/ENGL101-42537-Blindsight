@@ -134,7 +134,6 @@ Michelle see anything?"
 BioMed jerked slightly, locking into spin-synch with the drum; the guard rail sank back into the deck.
 Off in some far-off corner, something without eyes watched me watching it.
 "Shit," Bates whispered. "There's someone home."
-*
 They never really talked like that, by the way. You'd hear gibberish—a half-dozen languages, a whole
 Babel of personal idioms—if I spoke in their real voices.
 Some of the simpler tics make it through: Sascha's good-natured belligerence, Sarasti's aversion to the
@@ -159,7 +158,6 @@ accommodated.
 I am a conduit. I exist to bridge the gap, and I'd bridge nothing if I only told you what these people
 said. So I am telling you what they meant, and it will mean as much to you as you can handle.
 Except for Susan James, linguist and Ringleader, whom I trust to speak for herself.
-*
 Fifteen minutes to apogee: maximum safe distance, in case Rorschach decided to hit back. Far below,
 the artefact's magnetic field pressed into Ben's atmosphere like God's little finger. Great dark
 thunderheads converged behind it; turbulent moon-sized curlicues collided in its wake.

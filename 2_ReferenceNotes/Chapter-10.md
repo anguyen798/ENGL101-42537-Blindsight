@@ -64,7 +64,6 @@ I realized something else, too. Surrounded by displays documenting the relentles
 leviathan beneath us, I could not only see why Sascha had objected to the word; I could also see why
 Isaac Szpindel, no doubt unconsciously, had spoken it in the first place.
 As far as Earth was concerned, everyone on Theseus was an alter.
-*
 Sarasti stayed behind. He hadn't come with a backup.
 There were the rest of us, though, crammed into the shuttle, embedded in custom spacesuits so padded
 with shielding we might ^Page-156
@@ -142,7 +141,6 @@ I looked at the Gang. The Gang looked at Szpindel. Szpindel shrugged.
 "It's not gonna get any better," Bates said from afar. "The clock is... clock is ticking, people. Get down
 here."
 We got.
-*
 Not living, not by a long shot.
 Haunted.
 Even when the walls didn't move, they did: always at the corner of the eye, that sense of crawling
@@ -250,7 +248,6 @@ Szpindel: "What's happening?"
 "Wha—" Szpindel had lots. "You will be, if you don't—"
 "You leave me here," Bates said. "That's an order."
 She sealed us in.
-*
 It wasn't the first time, not for me. I'd had invisible fingers poking through my brain before, stirring
 up the muck, ripping open the scabs. It was far more intense when Rorschach did it to me, but Chelsea
 was more— ^Page-163
@@ -361,7 +358,6 @@ and his face was utterly unreadable.
 But there was no mistaking the triumph on hers. ^Page-167
 
 [[Chapter-10#^Page-168]] ~Chapter-10 ~Page-168
-*
 I was up off the couch, the skullcap clenched in one hand. Chelsea stood wide-eyed before me, the
 butterfly still as death on her cheekbone.
 She took my hand. "Oh, God. I'm so sorry."
