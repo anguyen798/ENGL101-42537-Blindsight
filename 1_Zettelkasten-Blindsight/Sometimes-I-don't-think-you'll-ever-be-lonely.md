@@ -1,5 +1,5 @@
 Status: #idea
-Tags: [[@Siri-Keaton]] [[Empathy]]
+Tags: [[@Siri-Keeton]] [[Empathy]]
 
 * Siri kept others at a distance in the past but since regaining his empathy he feels a longing for companionship being alone in the return shuttle
 

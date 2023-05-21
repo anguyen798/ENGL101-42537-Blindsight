@@ -9,6 +9,3 @@ Tags: [[@Amanda-Bates]] [[Realists]]
 ![[Chapter-11#^Page-183]]
 
 ![[Chapter-11#^Page-184]]
-
-
-![[Pasted image 20230504192820.jpg]]

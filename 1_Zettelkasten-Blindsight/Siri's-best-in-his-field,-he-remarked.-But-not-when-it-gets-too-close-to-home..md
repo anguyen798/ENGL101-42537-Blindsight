@@ -1,5 +1,5 @@
 Status: #idea
-Tags: [[@Siri-Keaton]] [[Synthesis]] [[@Chelsea]]
+Tags: [[@Siri-Keeton]] [[Synthesis]] [[@Chelsea]]
 
 * Siri surpassed others in his field of synthesis due to his disability caused by his hemispherectomy
 * To substitute for empathy, Siri picks up on patterns and social cues in the form of a Chinese Room, lacking comprehension but simply knowing how things work like a scrambler

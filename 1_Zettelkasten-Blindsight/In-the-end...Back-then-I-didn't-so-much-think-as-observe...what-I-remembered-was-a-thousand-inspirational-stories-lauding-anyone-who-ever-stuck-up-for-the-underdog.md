@@ -1,5 +1,5 @@
 Status: #idea
-Tags: [[@Siri-Keaton]]
+Tags: [[@Siri-Keeton]]
 
 * This is Siri's origin story where he first developed his Chinese Room
 * Siri rationalizes rather than feels empathy

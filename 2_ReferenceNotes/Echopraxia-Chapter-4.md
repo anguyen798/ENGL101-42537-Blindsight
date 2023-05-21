@@ -232,14 +232,14 @@ Brüks looked down at his plate. It was empty.
 They program us like clockwork dolls, he thought. Way off to the west, the sun touched gently down on a distant ridge.
 He looked at her. “Why are we still in charge?”
 She grinned. “Who’s we, white boy?”
-He didn’t. “These people you—work for. They’re supposed to be helpless, that’s what everyone says. You can optimize a brain for down there or up here, not both. Anyone comfortable thinking at Planck scales, they can barely cross the street unassisted up in the real world. That’s why they set up in the desert. That’s why they have people like you. That’s what they tell us.”
+He didn’t. “These people you—work for. They’re supposed to cbe helpless, that’s what everyone says. You can optimize a brain for down there or up here, not both. Anyone comfortable thinking at Planck scales, they can barely cross the street unassisted up in the real world. That’s why they set up in the desert. That’s why they have people like you. That’s what they tell us.”
 “All true, more or less,” Lianna said.
 He shook his head. “They micromanage tornadoes, Lee. They turn people into puppets with a wink and a wave, they own half the patent office. They’re about as helpless as a T. rex in a daycare center. So why haven’t they been running things for years?”
 “That’s like a chimp asking why those hairless apes aren’t slinging bigger feces than everyone else, if they’re so damned clever.”
 He tried not to smile, and failed. “That’s not really an answer.”
 “Sure it is. Everybody goes on about hive mind this and synesthesia that like they were some kind of superpowers.”
 “After last night, you’re going to tell me they’re not?”
-“It goes so much deeper than that. It’s perceptual. We’re so— ^Page-65
+“It goes so much deeper than that. It’s perceptual. We’re so— ^Page-64
 
 [[Echopraxia-Chapter-4#^Page-65]]
 impoverished, you know? We don’t look out at reality at all, we look in at this model, this caricature our brains cobble together out of wavelengths and pressure points. We squint down over handwritten notes that say two blocks east, turn left at the bridge and we think that reading those stupid scribbles is the same as seeing the universe passing by on the other side of the windshield.” She glanced over her shoulder, to the edifice at their backs.

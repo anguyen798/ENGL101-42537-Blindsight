@@ -1,5 +1,5 @@
 Status: #idea
-Tags: [[@Chelsea]] [[@Siri-Keaton]]
+Tags: [[@Chelsea]] [[@Siri-Keeton]]
 
 * Siri was too focused on his own needs in a relationship and didn't account for Chelsea's needs
 * This was due to him never opening up himself

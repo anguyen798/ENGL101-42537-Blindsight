@@ -1,5 +1,5 @@
 Status: #idea
-Tags: [[@Siri-Keaton]] [[Empathy]]
+Tags: [[@Siri-Keeton]] [[Empathy]]
 
 * Siri says his Chinese Room and lack of consciousness is superior to empathy
 

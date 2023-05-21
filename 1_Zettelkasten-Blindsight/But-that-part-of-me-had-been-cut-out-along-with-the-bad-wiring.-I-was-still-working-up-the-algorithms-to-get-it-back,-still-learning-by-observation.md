@@ -1,5 +1,5 @@
 Status: #idea
-Tags: [[@Siri-Keaton]] [[Chinese-room]]
+Tags: [[@Siri-Keeton]] [[Chinese-room]]
 
 * The origin story of Siri's Chinese Room
 

@@ -1,5 +1,5 @@
 Status: #idea
-Tags: [[Projection]] [[@Siri-Keaton]]
+Tags: [[Projection]] [[@Siri-Keeton]]
 
 * Siri is assuming several things in the scene:
 	* That Cunningham and Sasha are calling him a play-actor or social-shapeshifter

@@ -1,13 +1,12 @@
 Status: #idea
-Tags: [[@Sir-Keaton]]
+Tags: [[@Sir-Keeton]]
 
 * Siri Keeton is asking us to visualize being him, something he has trouble doing so
-* In Echopraxia, Portia 
+* In Echopraxia, Portia sends a message to Jim Moore (Siri's father to brainwash him [[Echopraxia-Chapter-17#^Page-278]]
+
 
 ## References
 
 ![[Chapter-2#^Page-25]]
 
-![[Chapter-22#^Page-323]]
-
-![[Chapter-2#^Page-25]]
+![[Chapter-24#^Page-362]]

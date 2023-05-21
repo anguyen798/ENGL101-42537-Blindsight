@@ -1,5 +1,5 @@
 Status: #idea
-Tags: [[Body-economic]] [[@Chelsea]] [[@Siri-Keaton]]
+Tags: [[Body-economic]] [[@Chelsea]] [[@Siri-Keeton]]
 
 * Relationships in the future are based on ideal apperances, lack of personality flaws, un-vanilla, inauthentic and lack physical contact
 
