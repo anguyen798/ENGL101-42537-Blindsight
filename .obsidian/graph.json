@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "Evolutionary-s",
+  "search": "Fixing-dis",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -32,6 +32,6 @@
   "repelStrength": 10.4158004158004,
   "linkStrength": 0.633056133056133,
   "linkDistance": 435,
-  "scale": 0.4760255037564157,
-  "close": false
+  "scale": 0.3120339339338117,
+  "close": true
 }

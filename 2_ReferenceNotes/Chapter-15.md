@@ -1,4 +1,4 @@
-[[Chapter-15#^Page-228]] ~Chapter-15 ~Page-228
+[[Chapter-15#^Page-228]] 
 "Problems cannot be solved at the same level of awareness that created them"
 —Einstein
 Robert Paglino had set me up with Chelsea in the first place. Maybe he felt responsible when the
@@ -19,7 +19,7 @@ reading him. Maybe we just knew each other too well.
 "What'd she tell you?"
 "Me? Nothing at all." ^Page-228
 
-[[Chapter-15#^Page-229]] ~Chapter-15 ~Page-229
+[[Chapter-15#^Page-229]] 
 I gave him a look over the top of my glass.
 He sighed. "She knows you're cheating on her."
 "I'm what?"
@@ -47,7 +47,7 @@ interest that she wouldn't let me out the door until I confided in her. At twelv
 to throw myself on her mercy, It's personal, Mom. I'd just rather not talk about it. Then I'd made my
 escape into the bathroom when she ^Page-229
 
-[[Chapter-15#^Page-230]] ~Chapter-15 ~Page-230
+[[Chapter-15#^Page-230]] 
 demanded to know if it was trouble online, trouble at school, was it
 a girl, was it a—a boy, what was it and why couldn't I just trust my own mother, don't I know I can
 trust her with anything? I waited out the persistent knocking and the insistent concerned voice through
@@ -74,7 +74,7 @@ Whatever hybrids and the constructs I work with, they don't—"
 Which isn't to say that her strategies couldn't use some work."
 "Strategies." ^Page-230
 
-[[Chapter-15#^Page-231]] ~Chapter-15 ~Page-231
+[[Chapter-15#^Page-231]] 
 It's not a strategy, for God's sake! Can't you see I'm hurting? I'm on the fucking floor, Siri, I'm curled
 up in a ball because I'm hurting so much and all you can do is criticize my tactics? What do I have to
 do, slash my goddamn wrists?
@@ -102,7 +102,7 @@ She wants all that stuff to be true. And—well, why can't it be?"
 feeling machines that happen to think." He took a breath, and another hit. "And you already know that,
 or you couldn't do your job. Or at least—" He grimaced— "the system knows." ^Page-231
 
-[[Chapter-15#^Page-232]] ~Chapter-15 ~Page-232
+[[Chapter-15#^Page-232]] 
 "The system."
 Me and my protocols, he meant. My Chinese Room.
 I took a breath. "It doesn't work with everyone, you know."
@@ -128,7 +128,7 @@ was so they'd look at it while it moved, use sight as a substitute for the norma
 I take for granted. They could walk, if they kept their eyes focused on their legs and concentrated on
 every step. They'd get pretty good at it. But even ^Page-232
 
-[[Chapter-15#^Page-233]] ~Chapter-15 ~Page-233
+[[Chapter-15#^Page-233]] 
 after years of practice, if you distracted them in mid-
 step they'd go over like a beanstalk without a counterweight."
 "You're saying I'm like that?"
@@ -157,7 +157,7 @@ He held out his glass. Dutifully, I clinked it against my own. We drank.
 I nodded.
 "Nothing at all?" ^Page-233
 
-[[Chapter-15#^Page-234]] ~Chapter-15 ~Page-234
+[[Chapter-15#^Page-234]] 
 I thought back. "Well, he was wracked by convulsions all the time, right? There'd be constant pain. I
 don't remember any pain." My glass was almost empty; I sipped to make it last. "I—I dream about
 him sometimes, though. About— being him."

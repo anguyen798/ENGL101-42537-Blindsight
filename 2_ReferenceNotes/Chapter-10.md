@@ -1,4 +1,4 @@
-[[Chapter-10#^Page-154]] ~Chapter-10 ~Page-154
+[[Chapter-10#^Page-154]] 
 "The Lord will take control of you. You will dance and shout and become a different person."
 —1 Samuel 10:6
 "We were probably fractured during most of our evolution," James once told me, back when we were
@@ -18,7 +18,7 @@ documented cases as recently as fifty years ago."
 "Really." I resisted the temptation to look it up on my inlays; the unfocused eyes can be a giveaway. "I
 didn't know." ^Page-154
 
-[[Chapter-10#^Page-155]] ~Chapter-10 ~Page-155
+[[Chapter-10#^Page-155]] 
 "Well it's not like anyone talks about it now. People were fucking barbarians about multicores back
 then—called it a disorder, treated it like some kind of disease. And their idea of a cure was to keep
 one of the cores and murder all the others. Not that they called it murder, of course. They called it
@@ -41,7 +41,7 @@ day had been little more than witch doctors dancing through improvised rituals: 
 interviews full of leading questions and nonverbal cues, scavenger hunts through regurgitated
 childhoods. Sometimes a shot of lithium or haloperidol when the beads and rattles didn't ^Page-155
 
-[[Chapter-10#^Page-156]] ~Chapter-10 ~Page-156
+[[Chapter-10#^Page-156]] 
 work. The
 technology to map minds was barely off the ground; the technology to edit them was years away. So
 t h e therapists and psychiatrists poked at their victims and invented names for things they didn't
@@ -68,7 +68,7 @@ Sarasti stayed behind. He hadn't come with a backup.
 There were the rest of us, though, crammed into the shuttle, embedded in custom spacesuits so padded
 with shielding we might ^Page-156
 
-[[Chapter-10#^Page-157]] ~Chapter-10 ~Page-157
+[[Chapter-10#^Page-157]] 
 have been deep-sea divers from a previous century. It was a fine balance; too
 much shielding would have been worse than none at all, would split primary particles into secondary
 ones, just as lethal and twice as numerous. Sometimes you had to live with moderate exposure; the
@@ -95,7 +95,7 @@ wrong foot, we might have to sort through all kinds of misunderstandings. But we
 out eventually."
 Evidently she thought that had answered my question. ^Page-157
 
-[[Chapter-10#^Page-158]] ~Chapter-10 ~Page-158
+[[Chapter-10#^Page-158]] 
 The shuttle slewed; we bumped against each other like tenpins. Thirty seconds of micromaneuvers
 brought us to a solid stop. A cheery animation played across the HUD in greens and blues: the shuttle's
 docking seal, easing through the membrane that served as our entrance into Rorschach's inflatable
@@ -122,7 +122,7 @@ You give up a lot when you don't trust the EM spectrum.
 "Looks good," Bates reported. "Going in."
 In a friendlier universe machines would have cruised the boulevard, ^Page-158
 
-[[Chapter-10#^Page-159]] ~Chapter-10 ~Page-159
+[[Chapter-10#^Page-159]] 
 sending perfect images in crystal
 resolution. Szpindel and the Gang would be sipping coffee back in the drum, telling the grunts to take
 a sample of this or get a close-up of that. In a friendlier universe, I wouldn't even be here.
@@ -149,7 +149,7 @@ alien observers just out of sight. More than once I turned, expecting to catch o
 the open. All I ever saw was a half-blind grunt floating down the passageway, or a wide-eyed and
 jittery crewmate returning my stare. And the walls of ^Page-159
 
-[[Chapter-10#^Page-160]] ~Chapter-10 ~Page-160
+[[Chapter-10#^Page-160]] 
 some glistening black lava tube with a hundred
 embedded eyes, all snapped shut just the instant before. Our lights pushed the darkness back perhaps
 twenty meters in either direction; beyond, mist and shadows seethed. And the sounds—Rorschach
@@ -173,7 +173,7 @@ main anchor line down from the vestibule to the flaccid sack floating in the mid
 I was—that's right, something about a spring line. To, to keep the bell centered. The wall glistened in
 my headlamp like wet clay. Satanic runes sparkled in my imagination. ^Page-160
 
-[[Chapter-10#^Page-161]] ~Chapter-10 ~Page-161
+[[Chapter-10#^Page-161]] 
 I jammed the spring line's pad against the wall. I could have sworn the substrate flinched. I fired my
 thrust pistol, retreated back to the center of the passage.
 "They're here," James whispered.
@@ -201,7 +201,7 @@ throw me something."
 "What?"
 It's all in your head. It's all in your— ^Page-161
 
-[[Chapter-10#^Page-162]] ~Chapter-10 ~Page-162
+[[Chapter-10#^Page-162]] 
 "Throw something! Anything!"
 Bates hesitated. "You said you were bli—"
 "Just do it!"
@@ -228,7 +228,7 @@ Something laughed hysterically, right inside my helmet.
 "Take his arm," Bates told me, taking his right one, trying to pry the fingers from their death grip on
 the Gang's leg. "Cruncher, let go. Now." ^Page-162
 
-[[Chapter-10#^Page-163]] ~Chapter-10 ~Page-163
+[[Chapter-10#^Page-163]] 
 "Get it off me!"
 "It's your leg, Cruncher." We wrestled our way towards the diving bell.
 "It's not my leg! Just look at it, how could it—it's dead. It's stuck to me..."
@@ -252,7 +252,7 @@ It wasn't the first time, not for me. I'd had invisible fingers poking through m
 up the muck, ripping open the scabs. It was far more intense when Rorschach did it to me, but Chelsea
 was more— ^Page-163
 
-[[Chapter-10#^Page-164]] ~Chapter-10 ~Page-164
+[[Chapter-10#^Page-164]] 
 —precise, I guess you'd say.
 Macramé, she called it: glial jumpstarts, cascade effects, the splice and dice of critical ganglia. While
 I trafficked in the reading of Human architecture, Chelsea changed it—finding the critical nodes and
@@ -279,7 +279,7 @@ proposition; so one afternoon Chelsea fished around in her cupboards and dredged
 studded with greasy gray washers. The net was a superconducting spiderweb, fine as mist, that mapped
 the fields of merest thought. ^Page-164
 
-[[Chapter-10#^Page-165]] ~Chapter-10 ~Page-165
+[[Chapter-10#^Page-165]] 
 The washers were ceramic magnets that bathed the brain in fields of their
 own. Chelsea's inlays linked to a base station that played with the interference patterns between the
 two.
@@ -306,7 +306,7 @@ impressionist paintings. Okay?"
 "Okay."
 "Ah," she said. "There's something." ^Page-165
 
-[[Chapter-10#^Page-166]] ~Chapter-10 ~Page-166
+[[Chapter-10#^Page-166]] 
 "What?"
 "Functional cluster. Getting a lot of low-level use but not enough to intrude into conscious awareness.
 Let's just see what happens when we—"
@@ -331,7 +331,7 @@ love shining through? Why not just deny him food and water while you're at it!"
 I felt my face scrunching at the unfamiliar word. Something small and white beckoned from the open
 garbage pail. ^Page-166
 
-[[Chapter-10#^Page-167]] ~Chapter-10 ~Page-167
+[[Chapter-10#^Page-167]] 
 "Jim, be reasonable. He's so distant, he barely even talks to me."
 "They said it would take time."
 "But two years! There's nothing wrong with helping nature along a little, we're not even talking black
@@ -357,7 +357,7 @@ And then she saw me. And then he did. And my father took his hand from around my
 and his face was utterly unreadable.
 But there was no mistaking the triumph on hers. ^Page-167
 
-[[Chapter-10#^Page-168]] ~Chapter-10 ~Page-168
+[[Chapter-10#^Page-168]] 
 I was up off the couch, the skullcap clenched in one hand. Chelsea stood wide-eyed before me, the
 butterfly still as death on her cheekbone.
 She took my hand. "Oh, God. I'm so sorry."

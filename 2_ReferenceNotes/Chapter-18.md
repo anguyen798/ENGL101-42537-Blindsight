@@ -1,4 +1,4 @@
-[[Chapter-18#^Page-268]] ~Chapter-18 ~Page-268
+[[Chapter-18#^Page-268]] 
 "That which does not kill us, makes us stranger."
 —Trevor Goodchild
 "You still don't vote," Sarasti said.
@@ -17,7 +17,7 @@ But Sarasti had an alternative to capture-release, one he evidently considered m
 act of faith to accept that reasoning, at least; by any sane measure it verged on suicide.
 Now Theseus gave birth by Caesarian. These progeny were far too ^Page-268
 
-[[Chapter-18#^Page-269]] ~Chapter-18 ~Page-269
+[[Chapter-18#^Page-269]] 
 massive to fit through the canal at
 the end of the spine. The ship shat them as if constipated, directly into the hold: great monstrous
 things, bristling with muzzles and antennae. Each stood three or four times my height, a pair of
@@ -42,7 +42,7 @@ I tacked to port: "How about Sarasti and the Captain, then? Any thoughts?"
 That much was true. "It's just, you know Susan was the one that caught Stretch and Clench tapping
 back and forth, right?" ^Page-269
 
-[[Chapter-18#^Page-270]] ~Chapter-18 ~Page-270
+[[Chapter-18#^Page-270]] 
 Bates winced at the names. "So?"
 "Well, some might think it odd that Theseus wouldn't have seen it first. Since quantum computers are
 supposed to be so proficient at pattern-matching."
@@ -68,7 +68,7 @@ would be. Nailed it almost the meter, out of that whole maze."
 fucking dumb she couldn't believe it.
 "What?" I said. ^Page-270
 
-[[Chapter-18#^Page-271]] ~Chapter-18 ~Page-271
+[[Chapter-18#^Page-271]] 
 Bates shrugged. "Or maybe he just realized that since Rorschach was growing its own crew, we'd run
 into more every time we went in. No matter where we landed."
 ConSensus bleeped into my silence. "Orbital maneuvers starting in five," Sarasti announced. "Inlays
@@ -96,7 +96,7 @@ fraying tentacle and tapped something in turn.
 "Any progress?"
 She sighed and shook her head. "I've given up trying to understand ^Page-271
 
-[[Chapter-18#^Page-272]] ~Chapter-18 ~Page-272
+[[Chapter-18#^Page-272]] 
 their language. I'm settling for a
 pidgin." She tapped an icon. Clench vanished from his window; a hieroglyphic flowchart sprang up in
 his place. Half the symbols wriggled or pulsed, endlessly repetitive, a riot of dancing doodles. Others
@@ -123,7 +123,7 @@ She pointed at Stretch's first spiral: "Polyhedron star Rorschach are present."
 "Got it right the second time. Still, stupid mistake for something that can think rings around a
 vampire, isn't it?" Susan swallowed. "I guess even scramblers slip up when they're dying." ^Page-272
 
-[[Chapter-18#^Page-273]] ~Chapter-18 ~Page-273
+[[Chapter-18#^Page-273]] 
 I didn't know what to say. Behind me, barely audible, Cunningham muttered some two-stroke mantra
 to himself in an endless loop.
 "Jukka says—" Susan stopped, began again: "You know that blindsight we get sometimes, in
@@ -150,7 +150,7 @@ I should have been able to tell. She should have been clear.
 begging eyes on me, pleading for an answer.
 I didn't have one. I didn't have a clue. I turned away from Susan ^Page-273
 
-[[Chapter-18#^Page-274]] ~Chapter-18 ~Page-274
+[[Chapter-18#^Page-274]] 
 James, only to find myself facing
 Robert Cunningham: Cunningham the mutterer, fingers tapping against tabletop interfaces, inner eyes
 blinded, vision limited now to the pictures ConSensus sketched in airspace or threw against flat
@@ -176,7 +176,7 @@ difference would make much difference. Sarasti had obviously figured the odds di
 shut down the antiEuclidean pump in his own head, resorted to manual injections to keep himself from
 short-circuiting. ^Page-274
 
-[[Chapter-18#^Page-275]] ~Chapter-18 ~Page-275
+[[Chapter-18#^Page-275]] 
 Stretch and Clench were even closer to Rorschach than we were. Cunningham's lab had been kicked
 free of the ship; it floated now just a few kilometers from the artefact's outermost spires, deep within
 the folds of its magnetic field. If the scramblers needed radioactive magnetite to function, this was the
@@ -201,7 +201,7 @@ me: "Magnetite flecks lined up as soon as they got past the wavefront, more or l
 started to fix themselves. They're not failing as fast. But it's Rorschach' s internal environment that
 will be optimized for scrambler ^Page-275
 
-[[Chapter-18#^Page-276]] ~Chapter-18 ~Page-276
+[[Chapter-18#^Page-276]] 
 metabolism. Out here, I think the most we can do is slow the rate of
 dying."
 "That's something, at least."
@@ -226,7 +226,7 @@ once the very ghost in the machine, now he was just another guy punching buttons
 —and suddenly, something clicked. Cunningham's facades swirled to translucency before my eyes.
 Suddenly, I could almost imagine him. ^Page-276
 
-[[Chapter-18#^Page-277]] ~Chapter-18 ~Page-277
+[[Chapter-18#^Page-277]] 
 He got it right the second time. The tip of his machine shot out like a striking snake and darted back
 again, almost too fast to see. Waves of color flushed from Stretch's injury like ripples chased across
 still water by a falling stone.
@@ -251,7 +251,7 @@ the Oort, his topology rambled all over the ship. That was true of all of us, to
 her drones, Sarasti and his limbic link—even the ConSensus inlays in our heads diffused us a bit,
 spread us just slightly beyond the confines of our own bodies. But Bates only ran ^Page-277
 
-[[Chapter-18#^Page-278]] ~Chapter-18 ~Page-278
+[[Chapter-18#^Page-278]] 
 her drones; she never
 inhabited them. The Gang of Four may have run multiple systems on a single motherboard, but each
 had its own distinct topology and they only surfaced one at a time. And Sarasti—
@@ -276,7 +276,7 @@ see them at last.
 It had been my mistake, all along. I'd been so focused on modelling other systems that I'd forgotten
 about the one doing the modelling. Bad eyes are only one bane of clear vision: bad assumptions ^Page-278
 
-[[Chapter-18#^Page-279]] ~Chapter-18 ~Page-279
+[[Chapter-18#^Page-279]] 
 can be
 just as blinding, and it wasn't enough to imagine I was Robert Cunningham.
 I had to imagine I was Siri Keeton as well.

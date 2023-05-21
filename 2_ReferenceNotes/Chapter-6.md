@@ -1,4 +1,4 @@
-[[Chapter-6#^Page-94]] ~Chapter-6 ~Page-94
+[[Chapter-6#^Page-94]] 
 "The glass ceiling is in you. The glass ceiling is conscience."
 —Jacob Holtzbrinck, The Keys to the Planet
 There were stories, before we left Earth, of a fourth wave: a fleet of deep-space dreadnoughts running
@@ -14,7 +14,7 @@ things got ugly.
 I wonder if that's what happened. I wonder if they made it back home.
 I look back now, and hope not. ^Page-94
 
-[[Chapter-6#^Page-95]] ~Chapter-6 ~Page-95
+[[Chapter-6#^Page-95]] 
 A giant marshmallow kicked Theseus in the side. Down swung like a pendulum. Across the drum
 Szpindel yelped as if scalded; in the galley, cracking a bulb of hot coffee, I nearly was.
 This is it, I thought. We got too close. They're hitting back.
@@ -41,7 +41,7 @@ every pebble and mountain and planetesimal to find the pattern, but he'd come cl
 nor the conjoined intelligence he shared with the Captain had been able to explain those trajectories as
 the mere aftermath of some past disturbance. The dust wasn't just settling; some of it ^Page-95
 
-[[Chapter-6#^Page-96]] ~Chapter-6 ~Page-96
+[[Chapter-6#^Page-96]] 
 marched
 downhill to the beat of something that even now reached out from the cloud-tops and pulled debris
 from orbit.
@@ -71,7 +71,7 @@ seen this earlier."
 Twenty-seven degrees."
 "Wider angle to what?" Sascha said. ^Page-96
 
-[[Chapter-6#^Page-97]] ~Chapter-6 ~Page-97
+[[Chapter-6#^Page-97]] 
 "To the line," Bates murmured. "Between us and them."
 It was all there on tactical: Theseus fell inwards along an obvious arc, but the probes we'd dispatched
 hadn't dicked around with Hohmann transfers: they'd burned straight down, their courses barely
@@ -97,7 +97,7 @@ vectored straight in now, and damn the torpedoes.
 more cautious now?"
 Szpindel shrugged. "We could second-guess vampires, we wouldn't need vampires, eh?" ^Page-97
 
-[[Chapter-6#^Page-98]] ~Chapter-6 ~Page-98
+[[Chapter-6#^Page-98]] 
 A new facet bloomed on the feed. Frequency histograms and harmonic spectra erupted from flatline
 into shifting mountainscapes, a chorus of visible light.
 "Modulated laser," Bates reported.
@@ -121,7 +121,7 @@ feed and saw text accreting around the alien signal:
 Rorschach to vessel approaching 116Az -23dec rel. Hello Theseus. Rorschach to vessel
 approaching 116Az -23dec rel. Hello Theseus. Rorschach to vessel approachi ^Page-98
 
-[[Chapter-6#^Page-99]] ~Chapter-6 ~Page-99
+[[Chapter-6#^Page-99]] 
 She'd decoded the damn thing. Already. She was even answering it:
 Theseus to Rorschach. Hello Rorschach.
 Hello Theseus. Welcome to the neighborhood.
@@ -141,7 +141,7 @@ Too close and dangerous to you. low orbit complications.
 Request information on low orbit complications.
 Lethal environment. Rocks and rads. You're welcome. I can take it but we're like that. ^Page-99
 
-[[Chapter-6#^Page-100]] ~Chapter-6 ~Page-100
+[[Chapter-6#^Page-100]] 
 We are aware of the rocks in low orbit. We are equipped to deal with radiation. Request
 information on other hazards.
 I dug under the transcript to the channel it fed from. Theseus had turned part of the incoming beam
@@ -170,7 +170,7 @@ No obvious change in the harmonics. Somehow, though, the voice seemed to have ac
 "You wouldn't be happy here, Susan. Fetishistic religious beliefs involved. There are dangerous
 observances." ^Page-100
 
-[[Chapter-6#^Page-101]] ~Chapter-6 ~Page-101
+[[Chapter-6#^Page-101]] 
 James chewed her lip.
 "Request clarification. Are we in danger from these observances?"
 "You certainly could be."
@@ -195,7 +195,7 @@ manifested as adult male, although the apparent age changed a few times."
 He'd heard all that. "Structure?"
 "The ship-to-ship protocols are perfect. Its vocabulary is far ^Page-101
 
-[[Chapter-6#^Page-102]] ~Chapter-6 ~Page-102
+[[Chapter-6#^Page-102]] 
 greater than you could derive from
 standard nav chatter between a few ships, so they've been listening to all our insystem traffic—I'd say
 for several years at least. On the other hand, the vocabulary doesn't have anywhere near the range
@@ -220,7 +220,7 @@ eavesdropped on half the registry and deduced that Rorschach would be a better t
 unfamiliar than, say, the SS Jaymie Matthews."
 "Territorial and smart." Szpindel grimaced, conjuring a mug from beneath his chair. "Wonderful." ^Page-102
 
-[[Chapter-6#^Page-103]] ~Chapter-6 ~Page-103
+[[Chapter-6#^Page-103]] 
 Bates shrugged. "Territorial, maybe. Not necessarily aggressive. In fact, I wonder if they could hurt us
 even if they wanted to."
 "I don't," Szpindel said. "Those skimmers—"
@@ -247,7 +247,7 @@ smart, eh?" A hologram bloomed on contact with the steaming liquid, glowing in s
 of the Gaza Glasslands. The scent of plasticised coffee flooded the Commons. "Especially after they'd
 surveilled us down to the square meter," he added. ^Page-103
 
-[[Chapter-6#^Page-104]] ~Chapter-6 ~Page-104
+[[Chapter-6#^Page-104]] 
 "And what did they see? I-CANNs. Solar sails. Ships that take years to reach the Kuiper, and don't
 have the reserves to go anywhere else afterwards. Telematter didn't exist beyond Boeing's simulators
 and a half-dozen protypes back then. Easy to miss. They must've figured one decoy would buy them
@@ -274,7 +274,7 @@ did you consider that? How much luck would you have interrogating a Human embryo
 a whole different animal."
 "Adult could put our asses through a meatgrinder." ^Page-104
 
-[[Chapter-6#^Page-105]] ~Chapter-6 ~Page-105
+[[Chapter-6#^Page-105]] 
 "So could the embryo for all we know." Bates rolled her eyes. "Jesus, Isaac, you're the biologist. I
 shouldn't have to tell you how many shy reclusive critters pack a punch when they're cornered.
 Porcupine doesn't want any trouble, but he'll still give you a faceful of quills if you ignore the
@@ -298,7 +298,7 @@ James nodded. "Like processing a line of text word by word, instead of looking a
 The smaller the units, the faster they can be reconfigured; it gives you very fast semantic reflexes. The
 down side is that it's difficult to maintain the same level ^Page-105
 
-[[Chapter-6#^Page-106]] ~Chapter-6 ~Page-106
+[[Chapter-6#^Page-106]] 
 of logical consistency, since the patterns
 within the larger structure are more likely to get shuffled."
 "Whoa." Szpindel straightened, all thoughts of liquids and centipetal force forgotten.
@@ -324,7 +324,7 @@ no idea how they—I mean, they're alien..."
 "Which is not something anyone here can look down their nose about."
 I tried again: "What pathology?" ^Page-106
 
-[[Chapter-6#^Page-107]] ~Chapter-6 ~Page-107
+[[Chapter-6#^Page-107]] 
 James shook her head. Szpindel filled me in: "There's a syndrome you might have heard about, eh?
 Fast talkers, no conscience, tend to malapropism and self-contradiction. No emotional affect."
 "We're not talking about human beings here," James said again, softly.
@@ -347,7 +347,7 @@ the slightest twitch of remorse?
 "Maybe it should be. We, at least—" he waved an arm; some remote-linked sensor cluster across the
 simulator whirred and torqued reflexively— "chose the add-ons. Vampires had to be sociopaths. ^Page-107
 
-[[Chapter-6#^Page-108]] ~Chapter-6 ~Page-108
+[[Chapter-6#^Page-108]] 
 They're too much like their own prey—a lot of taxonomists don't even consider them a subspecies,
 you know that? Never diverged far enough for complete reproductive isolation. So maybe they're more
 syndrome than race. Just a bunch of obligate cannibals with a consistent set of deformities."
@@ -373,7 +373,7 @@ spelled their doom.
 wolf, nothing but sheep for company. Wouldn't you feel lonely?"
 "They don't like company," I reminded him. You didn't put ^Page-108
 
-[[Chapter-6#^Page-109]] ~Chapter-6 ~Page-109
+[[Chapter-6#^Page-109]] 
 vampires of the same sex together, not
 unless you were taking bets on a bloodbath. They were solitary hunters and very territorial. With a
 minimum viable pred-prey ratio of one to ten—and human prey spread so sparsely across the

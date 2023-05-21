@@ -1,4 +1,4 @@
-[[Chapter-19#^Page-280]] ~Chapter-19 ~Page-280
+[[Chapter-19#^Page-280]] 
 "If I can but make the words awake the feeling"
 —Ian Anderson, Stand Up
 Night shift. Not a creature was stirring.
@@ -16,7 +16,7 @@ if we lived that long—but now, leaning to see around the spinal bundles in the
 surfaces as clearly as if I'd been sitting beside him. He wasn't bored, or distracted, or even deep in
 thought. ^Page-280
 
-[[Chapter-19#^Page-281]] ~Chapter-19 ~Page-281
+[[Chapter-19#^Page-281]] 
 Robert Cunningham was petrified.
 I stood and paced the drum. Ceiling turned into wall; wall into floor. I was close enough to hear his
 incessant soft muttering, a single indistinct syllable repeated over and over; then I was close enough to
@@ -42,7 +42,7 @@ paradoxical neural architecture of Stretch & Clench glistened on the main window
 labeled and overlaid by circuit diagrams a dozen layers thick. A dense, annotated forest of alien trunks
 and brambles. It looked a little like Rorschach itself. ^Page-281
 
-[[Chapter-19#^Page-282]] ~Chapter-19 ~Page-282
+[[Chapter-19#^Page-282]] 
 I couldn't parse any of it.
 "Are you listening, Keeton? Do you know what I'm saying?"
 "You've figured out why I couldn't—you're saying these things can somehow tell when our eyes are
@@ -69,7 +69,7 @@ patterns played slowly across their cuticles.
 they don't think about it."
 "Where are they going to get that instinct from, Keeton? How ^Page-282
 
-[[Chapter-19#^Page-283]] ~Chapter-19 ~Page-283
+[[Chapter-19#^Page-283]] 
 is it going to evolve? Saccades are an
 accidental glitch in mammalian vision. Where would scramblers have encountered them before now?"
 Cunningham shook his head. "That thing, that thing Amanda's robot fried— it developed that strategy
@@ -96,7 +96,7 @@ corpse.
 "We should just kill them now," he said.
 "Well, if they're spies, they can't have learned much. They've ^Page-283
 
-[[Chapter-19#^Page-284]] ~Chapter-19 ~Page-284
+[[Chapter-19#^Page-284]] 
 been in those cages the whole time,
 except—" for the way up. They'd been right next to us the whole trip back...
 "These things live and breath EM. Even stunted, even isolated, who knows how much of our tech they
@@ -121,7 +121,7 @@ into that light, rocking slightly. His lips went through the ongoing motions of 
 incantation. The Gang sat across from us. To my left Bates kept one eye on the proceedings and
 another on intelligence from the front lines. ^Page-284
 
-[[Chapter-19#^Page-285]] ~Chapter-19 ~Page-285
+[[Chapter-19#^Page-285]] 
 Sarasti was with us only in spirit. His place at the head of the table remained empty. "Tell them," he
 said.
 "We have to get out of h—"
@@ -146,7 +146,7 @@ Hidden in his tent, Sarasti took up the slack. "Scramblers also use Rorschach's 
 processes. Some pathways achieve proton transfer via heavy-atom tunneling. Perhaps the ambient
 radiation acts as a catalyst." ^Page-285
 
-[[Chapter-19#^Page-286]] ~Chapter-19 ~Page-286
+[[Chapter-19#^Page-286]] 
 "Tunneling?" Susan said. "As in quantum?"
 Cunningham nodded. "Which also explains your shielding problems. Partly, at least."
 "But is that even possible? I mean, I thought those kind of effects only showed up under cryonic—"
@@ -170,7 +170,7 @@ of mangled cigarette floated sideways in front of him. "Do you want to guess wha
 we know we've already given them Theseus' technical specs, warned them about the Icarus array, and
 then just decided of our own free will to forget it all." ^Page-286
 
-[[Chapter-19#^Page-287]] ~Chapter-19 ~Page-287
+[[Chapter-19#^Page-287]] 
 "We can cause those effects," Sarasti said coolly. "As you say. Strokes cause them. Tumors. Random
 accidents."
 "Random? Those were experiments, people! That was vivisection! They let you in so they could take
@@ -195,7 +195,7 @@ Sarasti was only trying to keep us functional, lost in space on the edge of our 
 monstrous enigma that might destroy us at any instant for any reason. Sarasti was trying to calm us
 down: ^Page-287
 
-[[Chapter-19#^Page-288]] ~Chapter-19 ~Page-288
+[[Chapter-19#^Page-288]] 
 good meat, nice meat. He was trying to keep us from falling apart. There there.
 Sarasti was practicing psychology.
 I looked around the table. Bates and Cunningham and the Gang sat still and bloodless.
@@ -220,7 +220,7 @@ moments when up and down held any meaning. We'd slept for years on the way out. 
 awareness of time's passage—undead metabolism is far too sluggish even to support dreams—but
 somehow the body knew when ^Page-288
 
-[[Chapter-19#^Page-289]] ~Chapter-19 ~Page-289
+[[Chapter-19#^Page-289]] 
 it needed a change. Not one of us had chosen to sleep in our pods once
 we'd arrived. The only times we'd done so had been on pain of death.
 But the Gang had taken to coming here ever since Szpindel had died.
@@ -248,7 +248,7 @@ now, Siri."
 "Ah." I hesitated for a moment, to give anyone else a chance to speak up. When nobody did, I pushed
 myself back towards the hatch. "Well, if any of you change—" ^Page-289
 
-[[Chapter-19#^Page-290]] ~Chapter-19 ~Page-290
+[[Chapter-19#^Page-290]] 
 "No. None of us. Ever."
 Cruncher.
 "You lie," he continued. "I see it. We all do."
@@ -273,7 +273,7 @@ variant outside the Boston catacombs; an easy tweak, a single-point retroviral w
 both as an act of terrorism and an ironic commentary on the frozen paralysis of Heaven's occupants. It
 rewrote a regulatory ^Page-290
 
-[[Chapter-19#^Page-291]] ~Chapter-19 ~Page-291
+[[Chapter-19#^Page-291]] 
 gene controlling ossification on Chromosome 4, and rigged a metabolic bypass at
 three loci on 17.
 Chelsea started growing a new skeleton. Her joints were calcifying within fifteen hours of exposure,
@@ -298,7 +298,7 @@ None of it useful; none of it her.
 She called again, and still the optics were blank, and still I didn't answer.
 But the last time she called, she didn't spare me the view. ^Page-291
 
-[[Chapter-19#^Page-292]] ~Chapter-19 ~Page-292
+[[Chapter-19#^Page-292]] 
 They'd made her as comfortable as possible. The gelpad conformed to every twisted limb, every
 erupting spur of bone. They would not have left her in any pain.
 Her neck had torqued down and to the side as it petrified, left her staring at the twisted claw that had
@@ -323,7 +323,7 @@ And say what? What do you say to someone who's dying in fast-forward before your
 Although the essentials of this farewell are accurate, details from several deaths have been combined
 for dramatic purposes. ^Page-292
 
-[[Chapter-19#^Page-293]] ~Chapter-19 ~Page-293
+[[Chapter-19#^Page-293]] 
 "Please? Jus'—talk to me, Cyg..."
 More than anything, I wanted to.
 "Siri, I...just..."

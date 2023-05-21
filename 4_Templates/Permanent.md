@@ -1,6 +1,0 @@
-Status: #permanent
-Tags: [[]]
-
-* 
-
-## References

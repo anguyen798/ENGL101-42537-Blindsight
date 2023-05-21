@@ -1,5 +1,5 @@
 Status: #idea
-Tags: [[Non-sentience]] [[Natural-selection]] [[Scramblers]]
+Tags: [[Non-sentience]] [[Natural-selection]] [[@Scramblers]]
 
 * Conciousness is a parasite and an evolutionary mistake
 * This is due to conciousness takign up a lot of energy

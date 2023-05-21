@@ -1,4 +1,4 @@
-[[Chapter-2#^Page-25]] ~Chapter-2 ~Page-25
+[[Chapter-2#^Page-25]] 
 "Blood makes noise." —Susanne Vega
 Imagine you are Siri Keeton:
 You wake in an agony of resurrection, gasping after a record-shattering bout of sleep apnea spanning
@@ -17,7 +17,7 @@ them commands this very mission. A handful of his genes live on in your own body
 from the dead, here at the edge of interstellar space. Nobody gets past Jupiter without becoming part
 vampire. ^Page-25
 
-[[Chapter-2#^Page-26]] ~Chapter-2 ~Page-26
+[[Chapter-2#^Page-26]] 
 The pain begins, just slightly, to recede. You fire up your inlays and access your own vitals: it'll be
 long minutes before your body responds fully to motor commands, hours before it stops hurting. The
 pain's an unavoidable side effect. That's just what happens when you splice vampire subroutines into
@@ -43,7 +43,7 @@ comparison.
 You hear coughing and the rustling of limbs just past line-of-sight, catch glimpses of reflected motion
 where the others stir at the edge of vision. ^Page-26
 
-[[Chapter-2#^Page-27]] ~Chapter-2 ~Page-27
+[[Chapter-2#^Page-27]] 
 "Wha—" Your voice is barely more than a hoarse whisper. "...happ...?"
 Szpindel works his jaw. Bone cracks audibly.
 "...Sssuckered," he hisses.
@@ -66,7 +66,7 @@ had been dirty blond, Szpindel's hair had been almost dark enough to call black�
 floating from their scalps looked the same dull kelpy brown to me now. Bates kept her head shaved,
 but even her eyebrows weren't as rusty as I remembered them. ^Page-27
 
-[[Chapter-2#^Page-28]] ~Chapter-2 ~Page-28
+[[Chapter-2#^Page-28]] 
 We'd revert to our old selves soon enough. Just add water. For now, though, the old slur was freshly
 relevant: the Undead really did all look the same, if you didn't know how to look.
 If you did, of course—if you forgot appearance and watched for motion, ignored meat and studied
@@ -90,7 +90,7 @@ After all, Theseus damn well was.
 She'd taken us a good fifteen AUs towards our destination before something scared her off course.
 Then she'd skidded north like a startled cat and started climbing: a wild high three-gee burn off the  ^Page-28
 
-[[Chapter-2#^Page-29]] ~Chapter-2 ~Page-29
+[[Chapter-2#^Page-29]] 
 ecliptic, thirteen hundred tonnes of momentum bucking against Newton's First. She'd emptied her
 Penn tanks, bled dry her substrate mass, squandered a hundred forty days' of fuel in hours. Then a long
 cold coast through the abyss, years of stingy accounting, the thrust of every antiproton weighed
@@ -114,7 +114,7 @@ So did we all.
 He'd given us four hours to come back. It took more than three just to get me out of the crypt. By then
 my brain was at least firing on most of its synapses, although my body—still sucking fluids ^Page-29
 
-[[Chapter-2#^Page-30]] ~Chapter-2 ~Page-30
+[[Chapter-2#^Page-30]] 
 like a
 thirsty sponge— continued to ache with every movement. I swapped out drained electrolyte bags for
 fresh ones and headed aft.
@@ -140,7 +140,7 @@ Except Sarasti, maybe.
 Around me, the same magic worked at cooler temperatures and to less volatile ends: a small riot of
 chutes and dispensers crowded the bulkhead on all sides. A few of those openings would choke ^Page-30
 
-[[Chapter-2#^Page-31]] ~Chapter-2 ~Page-31
+[[Chapter-2#^Page-31]] 
 on my
 fist: one or two could swallow me whole. Theseus' fabrication plant could build everything from
 cutlery to cockpits. Give it a big enough matter stockpile and it could have even been built another
@@ -167,7 +167,7 @@ of those just looked into the hold. A couple served as general-purpose airlocks,
 take a stroll beneath the carapace. One opened into my tent. Another, four meters further forward,
 opened into Bates'. ^Page-31
 
-[[Chapter-2#^Page-32]] ~Chapter-2 ~Page-32
+[[Chapter-2#^Page-32]] 
 From a third, just short of the forward bulkhead, Jukka Sarasti climbed into view like a long white
 spider.
 If he'd been Human I'd have known instantly what I saw there, I'd have smelled murderer all over his
@@ -195,7 +195,7 @@ exposed plexii and piping bundled against the ladders on either side. Past them,
 freshly-erected tents rose ^Page-32
 
 
-[[Chapter-2#^Page-33]] ~Chapter-2 ~Page-33
+[[Chapter-2#^Page-33]] 
 from nooks on opposite sides of the world. Szpindel himself floated off my
 shoulder, still naked but for his gloves, and I could tell from the way his fingers moved that his
 favorite color was green. He anchored himself to one of three stairways to nowhere arrayed around the
@@ -220,7 +220,7 @@ home again after everything else had failed.
 Between the footwells the engineers had crammed one last hatch and one last passageway: to the
 observation blister on Theseus' ^Page-33
 
-[[Chapter-2#^Page-34]] ~Chapter-2 ~Page-34
+[[Chapter-2#^Page-34]] 
 prow. I hunched my shoulders (tendons cracked and complained) and
 pushed through—
 —into darkness. Clamshell shielding covered the outside of the dome like a pair of eyelids squeezed
@@ -245,7 +245,7 @@ them all yet be so black. Stars, and—
 —nothing else.
 What did you expect? I chided myself. An alien mothership hanging off the starboard bow? ^Page-34
 
-[[Chapter-2#^Page-35]] ~Chapter-2 ~Page-35
+[[Chapter-2#^Page-35]] 
 Well, why not? We were out here for something.
 The others were, anyway. They'd be essential no matter where we'd ended up. But my own situation
 was a bit different, I realized. My usefulness degraded with distance.

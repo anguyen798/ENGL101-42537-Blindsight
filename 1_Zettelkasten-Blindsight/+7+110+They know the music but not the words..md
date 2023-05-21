@@ -1,3 +1,9 @@
+Status: #idea
+Tags: [[Chinese-room]]
+
+* The headquote is a reference to the Chinese Room phenomenon where Rorsarch is 
+
+## References
 
 ![[Chapter-7#^Page-110]]
  Robert Hare, Without Conscience (p. 68 of 272) (Watts 110)

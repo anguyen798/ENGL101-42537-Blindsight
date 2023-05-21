@@ -154,4 +154,4 @@ Sachie managed to speak. It was the hardest thing she’d ever done, but she kne
 
 She couldn’t quite get it out. But the short-circuiting brain of Sachita Bhar managed to serve up one last insight anyway, amid the rising static: This is what the Crucifix Glitch feels like. This is what we do to them. This is …
 
-“Judo,” Valerie whispered.
+“Judo,” Valerie whispered. ^Page-18

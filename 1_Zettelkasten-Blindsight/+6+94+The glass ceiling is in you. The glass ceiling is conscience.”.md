@@ -1,5 +1,5 @@
 Status: #idea
-Tags: [[+Headquotes]]
+Tags: [[Sociopathy]]
 
 * 
 

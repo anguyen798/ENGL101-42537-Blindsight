@@ -273,7 +273,7 @@ He saw himself from high overhead, stumbling across someone else’s game board:
 
 They didn’t even know I was here. They’re after the Bicamerals.
 
-He pulled to a stop. The monastery loomed fifty meters ahead, low and black against the stars. All windows abruptly shuttered, all approaches suddenly dark, it rose from the landscape as though born of it: a pile of deep rock strata breaching the surface of the world. The tornado loomed beyond like a whirling gash in ^Page-38
+He pulled to a stop. The monastery loomed fifty meters ahead, low and black against the stars. All windows abruptly shuttered, all approaches suddenly dark, it rose from the landscape as though born of it: a pile of deep rock strata breaching the surface of the world. The tornado loomed beyond like a whirling gash in ^Page-37
 
 [[Echopraxia-Chapter-2#^Page-38]]
 space-time, barely a hundred meters on the other side. The sound of its rage filled the world.
@@ -297,4 +297,4 @@ SEALING ENTRANCE IN
 14S
 13S …
 
-Brüks moved his self-absorbed idiot ass.
+Brüks moved his self-absorbed idiot ass. ^Page-38
