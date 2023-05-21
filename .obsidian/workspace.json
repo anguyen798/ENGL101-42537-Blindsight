@@ -11,11 +11,134 @@
             "id": "c70615d1da9a6c66",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2_ReferenceNotes/Echopraxia-Chapter-5.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea6161befc79ea5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_ReferenceNotes/Echopraxia-Chapter-1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a06f8b67cef2c71d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Zettelkasten-Echopraxia/I’m-as-blind-as-you-are-right-now,-Dr.-Brüks.-No-ConSensus,-no-intercom.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2282e0d5721c9b96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Zettelkasten-Echopraxia/How-could-you-let-them-do-this...smarter-than-us...post-fucking-singular...ten-steps-ahead...we-poor-stupid-cavemen...but-this-is-all-according-to-plan.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83dc624fe6141e63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Zettelkasten-Echopraxia/Isometric-muscle-toner...keep-the-Ascended-from-curling-into-flabby-fetuses...rare-deep-space-missions-where-the-crew-hadn’t-been-preseasoned-with-vampire-genes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48929c152f882522",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Zettelkasten-Echopraxia/I’m-as-blind-as-you-are-right-now,-Dr.-Brüks.-No-ConSensus,-no-intercom.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b6ccc8f417d02c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Zettelkasten-Echopraxia/Moksha-Mind...modernize-their-faith—through-the-embrace-of-technology...resulted-in-a-literally-soul-destroying-hive-that-has-plunged-millions...state-of-deep-catatonia.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "622747868c152ff7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_ReferenceNotes/Echopraxia-Chapter-4.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65acdbe45043a341",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Zettelkasten-Echopraxia/How-could-you-let-them-do-this...smarter-than-us...post-fucking-singular...ten-steps-ahead...we-poor-stupid-cavemen...but-this-is-all-according-to-plan.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5328ed3f94fa2371",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Zettelkasten/Echopraxia-Chapter-5.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -107,6 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1_Zettelkasten-Echopraxia/How-could-you-let-them-do-this...smarter-than-us...post-fucking-singular...ten-steps-ahead...we-poor-stupid-cavemen...but-this-is-all-according-to-plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1_Zettelkasten-Echopraxia/How-could-you-let-them-do-this...smarter-than-us...post-fucking-singular...ten-steps-ahead...we-poor-stupid-cavemen...but-this-is-all-according-to-plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +269,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1_Zettelkasten-Echopraxia/How-could-you-let-them-do-this...smarter-than-us...post-fucking-singular...ten-steps-ahead...we-poor-stupid-cavemen...but-this-is-all-according-to-plan.md"
+              }
             }
           },
           {
@@ -191,9 +318,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c70615d1da9a6c66",
+  "active": "2282e0d5721c9b96",
   "lastOpenFiles": [
+    "1_Zettelkasten-Echopraxia/I’m-as-blind-as-you-are-right-now,-Dr.-Brüks.-No-ConSensus,-no-intercom.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-1.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-6.md",
+    "2_ReferenceNotes/Chapter-12.md",
+    "1_Zettelkasten-Echopraxia/Isometric-muscle-toner...keep-the-Ascended-from-curling-into-flabby-fetuses...rare-deep-space-missions-where-the-crew-hadn’t-been-preseasoned-with-vampire-genes.md",
+    "1_Zettelkasten-Echopraxia/Moksha-Mind...modernize-their-faith—through-the-embrace-of-technology...resulted-in-a-literally-soul-destroying-hive-that-has-plunged-millions...state-of-deep-catatonia.md",
     "2_ReferenceNotes/Echopraxia-Chapter-4.md",
+    "1_Zettelkasten-Echopraxia/How-could-you-let-them-do-this...smarter-than-us...post-fucking-singular...ten-steps-ahead...we-poor-stupid-cavemen...but-this-is-all-according-to-plan.md",
+    "1_Zettelkasten/Echopraxia-Chapter-5.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-5.md",
+    "2_ReferenceNotes/Chapter-6.md",
+    "2_ReferenceNotes/Chapter-4.md",
+    "2_ReferenceNotes/DashFormatter.py",
+    "2_ReferenceNotes/Chapter-5.md",
     "1_Zettelkasten-Echopraxia/It-was-a-strength.-Even-in-sleep,-Dan-Brüks-didn’t-take-anything-on-faith..md",
     "1_Zettelkasten-Echopraxia/You’re-not-a-dolphin,-and-you’re-not-some-augmented-wannabe-either.-You’re-natural.-Just-the-way-I-like-it...You’re-going-to-keep-up-with-them.md",
     "1_Zettelkasten-Echopraxia/Change-your-brain...not-your-brain-anymore...You’re-something-else.-That’s-kinda-the-point.-Transcendence-is-transformation...Sounds-more-like-suicide-to-me.md",
@@ -203,22 +343,10 @@
     "1_Zettelkasten-Echopraxia/We-climbed-this-hill...so-of-course-we-kept-going.-Now-we’re-at-the-top.-Science-has-been-at-the-top-for-a-few-centuries-now.md",
     "1_Zettelkasten-Echopraxia/Probably-baselines,-then.-Why’s-that-Fragile-egos.-Low-self-esteem.md",
     "1_Zettelkasten-Echopraxia/Actually,-you’d-be-surprised-how-much-wiring-he’s-got-in-his-head.-I’m-surprised-to-even-find-him-here.-Military-man-in-a-monastery.md",
-    "2_ReferenceNotes/Chapter-4.md",
     "1_Zettelkasten-Echopraxia/Zombies-don’t-do-anything-without-someone-pulling-their-strings.-She’s-coming-in-now.md",
     "2_ReferenceNotes/Echopraxia-Chapter-3.md",
     "1_Zettelkasten-Echopraxia/Glorified-translators...esoteric-transhuman-tablets-down-from-the-mountain...simple-enough...baseline-Humans...understand.-Rhona-had-called-them-Moses-mammals.md",
-    "2_ReferenceNotes/Echopraxia-Chapter-1.md",
     "1_Zettelkasten-Echopraxia/A-hive-mind...Bicamerals-did-it,-supposedly...bioradio-in-their-heads...communal-corpus-callosum...quantum-entanglement-thing..md",
-    "2_ReferenceNotes/Echopraxia-Chapter-2.md",
-    "2_ReferenceNotes/Chapter-22.md",
-    "2_ReferenceNotes/Chapter-21.md",
-    "2_ReferenceNotes/Chapter-1.md",
-    "1_Zettelkasten-Blindsight/Imagine-you-are-Siri-Keeton.md",
-    "1_Zettelkasten-Blindsight/In-the-end...Back-then-I-didn't-so-much-think-as-observe...what-I-remembered-was-a-thousand-inspirational-stories-lauding-anyone-who-ever-stuck-up-for-the-underdog.md",
-    "1_Zettelkasten-Blindsight/You-figured-it-out....good-idea-of-what-a-scrambler-looked-like-before-anyone-ever-laid-eyes-on-them.md",
-    "1_Zettelkasten-Blindsight/Real-fuckbuddies-aren't-airbrushed...How-can-you-blame-anyone-for-saying-no-thanks-to-all-that,-now-there's-a-choice-You-gotta-wonder-how-our-parents-ever-stayed-together-sometimes.md",
-    "1_Zettelkasten-Blindsight/The-thing-is,-Chelsea-said...-You-have-to-care-enough-to-try,-you-know-I've-been-working-my-ass-off-on-this-relationship...you-just-don't-seem-to-care....md",
-    "1_Zettelkasten-Blindsight/Sarasti-you-bloodsucker.md",
     "2_ReferenceNotes/Blindsight-SpaceRemover.py",
     "1_Zettelkasten",
     "2_ReferenceNotes/Echopraxia-Chapter.py",
@@ -237,7 +365,6 @@
     "Untitled 2.canvas",
     "Untitled 3.canvas",
     "4_Templates",
-    "3_Files",
-    "2_ReferenceNotes"
+    "3_Files"
   ]
 }
