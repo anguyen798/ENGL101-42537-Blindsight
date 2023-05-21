@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "530daeead079352a",
+        "id": "d8aff4c503a7ae87",
         "type": "tabs",
         "children": [
           {
-            "id": "d5cdd33a9b3d2d59",
+            "id": "50b71920482b736c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_ReferenceNotes/Echopraxia-Chapter-1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -112,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_ReferenceNotes/Echopraxia-Chapter-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_ReferenceNotes/Echopraxia-Chapter-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2_ReferenceNotes/Echopraxia-Chapter-1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -185,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 499.5
+    "width": 497.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,34 +191,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d5cdd33a9b3d2d59",
+  "active": "50b71920482b736c",
   "lastOpenFiles": [
-    "2_ReferenceNotes/Echopraxia-References-Only.md",
-    "2_ReferenceNotes/Echopraxia-Notes-Only.md",
-    "2_ReferenceNotes/Echopraxia-Chapter-26-Notes-And-References.md",
-    "2_ReferenceNotes/Echopraxia-Chapter-25-Acknowledgements.md",
-    "2_ReferenceNotes/Echopraxia-Chapter-24.md",
-    "2_ReferenceNotes/Echopraxia-Chapter-23.md",
-    "2_ReferenceNotes/Echopraxia-Chapter-22.md",
-    "2_ReferenceNotes/Echopraxia-Chapter-21.md",
-    "2_ReferenceNotes/Echopraxia-Chapter-20.md",
-    "2_ReferenceNotes/Echopraxia-Chapter-19.md",
-    "2_ReferenceNotes/Echopraxia-Chapter-18.md",
-    "2_ReferenceNotes/Echopraxia-Chapter-17.md",
-    "2_ReferenceNotes/Echopraxia-Chapter-16.md",
-    "2_ReferenceNotes/Echopraxia-Chapter-15.md",
-    "2_ReferenceNotes/Echopraxia-Chapter-14.md",
-    "2_ReferenceNotes/Echopraxia-Chapter-13.md",
-    "2_ReferenceNotes/Echopraxia-Chapter-12.md",
-    "2_ReferenceNotes/Echopraxia-Chapter-11.md",
-    "2_ReferenceNotes/Echopraxia-Chapter-10.md",
-    "2_ReferenceNotes/Echopraxia-Chapter-9.md",
-    "2_ReferenceNotes/Echopraxia-Chapter-8.md",
-    "2_ReferenceNotes/Echopraxia-Chapter-7.md",
-    "2_ReferenceNotes/Echopraxia-Chapter-6.md",
-    "2_ReferenceNotes/Echopraxia-Chapter-5.md",
-    "2_ReferenceNotes/Echopraxia-Chapter-4.md",
-    "2_ReferenceNotes/Echopraxia-Chapter-3.md",
+    "2_ReferenceNotes/Chapter-24.md",
+    "2_ReferenceNotes/Chapter-23.md",
+    "2_ReferenceNotes/Chapter-22.md",
+    "2_ReferenceNotes/Chapter-21.md",
+    "2_ReferenceNotes/Chapter-20.md",
+    "2_ReferenceNotes/Chapter-19.md",
+    "2_ReferenceNotes/Chapter-18.md",
+    "2_ReferenceNotes/Chapter-17.md",
+    "2_ReferenceNotes/Chapter-16.md",
+    "2_ReferenceNotes/Chapter-15.md",
+    "2_ReferenceNotes/Chapter-14.md",
+    "2_ReferenceNotes/Chapter-13.md",
+    "2_ReferenceNotes/Chapter-12.md",
+    "2_ReferenceNotes/Chapter-11.md",
+    "2_ReferenceNotes/Chapter-10.md",
+    "2_ReferenceNotes/Chapter-9.md",
+    "2_ReferenceNotes/Chapter-8.md",
+    "2_ReferenceNotes/Chapter-7.md",
+    "2_ReferenceNotes/Chapter-6.md",
+    "2_ReferenceNotes/Chapter-5.md",
+    "2_ReferenceNotes/Chapter-4.md",
+    "2_ReferenceNotes/Chapter-3.md",
+    "2_ReferenceNotes/Chapter-2.md",
+    "2_ReferenceNotes/Chapter-1.md",
+    "2_ReferenceNotes/Blindsight-SpaceRemover.py",
+    "1_Zettelkasten-Echopraxia/This-is-what-the-Crucifix-Glitch-feels-like.-This-is-what we do-to them.md",
+    "1_Zettelkasten-Echopraxia/They’d-crewed-it-with-expendable-bleeding-edgers-and-sent-them-off-along-some-best-guess-bearing,-carrying-a-phrase-book.md",
     "1_Zettelkasten",
     "2_ReferenceNotes/Echopraxia-Chapter.py",
     "3_Files/Excalidraw/DisabilityAndBodyAnxieties.excalidraw",
@@ -246,7 +238,6 @@
     "Untitled 3.canvas",
     "4_Templates",
     "3_Files",
-    "2_ReferenceNotes",
-    "1_Zettelkasten-Blindsight"
+    "2_ReferenceNotes"
   ]
 }

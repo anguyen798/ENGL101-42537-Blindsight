@@ -5,4 +5,4 @@ Tags: [[Echopraxia]] [[Disability]]
 
 ## References
 
-![[Echopraxia-Chapter-1#^Page-19]]
+![[Echopraxia-Chapter-1#^Page-18]]
