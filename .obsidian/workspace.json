@@ -11,8 +11,13 @@
             "id": "d5cdd33a9b3d2d59",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2_ReferenceNotes/Echopraxia-Chapter-1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -107,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2_ReferenceNotes/Echopraxia-Chapter-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2_ReferenceNotes/Echopraxia-Chapter-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2_ReferenceNotes/Echopraxia-Chapter-1.md"
+              }
             }
           },
           {
@@ -191,37 +200,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7676528191e4eec1",
+  "active": "d5cdd33a9b3d2d59",
   "lastOpenFiles": [
-    "1_Zettelkasten-Blindsight/You-figured-it-out....good-idea-of-what-a-scrambler-looked-like-before-anyone-ever-laid-eyes-on-them.md",
-    "1_Zettelkasten-Blindsight/But-there's-only-one-original.-Your-alters—-Don't-call-us-that.-Sasha-erupted.md",
-    "1_Zettelkasten-Blindsight/We-can-be-utterly-useless,-or-we-can-try-and-compete-against-the-vampires-and-the-constructs-and-the-AIs...without-turning-into-a-an-utter-freak.md",
-    "1_Zettelkasten-Blindsight/She-thought-herself-a-natural-girl-because-she'd-stayed-on-chemical-libidinals...revelled-in-her-own-inconsistency.md",
-    "2_ReferenceNotes/Echopraxia-Chapter-1.md",
+    "2_ReferenceNotes/Echopraxia-References-Only.md",
+    "2_ReferenceNotes/Echopraxia-Notes-Only.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-26-Notes-And-References.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-25-Acknowledgements.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-24.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-23.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-22.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-21.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-20.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-19.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-18.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-17.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-16.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-15.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-14.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-13.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-12.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-11.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-10.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-9.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-8.md",
     "2_ReferenceNotes/Echopraxia-Chapter-7.md",
     "2_ReferenceNotes/Echopraxia-Chapter-6.md",
     "2_ReferenceNotes/Echopraxia-Chapter-5.md",
     "2_ReferenceNotes/Echopraxia-Chapter-4.md",
     "2_ReferenceNotes/Echopraxia-Chapter-3.md",
-    "2_ReferenceNotes/Echopraxia-Chapter-2.md",
-    "1_Zettelkasten/Echopraxia-Chapter-5.md",
     "1_Zettelkasten",
-    "1_Zettelkasten-Echopraxia/This-is-what-the-Crucifix-Glitch-feels-like.-This-is-what we do-to them.md",
-    "2_ReferenceNotes/Chapter-3.md",
-    "2_ReferenceNotes/Chapter-1.md",
-    "2_ReferenceNotes/Chapter-2.md",
-    "1_Zettelkasten-Echopraxia/They’d-crewed-it-with-expendable-bleeding-edgers-and-sent-them-off-along-some-best-guess-bearing,-carrying-a-phrase-book.md",
     "2_ReferenceNotes/Echopraxia-Chapter.py",
     "3_Files/Excalidraw/DisabilityAndBodyAnxieties.excalidraw",
-    "3_Files/Essay Hit List.md",
-    "3_Files/Example - Chinese Room.md",
-    "3_Files/Final.md",
-    "3_Files/Siri's-Cruxifiction.md",
-    "3_Files/Excalidraw/Drawing 2023-05-04 15.35.29.excalidraw.md",
-    "3_Files/Excalidraw/Drawing 2023-05-04 21.13.54.excalidraw.md",
-    "3_Files/Excalidraw/Drawing 2023-05-11 12.35.59.excalidraw.md",
-    "3_Files/Excalidraw/Drawing 2023-05-11 12.36.00.excalidraw.md",
-    "3_Files/Inclass-1.md",
     "3_Files/Pasted Image 20230504191016_980.jpg",
     "3_Files/Pasted image 20230504195430.jpg",
     "3_Files/Pasted image 20230504192705.jpg",
