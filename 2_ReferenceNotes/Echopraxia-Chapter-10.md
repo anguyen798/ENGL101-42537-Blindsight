@@ -109,7 +109,7 @@ His hands stayed locked on the ladder.
 Motion through the grille: the pixilated mosaic that was Rakshi Sengupta, returning from some place farther forward. The lav in the attic, perhaps. Brüks found it perfectly understandable that Sengupta might choose to leave for a piss at the same moment Valerie happened to be passing through.
 She fell into eclipse behind the mirrorball. Brüks heard the sound of buckles and plugs clicking into place, a grunt that might have passed for a greeting: “Thought you were headed for Commons.”
 He swam into the northern hemisphere. Sengupta was pulling a ConSensus glove over her left hand: middle finger, ring, index, little, thumb. Her hair stood out from her head, crackling faintly with static electricity.
-“Valerie got there first,” he said.
+“Valerie got there first,” he said. ^Page-152
 
 [[Echopraxia-Chapter-10#^Page-153]]
 “Room for two down there.” Right glove: middle, ring, index …

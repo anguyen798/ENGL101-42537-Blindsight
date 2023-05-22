@@ -58,9 +58,9 @@ Brüks cursed himself for an idiot. Headaches for most of the day before. Moore�
 
 [[Echopraxia-Chapter-5#^Page-74]]
 no lethal canisters lobbed whistling across the desert. This thing had drifted in on the breeze, undetected. And not even engineered germs killed on contact. There was always an incubation period, it always took time for a few lucky spores to hatch out in the lungs and breed an army big enough to take down a human body. Even the magic of exponential growth took hours to manifest.
-The enemy—
-—People like you, Lianna had said—
-—must have set this plan in motion the moment they’d set up their perimeter. It wouldn’t have mattered one good goddamn if the whole Bicameral Order had marched out across the desert with their hands in the air; the weapon was already in their blood, and it was blind to white flags.
+The enemy-
+-People like you, Lianna had said-
+-must have set this plan in motion the moment they’d set up their perimeter. It wouldn’t have mattered one good goddamn if the whole Bicameral Order had marched out across the desert with their hands in the air; the weapon was already in their blood, and it was blind to white flags.
 “How could you let them do this?” Brüks hissed. “You’re supposed to be smarter than us, you’re post-fucking-singular, you’re supposed to be ten steps ahead of any plan we poor stupid cavemen could ever put together. How could you let them?”
 “Oh, but this is all according to plan.” Luckett patted him on the arm with one spastic, short-circuiting hand.
 “What plan?” Brüks choked back a hysterical giggle. “We’re dead already—”

@@ -15,4 +15,4 @@ def remove_redundant_spacing(filename):
         f.write(cleaned_content)
 
 filename = input("Enter the chapter without the .md: ")
-remove_redundant_spacing('Chapter-' + filename + '.md')
+remove_redundant_spacing('Echopraxia-Chapter-' + filename + '.md')

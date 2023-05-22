@@ -5,4 +5,4 @@ Tags: [[Echopraxia]] [[Bicamerals]] [[Baseline]]
 
 ## References
 
-[[Echopraxia-Chapter-5#^Page-74]]
+![[Echopraxia-Chapter-5#^Page-74]]

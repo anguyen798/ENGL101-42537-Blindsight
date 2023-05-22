@@ -1,37 +1,22 @@
 {
   "collapse-filter": false,
-  "search": "@Lia",
+  "search": "@Sir-Kee",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "path:Chapters",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.61278586278586,
-  "lineSizeMultiplier": 1.00155925155925,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.246361746361746,
-  "repelStrength": 10.4158004158004,
-  "linkStrength": 0.633056133056133,
-  "linkDistance": 435,
-  "scale": 0.813771308549873,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.8137713085498715,
   "close": false
 }
