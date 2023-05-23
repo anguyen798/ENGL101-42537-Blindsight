@@ -1,5 +1,5 @@
 Status: #idea
-Tags: [[Blindsight]]
+Tags: [[Blindsight]] [[Forced-disability]]
 
 * Here the lack of conciousness or sentience is a beneficial attribute
 

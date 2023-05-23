@@ -1,7 +1,7 @@
 Status: #idea
-Tags: [[Chelsea]] [[Romance]]
+Tags: [[Romance]]
 
-* People have intercourse without physical connection to people in the future.
+* People have intercourse without physical connection to people in the future as seen where [[@Siri-Keeton]] cheats on [[@Chelsea]] with a flesh suit of her
 
 ## References
 

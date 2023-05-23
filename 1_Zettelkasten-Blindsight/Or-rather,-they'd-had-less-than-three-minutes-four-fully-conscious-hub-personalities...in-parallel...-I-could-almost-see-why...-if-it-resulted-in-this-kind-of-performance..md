@@ -1,7 +1,7 @@
 Status: #idea
-Tags: [[Disability]] [[@Susan-James]]
+Tags: [[Peer-pressure]]
 
-* Susan James optimized herself to increase her consciousness with the belief that different personalities allow for better communication
+* [[@Susan-James]] optimized herself to increase her consciousness with the belief that different personalities allow for better communication
 
 ## References
 

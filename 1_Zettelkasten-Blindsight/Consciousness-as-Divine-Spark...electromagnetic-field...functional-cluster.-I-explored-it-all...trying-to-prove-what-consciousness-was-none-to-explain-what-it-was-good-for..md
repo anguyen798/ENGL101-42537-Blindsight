@@ -1,5 +1,5 @@
 Status: #idea
-Tags: [[Consciousness]]
+Tags: [[Consciousness-flaws]]
 
 * The question of consciousness what consciousness was is eclipsed by the bigger question of what is it good for
 * Consciousness could be an evolutionary fluke

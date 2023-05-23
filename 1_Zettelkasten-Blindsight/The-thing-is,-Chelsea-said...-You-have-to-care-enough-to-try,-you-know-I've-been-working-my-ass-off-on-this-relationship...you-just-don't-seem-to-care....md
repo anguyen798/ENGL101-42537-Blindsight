@@ -1,7 +1,7 @@
 Status: #idea
-Tags: [[@Chelsea]] [[@Siri-Keeton]] [[Empathy]]
+Tags: [[Empathy]]
 
-* Siri's dependence on the Chinese Room in relationships protects him from hurt but hurts those around him because he can appear distant and uncaring
+* [[@Siri-Keeton]]'s dependence on the Chinese Room in relationships protects him from hurt but hurts those around him because he can appear distant and uncaring to [[@Chelsea]]
 
 ## References
 

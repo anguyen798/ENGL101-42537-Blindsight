@@ -1,5 +1,5 @@
 Status: #idea
-Tags: [[@Jukka-Sarasti]] [[Artificial-intelligence]]
+Tags: [[@Jukka-Sarasti]] [[Prejudice]]
 
 * In the future machines have gotten to such a point that they are the ones running leadership commands
 * Non-conscience entities are the ones in charge

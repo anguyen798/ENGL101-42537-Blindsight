@@ -1,7 +1,7 @@
 Status: #idea
 Tags: [[Natural-selection]]
 
-* The Book of Oogenesis is the view that 
+* The Book of Oogenesis is the view that males and females are at war with one another due to sexual competition
 
 ## References
 

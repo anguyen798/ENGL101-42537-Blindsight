@@ -1,7 +1,7 @@
 Status: #idea
-Tags: [[@Siri-Keeton]] [[Blindsight]]
+Tags: [[Blindsight]] [[Non-sentience]]
 
-* Siri's unconcious brain saw the scramblers by generating an image of scrambler forms based on their function in Rorsarch's architecture and tried to tell him what scramblers looked like through hallucinations
+* [[@Siri-Keeton]]'s unconcious brain saw the scramblers by generating an image of scrambler forms based on their function in Rorsarch's architecture and tried to tell him what scramblers looked like through hallucinations
 
 ## References
 

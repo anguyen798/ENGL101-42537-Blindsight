@@ -1,7 +1,7 @@
 Status: #idea
-Tags: [[Chinese-room]]
+Tags: [[Chinese-room]] [[Prejudice]]
 
-* Siri's Chinese Room is a form of disability which rationalizes rather than accepts the truth, his version of reality is skewed
+* [[@Siri-Keeton]]'s Chinese Room is a form of disability which rationalizes rather than accepts the truth, his version of reality is skewed
 
 ## References
 

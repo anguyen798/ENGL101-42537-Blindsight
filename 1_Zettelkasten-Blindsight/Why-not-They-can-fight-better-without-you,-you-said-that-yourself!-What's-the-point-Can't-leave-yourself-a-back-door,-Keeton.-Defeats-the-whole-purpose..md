@@ -1,7 +1,7 @@
 Status: #idea
-Tags: [[@Amanda-Bates]] [[Disability]]
+Tags: [[Disability]]
 
-* Even though the machines can fight better without Amanda Bates, her last action in life is to die with purpose
+* Even though the machines can fight better without [[@Amanda-Bates]], her last action in life is to die with purpose
 
 ## References
 

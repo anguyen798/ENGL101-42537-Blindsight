@@ -1,7 +1,7 @@
 Status: #idea
-Tags: [[Body-economic]] [[Disability]] [[@Chelsea]]
+Tags: [[Body-economic]] [[Baseline]] [[Empathy]]
 
-* Chelsea 
+* [[@Chelsea]] struggles like a Baseline to retain her humanity and avoid becoming too post-human by favoring empathetic things
 
 ## References
 

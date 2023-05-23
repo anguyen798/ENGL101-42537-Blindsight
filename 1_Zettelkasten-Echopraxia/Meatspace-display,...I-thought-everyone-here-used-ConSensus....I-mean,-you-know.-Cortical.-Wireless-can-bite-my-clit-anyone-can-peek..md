@@ -1,5 +1,5 @@
 Status: #idea
-Tags: [[Echopraxia]] [[Consensus]]
+Tags: [[Echopraxia]] [[ConSensus]]
 
 * ConSensus has security risks where people can look at what you are searching for
 

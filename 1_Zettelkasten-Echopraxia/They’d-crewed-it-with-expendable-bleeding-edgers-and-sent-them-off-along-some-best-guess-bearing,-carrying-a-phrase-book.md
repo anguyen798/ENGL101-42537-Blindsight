@@ -1,7 +1,7 @@
 Status: #idea
-Tags: [[Echopraxia]]
+Tags: [[Echopraxia]] [[Synthesis]]
 
-* 
+* This section is a reference to the Theseus mission in Blindsight
 
 ## References
 

@@ -1,7 +1,8 @@
 Status: #idea
-Tags: [[Body-economic]] [[Empathy]] [[Synthesis]] [[@Siri-Keeton]]
+Tags: [[Forced-disability]] [[Synthesis]] 
 
-* Robert Cunningham says observation, surveillance or reading body language is what caused Jukka Sarasti to attack Siri
+* [[@Robert-Cunningham]] says observation, surveillance or reading body language is what caused Jukka Sarasti to attack [[@Siri-Keeton]] to be impartial
+* He says there is a social etiquette of not always analyzing people
 
 ## References
 

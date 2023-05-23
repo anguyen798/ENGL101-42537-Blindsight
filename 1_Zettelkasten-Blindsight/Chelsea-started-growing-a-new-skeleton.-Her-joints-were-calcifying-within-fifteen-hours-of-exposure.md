@@ -1,7 +1,7 @@
 Status: #idea
-Tags: [[@Chelsea]] [[Forced-disability]]
+Tags:  [[Forced-disability]]
 
-* By growing a skeleton, Chelsea is forced to become augmented
+* By growing a skeleton, [[Chelsea]] is forced to become augmented
 
 ## References
 

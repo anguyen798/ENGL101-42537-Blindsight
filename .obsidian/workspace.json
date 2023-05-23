@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a89e01e1cbedaef1",
+        "id": "bc82077b190607ea",
         "type": "tabs",
         "children": [
           {
-            "id": "081f2de518230821",
+            "id": "3d91586e52807288",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#idea",
+                "query": "\"on faith\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -177,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 509.5
+    "width": 488.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,35 +192,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "081f2de518230821",
+  "active": "3d91586e52807288",
   "lastOpenFiles": [
-    "1_Zettelkasten-Echopraxia/Of-greater-concern-are-the-smaller-networks-pioneered-by-the-so-called-Bicameral-Order...no-interest..remain-susceptible-to-weaponization.md",
-    "1_Zettelkasten-Echopraxia/Portia-had-learned-to-partition-its-cognitive-processes-almost-as-if-it-were-emulating-a-larger-brain-piece-by-piece-...Slices-of-intellect.md",
-    "1_Zettelkasten-Echopraxia/Infectious-zombieism-running-rampant-in-at-least-twenty-countries...Realists-and-Rearguard-Catholics...heretics...Food-poisoning...new-weaponized-echopraxia.md",
-    "1_Zettelkasten-Echopraxia/If-the-laws-of-physics-are-part-of-some-universal-operating-system-and-God,-by-definition,-breaks-them…Don’t-stop-now-roach...God’s-a-virus.md",
-    "1_Zettelkasten-Echopraxia/But-we-first-gen-types,-we—stayed-awake...didn’t-really-care...thrown-the-world’s-lifeline-into-the-sun-What-I’m-saying-is,-I-was-there.-The-whole-time.md",
-    "1_Zettelkasten-Echopraxia/And-he-got-those-augments-because-you-chose-a-certain-line-of-work...took-a-shot-at-you-and-hit-him-instead...You-blame-yourself-for-what-happened-to-your-son.md",
-    "1_Zettelkasten-Echopraxia/A-stealth-supernet-fine-tuned-for-the-manipulation-of-pawns-...And-it-just-emerged...Something-must-have-created-it...half-of-him-was-enough.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-4.md",
+    "3_Files/Essay-Paragraph-2.md",
+    "2_ReferenceNotes/Chapter-19.md",
+    "3_Files/Essay-Paragraph-3.md",
+    "3_Files/Essay-Paragraph-4.md",
+    "3_Files/Essay-Paragraph-5.md",
     "3_Files/Excalidraw/DisabilityAndBodyAnxieties.excalidraw",
-    "1_Zettelkasten-Echopraxia/Lee,-it’s-not-just-that-these-people-can’t-wrap-their-heads-around-mortality...can’t-even-entertain-the-possibility-they-could-be-wrong...doesn’t-scare-the-shit-out-of-you.md",
-    "1_Zettelkasten-Echopraxia/They’re-more-glitchy-than-we-are,-because-half-their-upgrades-are-barely-out-of-beta...They-think-rings-around-us-in-every-way-that-matters..md",
-    "1_Zettelkasten-Echopraxia/It-burned-them-out-and-moved-on;-you-could-tell-when-it-had-finished-because-the-convulsions-stopped,-at-long-last,-and-left-nothing-behind-but-vegetation.md",
-    "1_Zettelkasten-Echopraxia/Change-alpha-a-just-bit-and-the-universe-stops-supporting-life.-Maybe-alpha’s-wrong.-Maybe-life’s-just-a-parasitic-offshoot-of-a-corrupted-OS.md",
-    "1_Zettelkasten-Echopraxia/Something-has-to-tell-the-second-layer-of-atoms-when-to-come-though...Might-as-well-call-it-magic...Hive-calls-it-the-Face-of-God.md",
-    "1_Zettelkasten-Echopraxia/He-pulled-the-gimp-hood-over-his-head,-linked-into-the-lab’s-ConSensus-channel,-and-time-just—stopped.-It-stopped,-then-shot-ahead-in-an-instant.md",
-    "1_Zettelkasten-Echopraxia/You-see—zombies...less-than-human...Less-than-animals,-maybe;-not-even-conscious.nnnpossible-to-disrespect-something-like-that.-Like-disrespecting-a-lawn-mower.md",
-    "1_Zettelkasten-Echopraxia/They-roll-around-on-the-floor-and-ululate-and-you-write-up-the-patent-applications.-We-don’t-know-how-it-works...it-could-stop-working-at-any-moment.md",
-    "1_Zettelkasten-Echopraxia/And-from-those-humble-beginnings-we-learned-to-see-faces-in-the-clouds-...to-see-agency-in-randomness,-because-natural-selection-favors-the-paranoid..md",
-    "1_Zettelkasten-Echopraxia/Dan,-you-gotta-let-go-of-this-whole-self-thing.-Identity-changes-by-the-second,-you-turn-into-someone-else-every-time-a-new-thought-rewires-your-brain.md",
+    "3_Files/Essay-Paragraph-6.md",
+    "3_Files/Essay-Paragraph-7.md",
+    "3_Files/Essay-Paragraph-8.md",
+    "3_Files/Essay-Works-Cited.md",
+    "3_Files/Essay-Paragraph-9.md",
+    "3_Files/Essay-Paragraph-10.md",
+    "2_ReferenceNotes/Chapter-20.md",
+    "1_Zettelkasten-Echopraxia/You’re-not-a-dolphin,-and-you’re-not-some-augmented-wannabe-either.-You’re-natural.-Just-the-way-I-like-it...You’re-going-to-keep-up-with-them.md",
     "1_Zettelkasten-Echopraxia/It-was-a-breakneck-overgrowth-of-weedy-electricity-that-nearly-killed-its-initiates-outright,-pulled-sixty-million-year-old-circuits-out-by-the-roots..md",
-    "1_Zettelkasten-Echopraxia/Vodou-works,-Oldschool.-...Adrenaline-kills-heart-cells.-You-can-literally-scare-someone-to-death-if-you-hack-the-sympathetic-nervous-system-the-right-way.md",
-    "1_Zettelkasten-Echopraxia/Just-induced-the-mother-of-all-allergic-responses...Any-kind-of-direct-neural-interface-finishes-what-that-little-bugger-started.-They-could-fix-that.md",
-    "1_Zettelkasten-Echopraxia/Szpindel-et-al-‘Gamma-protocadherin-and-the-role-of-the-PCDH11Y-ortholog...Hemineglect...See-why-you-should-get-augged.md",
-    "1_Zettelkasten-Echopraxia/Sengupta-liked-Daniel-Brüks-because-he-was-easy-to-impress.-She-didn’t-think-of-him-as-a-person-at-all;-she-thought-of-him-as-a-kind-of-pet..md",
-    "1_Zettelkasten-Echopraxia/It-didn’t-matter-what-bedtime-stories-these-privileged-brats-had-been-told.-They-were-not-immortal-in-such-a-presence.-They-were-only-breakfast..md",
-    "1_Zettelkasten-Echopraxia/She’s-just-another-failed-hominoid....Without-our-drugs-she-couldn’t-even-handle-a-few-right-angles...Just-another-one-of-nature’s-fuckups.md",
+    "1_Zettelkasten-Echopraxia/That’s-like-a-chimp-asking-why-those-hairless-apes-aren’t-slinging-bigger-feces-than-everyone..hive-mind-this-and-synesthesia-that-like-they-were-some-kind-of-superpowers.md",
+    "1_Zettelkasten-Echopraxia/What-are-you-gonna-do-huh-they’re-ten-times-smarter-than-you-and-they-never-even-saw-it-coming...In-some-ways,-Rakshi.-They’re-ten-times-dumber-in-others.md",
+    "1_Zettelkasten-Blindsight/Our-hybrids-become-as-brilliant-as-savants,-and-as-autistic.-We-graft-people-to-prosthetics,-make-their-overloaded-motor-strips-...their-tongues-stutter.md",
     "1_Zettelkasten-Echopraxia/I’m saying we all are. Next to the hives, and the vampires...—We’re children...can’t be trusted to make our own decisions...Have a drink...Helps the future go down easier.md",
-    "1_Zettelkasten-Echopraxia/Valerie began to convulse. She tried to arch her back...Fireworks exploded across her brain. Her heart, so immutably stable until now, threw jagged spikes...shut down completely.md",
+    "1_Zettelkasten-Blindsight/Baseline.md",
+    "1_Zettelkasten-Echopraxia/A-gimp-hood,-for-cripples-confined-to-meatspace...for-ConSensus,-and-it’s-way-faster-than-going-through-the-paint...-Perfect-for-porn.md",
+    "1_Zettelkasten-Blindsight/We-can-be-utterly-useless,-or-we-can-try-and-compete-against-the-vampires-and-the-constructs-and-the-AIs...without-turning-into-a-an-utter-freak.md",
+    "1_Zettelkasten-Echopraxia/And-he-got-those-augments-because-you-chose-a-certain-line-of-work...took-a-shot-at-you-and-hit-him-instead...You-blame-yourself-for-what-happened-to-your-son.md",
+    "1_Zettelkasten-Blindsight/Forced-disability.md",
+    "1_Zettelkasten-Blindsight/Why-not-They-can-fight-better-without-you,-you-said-that-yourself!-What's-the-point-Can't-leave-yourself-a-back-door,-Keeton.-Defeats-the-whole-purpose..md",
+    "3_Files/Essay-Paragraph-1.md",
     "2_ReferenceNotes/DashFormatter.py",
     "2_ReferenceNotes/Blindsight-SpaceRemover.py",
     "1_Zettelkasten",

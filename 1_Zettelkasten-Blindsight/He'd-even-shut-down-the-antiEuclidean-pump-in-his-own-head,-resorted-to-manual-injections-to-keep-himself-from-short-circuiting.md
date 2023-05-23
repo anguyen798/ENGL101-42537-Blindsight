@@ -1,7 +1,7 @@
 Status: #idea
-Tags: [[Vampires]] [[@Jukka-Sarasti]]
+Tags: [[Vampires]] [[Crucifix-glitch]]
 
-* Jukka Sarasti treats his disability by not trusting computers or unconcious processess but rather resolves his disability conciously, something human like
+* [[@Jukka-Sarasti]] treats his disability by not trusting computers or unconcious processess but rather resolves his disability conciously, something human like
 
 ## References
 

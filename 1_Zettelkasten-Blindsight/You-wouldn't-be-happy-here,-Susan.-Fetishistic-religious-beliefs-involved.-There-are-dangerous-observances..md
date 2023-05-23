@@ -1,7 +1,7 @@
 Status: #idea
-Tags: [[@Rorsarch]] [[Sociopathy]]
+Tags: [[Sociopathy]] [[Chinese-room]]
 
-* Rorsarch is lying to Susan James and saying whatever it can make up to prevent Theseus from boarding them
+* [[@Rorsarch]] is lying to [[@Susan-James]] and saying whatever it can make up to prevent Theseus from boarding them
 
 ## References
 

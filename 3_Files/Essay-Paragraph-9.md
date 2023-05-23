@@ -1,5 +1,1 @@
-
-
-
-
-Amanda Bates
+Reader-Disability

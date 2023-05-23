@@ -1,7 +1,7 @@
 Status: #idea
-Tags: [[@Chelsea]] [[@Siri-Keeton]]
+Tags: [[Augmentation-losses]] [[Empathy]]
 
-* Siri was too focused on his own needs in a relationship and didn't account for Chelsea's needs
+* [[@Siri-Keeton]] was too focused on his own needs in a relationship and didn't account for [[@Chelsea]]'s needs
 * This was due to him never opening up himself
 
 ## References

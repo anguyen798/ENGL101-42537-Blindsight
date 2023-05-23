@@ -1,7 +1,7 @@
 Status: #idea
-Tags: [[Disability]]
+Tags: [[Disability]] [[Chinese-room]]
 
-* Siri's emotional distancing caused by his hemispherectomy is treated as a disability, a personality trait to be fixed
+* [[@Siri-Keeton]]'s emotional distancing caused by his hemispherectomy is treated as a disability, a personality trait to be fixed
 
 ## References
 

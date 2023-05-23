@@ -1,5 +1,5 @@
 Status: #idea
-Tags: [[Echopraxia]] [[Artificial-intelligence]]
+Tags: [[Echopraxia]] [[Artificial-intelligence]] [[ConSensus]]
 
 * It is implied that ConSensus is the concious interface but there is an unconcious interface of echopraxia or the copying of actions
 

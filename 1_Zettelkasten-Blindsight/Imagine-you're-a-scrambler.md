@@ -1,7 +1,7 @@
 Status: #idea
-Tags: [[@Scramblers]] [[Non-sentience]] [[Weaponized-Communication]]
+Tags: [[Non-sentience]]  [[Prejudice]]
 
-* Scramblers lack consciousness and view the act of communication as a act of war
+* [[@Scramblers]] lack consciousness and view the act of communication as a act of war
 
 ## References
 

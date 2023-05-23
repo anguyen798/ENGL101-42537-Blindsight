@@ -1,7 +1,7 @@
 Status: #idea
-Tags: [[@Susan-James]] [[Augmentation-losses]]
+Tags: [[Augmentation-losses]]
 
-* By being augmented, Susan James is giving up her individuality and even losses control of her body to Sasha temporarily
+* By being augmented, [[@Susan-James]] is giving up her individuality and even losses control of her body to Sasha temporarily
 
 ## References
 

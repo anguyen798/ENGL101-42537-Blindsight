@@ -1,7 +1,7 @@
 Status: #idea
-Tags: [[Chelsea]] [[Empathy]]
+Tags: [[Empathy]]
 
-* Chelsea is the opposite of Siri. He loves her but is afraid of intimacy and a person who shows real empathy.
+* [[Chelsea]] is the opposite of Siri. He loves her but is afraid of intimacy and a person who shows real empathy.
 * Empathy is treated like a problem
 
 ## References

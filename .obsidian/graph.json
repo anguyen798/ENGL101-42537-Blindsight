@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "@Sir-Kee",
+  "search": "\"Virtual-heaven\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -11,12 +11,12 @@
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "lineSizeMultiplier": 1.62551975051975,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.8137713085498715,
+  "centerStrength": 0.236486486486486,
+  "repelStrength": 8.38877338877339,
+  "linkStrength": 0.73960498960499,
+  "linkDistance": 303,
+  "scale": 0.3496597027216635,
   "close": false
 }

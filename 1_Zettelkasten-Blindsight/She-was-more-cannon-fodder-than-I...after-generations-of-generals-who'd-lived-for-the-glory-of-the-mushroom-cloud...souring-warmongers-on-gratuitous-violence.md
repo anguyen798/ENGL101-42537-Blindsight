@@ -1,7 +1,7 @@
 Status: #idea
-Tags: [[@Amanda-Bates]] [[Disability]]
+Tags: [[Consciousness-flaws]]
 
-* Amanda Bates has a built in disability where if conflict where to break out, she would be the first to go
+* [[@Amanda-Bates]] has a built in disability where if conflict where to break out, she would be the first to go
 
 ## References
 

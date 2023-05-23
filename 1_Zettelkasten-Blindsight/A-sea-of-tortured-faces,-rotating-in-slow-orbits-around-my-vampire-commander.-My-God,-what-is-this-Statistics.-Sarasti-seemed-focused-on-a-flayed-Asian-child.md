@@ -1,7 +1,7 @@
 Status: #idea
-Tags: [[Vampires]] [[@Jukka-Sarasti]] [[Misinterpretation]]
+Tags: [[Vampires]]  [[Prejudice]]
 
-* Jukka Sarasti and vampire's hunting instict and predatory evolution is misinterpreted as human sadism
+* [[@Jukka-Sarasti]] and vampire's hunting instict and predatory evolution is misinterpreted as human sadism
 
 ## References
 

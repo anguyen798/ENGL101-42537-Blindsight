@@ -1,5 +1,5 @@
 Status: #idea
-Tags: [[Echopraxia]] [[Self-identity]]
+Tags: [[Echopraxia]] [[Self-identity]][[Peer-pressure]]
 
 * Too be augmented in the future, it is necessary to throw away your self identity
 

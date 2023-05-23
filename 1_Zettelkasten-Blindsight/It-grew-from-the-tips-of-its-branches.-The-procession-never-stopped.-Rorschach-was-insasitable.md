@@ -1,7 +1,7 @@
 Status: #idea
-Tags: [[@Rorsarch]]
+Tags: [[Prejudice]]
 
-* Rorsarch is growing 
+* [[@Rorsarch]] is growing 
 
 ## References
 

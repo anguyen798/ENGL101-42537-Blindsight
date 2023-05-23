@@ -1,7 +1,7 @@
 Status: #idea
-Tags: [[Echopraxia]]
+Tags: [[Echopraxia]] [[Forced-disability]]
 
-* 
+* People in the future are forced to be augmented for deep space missions
 
 ## References
 

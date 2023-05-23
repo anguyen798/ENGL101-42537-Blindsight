@@ -1,7 +1,7 @@
 Status: #idea
-Tags: [[@Siri-Keeton]] [[Chinese-room]]
+Tags: [[Chinese-room]]
 
-* Siri still writes honme to earth even though there is no reason with communications taking seven months to go back and forth
+* [[@Siri-Keeton]] still writes honme to earth even though there is no reason with communications taking seven months to go back and forth
 
 ## References
 

@@ -1,5 +1,5 @@
 Status: #idea
-Tags: [[Disability]]
+Tags: [[Disability]] [[Augmentation-losses]]
 
 * We categorize a lack of self as disability as found under Cotard's Syndrome
 

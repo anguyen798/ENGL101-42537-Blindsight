@@ -1,7 +1,7 @@
 Status: #idea
-Tags: [[@Chelsea]] [[Baseline]]
+Tags: [[Empathy]]
 
-* In the future, personal relationships are on the decline
+* In the future, personal relationships are on the decline as with [[@Chelsea]]
 * People can choose to get tweaks to optomize mate compatability
 
 ## References

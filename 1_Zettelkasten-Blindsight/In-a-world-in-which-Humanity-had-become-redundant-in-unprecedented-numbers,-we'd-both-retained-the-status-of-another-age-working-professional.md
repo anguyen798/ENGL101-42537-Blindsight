@@ -1,5 +1,5 @@
 Status: #idea
-Tags: [[Body-economic]]
+Tags: [[Body-economic]] [[Baseline]]
 
 * People are being replaced in the future by machines, augmented humans and vampiries
 

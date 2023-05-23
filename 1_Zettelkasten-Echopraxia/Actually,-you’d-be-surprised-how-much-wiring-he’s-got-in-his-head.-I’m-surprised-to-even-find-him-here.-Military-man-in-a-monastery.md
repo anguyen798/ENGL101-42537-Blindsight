@@ -1,7 +1,7 @@
 Status: #idea
-Tags: [[Echopraxia]] [[@Jim-Moore]]
+Tags: [[Echopraxia]] [[Body-economic]]
 
-* Like his son Siri Keeton, Jim Moore is not a baseline but has some form of augmentation
+* Like his son Siri Keeton, [[@Jim-Moore]] is not a baseline but has some form of augmentation
 
 ## References
 

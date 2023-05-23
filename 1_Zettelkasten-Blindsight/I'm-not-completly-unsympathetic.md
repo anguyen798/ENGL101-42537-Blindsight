@@ -1,8 +1,8 @@
 Status: #idea
-Tags: [[@Amanda-Bates]] [[Realists]]
+Tags: [[Virtual-heaven]]
 
-* Realists bomb afterlife facilities
-* Amanda Bates negotiates with them letting a prisoner female Realist kill her tortuers
+* [[Realists]] bomb afterlife facilities
+* [[@Amanda-Bates]] negotiates with them letting a prisoner female Realist kill her tortuers
 
 ## References
 

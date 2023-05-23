@@ -1,5 +1,5 @@
 Status: #idea
-Tags: [[Echopraxia]] [[Baseline]]
+Tags: [[Echopraxia]] [[Baseline]] [[Consensus]]
 
 * [[@Daniel-Bruks]] is offered a external augment but refuses
 * [[@Lianna-Lutterodt]] is nice to Daniel similar to how Chelsea was nice to Siri Keeton

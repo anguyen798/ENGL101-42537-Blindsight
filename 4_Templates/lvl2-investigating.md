@@ -1,5 +1,5 @@
 Status: #idea
-Tags: [[Echopraxia]]
+Tags: [[]]
 
 * 
 

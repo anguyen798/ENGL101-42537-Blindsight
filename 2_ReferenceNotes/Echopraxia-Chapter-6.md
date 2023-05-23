@@ -58,7 +58,7 @@ Moore helped him stand, offered his body as a crutch. Brüks bounced uncertainly
 “The hold’s aft. We’re using this for the overflow.”
 The rails of the ladder were the color of rawhide, and smooth as plastic; some elastic polymer that stayed taut along a range of lengths. Brüks reached out and grabbed a rung, looked up through the ceiling and discovered the source of that bloody glow: an emergency hatch sealed tight, flashing a warning to any who might be contemplating passage: UNPRESSURIZED.
 “My point is—” He looked through the hole in the floor: more metacubes down there, assemblages of smaller units stuck together. “Why did you wake me up in the basement?”
-“You weren’t supposed to wake up at all; we had you in a therapeutic coma.” Brüks remembered being scalped: that skullcap, ^Page-89
+“You weren’t supposed to wake up at all; we had you in a therapeutic coma.” Brüks remembered being scalped: that skullcap, ^Page-88
 
 [[Echopraxia-Chapter-6#^Page-89]]
 stippled with electrodes. “You’re lucky I happened to be in the neighborhood when things went south.”
