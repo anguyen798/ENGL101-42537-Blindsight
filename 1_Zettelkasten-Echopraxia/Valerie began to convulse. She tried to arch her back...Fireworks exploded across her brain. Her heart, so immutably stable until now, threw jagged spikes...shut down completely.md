@@ -5,4 +5,5 @@ Tags: [[Echopraxia]] [[Vampires]]
 
 ## References
 
+![[Echopraxia-Chapter-15#^Page-239]]
 ![[Echopraxia-Chapter-15#^Page-240]]

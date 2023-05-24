@@ -6,3 +6,6 @@ Tags: [[Vampires]]  [[Prejudice]]
 ## References
 
 ![[Chapter-23#^Page-336]] 
+
+
+![[Chapter-23#^Page-337]] 

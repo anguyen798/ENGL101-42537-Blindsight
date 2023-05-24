@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bc82077b190607ea",
+        "id": "37958f8edda0ac5a",
         "type": "tabs",
         "children": [
           {
-            "id": "3d91586e52807288",
+            "id": "7a0292101a6bde40",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"on faith\"",
+                "query": "\"talk to me\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -86,9 +86,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b6c3a31879ef42ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_ReferenceNotes/Chapter-10.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,35 +204,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3d91586e52807288",
+  "active": "7a0292101a6bde40",
   "lastOpenFiles": [
-    "2_ReferenceNotes/Echopraxia-Chapter-4.md",
-    "3_Files/Essay-Paragraph-2.md",
-    "2_ReferenceNotes/Chapter-19.md",
     "3_Files/Essay-Paragraph-3.md",
-    "3_Files/Essay-Paragraph-4.md",
-    "3_Files/Essay-Paragraph-5.md",
-    "3_Files/Excalidraw/DisabilityAndBodyAnxieties.excalidraw",
-    "3_Files/Essay-Paragraph-6.md",
-    "3_Files/Essay-Paragraph-7.md",
-    "3_Files/Essay-Paragraph-8.md",
-    "3_Files/Essay-Works-Cited.md",
-    "3_Files/Essay-Paragraph-9.md",
-    "3_Files/Essay-Paragraph-10.md",
-    "2_ReferenceNotes/Chapter-20.md",
-    "1_Zettelkasten-Echopraxia/You’re-not-a-dolphin,-and-you’re-not-some-augmented-wannabe-either.-You’re-natural.-Just-the-way-I-like-it...You’re-going-to-keep-up-with-them.md",
-    "1_Zettelkasten-Echopraxia/It-was-a-breakneck-overgrowth-of-weedy-electricity-that-nearly-killed-its-initiates-outright,-pulled-sixty-million-year-old-circuits-out-by-the-roots..md",
-    "1_Zettelkasten-Echopraxia/That’s-like-a-chimp-asking-why-those-hairless-apes-aren’t-slinging-bigger-feces-than-everyone..hive-mind-this-and-synesthesia-that-like-they-were-some-kind-of-superpowers.md",
-    "1_Zettelkasten-Echopraxia/What-are-you-gonna-do-huh-they’re-ten-times-smarter-than-you-and-they-never-even-saw-it-coming...In-some-ways,-Rakshi.-They’re-ten-times-dumber-in-others.md",
-    "1_Zettelkasten-Blindsight/Our-hybrids-become-as-brilliant-as-savants,-and-as-autistic.-We-graft-people-to-prosthetics,-make-their-overloaded-motor-strips-...their-tongues-stutter.md",
-    "1_Zettelkasten-Echopraxia/I’m saying we all are. Next to the hives, and the vampires...—We’re children...can’t be trusted to make our own decisions...Have a drink...Helps the future go down easier.md",
-    "1_Zettelkasten-Blindsight/Baseline.md",
-    "1_Zettelkasten-Echopraxia/A-gimp-hood,-for-cripples-confined-to-meatspace...for-ConSensus,-and-it’s-way-faster-than-going-through-the-paint...-Perfect-for-porn.md",
-    "1_Zettelkasten-Blindsight/We-can-be-utterly-useless,-or-we-can-try-and-compete-against-the-vampires-and-the-constructs-and-the-AIs...without-turning-into-a-an-utter-freak.md",
-    "1_Zettelkasten-Echopraxia/And-he-got-those-augments-because-you-chose-a-certain-line-of-work...took-a-shot-at-you-and-hit-him-instead...You-blame-yourself-for-what-happened-to-your-son.md",
-    "1_Zettelkasten-Blindsight/Forced-disability.md",
-    "1_Zettelkasten-Blindsight/Why-not-They-can-fight-better-without-you,-you-said-that-yourself!-What's-the-point-Can't-leave-yourself-a-back-door,-Keeton.-Defeats-the-whole-purpose..md",
+    "3_Files/Essay-Paragraph-2.md",
     "3_Files/Essay-Paragraph-1.md",
+    "1_Zettelkasten-Echopraxia/She’s-vasodilating,-he-realized.-She’s-switching-into-hunting-mode.-Not-a-game-after-all,-not-even-an-excuse.md",
+    "2_ReferenceNotes/Chapter-19.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-1.md",
+    "2_ReferenceNotes/Chapter-6.md",
+    "2_ReferenceNotes/Chapter-8.md",
+    "2_ReferenceNotes/Chapter-23.md",
+    "2_ReferenceNotes/Chapter-24.md",
+    "1_Zettelkasten-Echopraxia/You’re-just-too-complicated...Fix-the-Crucifix-Glitch,-you-lose-your-pattern-matching-skills.-Make-you-less-antisocial,-who-knows-what-else-goes-away.md",
+    "3_Files/Essay-Paragraph-4.md",
+    "2_ReferenceNotes/Chapter-5.md",
+    "1_Zettelkasten-Echopraxia/Valerie began to convulse. She tried to arch her back...Fireworks exploded across her brain. Her heart, so immutably stable until now, threw jagged spikes...shut down completely.md",
+    "1_Zettelkasten-Blindsight/A-sea-of-tortured-faces,-rotating-in-slow-orbits-around-my-vampire-commander.-My-God,-what-is-this-Statistics.-Sarasti-seemed-focused-on-a-flayed-Asian-child.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-19.md",
+    "2_ReferenceNotes/Chapter-20.md",
+    "1_Zettelkasten-Echopraxia/Imagine-you’re-Siri-Keeton,-he-remembered...It’s-a-literary-affectation.-He’s-trying-to-be-poetic.-Putting-yourself-in-the-character’s-head,-that-kind-of-thing...The-voice-of-God.md",
+    "2_ReferenceNotes/Chapter-2.md",
+    "1_Zettelkasten-Blindsight/You-rationalize,-Keeton....-defend...reject-unpalatable-truths...you-trivialize-them.-Incremental-evidence-is-never-enough-for-you.md",
+    "2_ReferenceNotes/Chapter-16.md",
+    "1_Zettelkasten-Blindsight/Imagine-a-crown-of-thorns.md",
+    "1_Zettelkasten-Blindsight/Imagine-you're-a-scrambler.md",
+    "2_ReferenceNotes/Chapter-1.md",
+    "2_ReferenceNotes/Chapter-14.md",
+    "3_Files/Essay-Works-Cited.md",
+    "3_Files/Excalidraw/DisabilityAndBodyAnxieties.excalidraw",
     "2_ReferenceNotes/DashFormatter.py",
     "2_ReferenceNotes/Blindsight-SpaceRemover.py",
     "1_Zettelkasten",

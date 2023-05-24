@@ -6,4 +6,6 @@ Tags: [[Echopraxia]] [[Vampires]] [[Prejudice]]
 
 ## References
 
+![[Echopraxia-Chapter-6#^Page-101]]
+![[Echopraxia-Chapter-6#^Page-102]]
 ![[Echopraxia-Chapter-6#^Page-103]]

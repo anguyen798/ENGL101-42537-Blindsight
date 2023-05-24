@@ -6,3 +6,6 @@ Tags: [[Echopraxia]] [[Forced-disability]]
 ## References
 
 ![[Echopraxia-Chapter-11#^Page-179]]
+
+
+![[Echopraxia-Chapter-11#^Page-180]]
