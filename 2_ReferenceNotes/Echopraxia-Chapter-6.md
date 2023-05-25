@@ -1,5 +1,5 @@
-[[Echopraxia-Chapter-6#^Page-83]]
 ## PARASITE
+[[Echopraxia-Chapter-6#^Page-83]]
 The essential wickedness of this approach is perhaps best exemplified by the so-called Moksha Mind engineered by the Eastern Dharmic Alliance. Their attempts to “modernize” their faith—through the embrace of technology that has been (rightly) banned in the West—resulted in a literally soul-destroying hive that has plunged millions into what we can only assume to be a state of deep catatonia. (The fact that this is exactly what the Dharmic faiths have aspired to for millennia does not render their fate any less tragic.) The misguided use of brain interface technology to “commune” with the minds of such alien creatures as cats and octopi—a practice by no means limited to the East—has also resulted in untold psychological damage.
 At the opposite extreme, in the face of modern challenges we may find ourselves tempted to simply turn our backs on the wider world. Such a retreat would not only go against the Scriptural admonition to “go and make disciples of all nations,” but also risks dire consequence in its own right. The Redeemer Gyland offers a stark case in point. It has been almost a year since the alliance between the Southern and Central Baptists broke down, and three ^Page-83
 

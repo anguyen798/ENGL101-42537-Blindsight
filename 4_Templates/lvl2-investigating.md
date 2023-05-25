@@ -1,8 +1,9 @@
-Status: #idea
+Status: #idea-investigating
 Tags: [[]]
 
 * 
+![[{{title}}#^]]
 
 ## References
 
-![[Chapter-#^Page-]]
+[[]]

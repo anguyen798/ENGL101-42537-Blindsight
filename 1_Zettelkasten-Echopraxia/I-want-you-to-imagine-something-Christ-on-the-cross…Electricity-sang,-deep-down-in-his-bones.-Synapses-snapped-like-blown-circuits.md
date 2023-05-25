@@ -1,7 +1,7 @@
 Status: #idea
-Tags: [[Echopraxia]] [[Forced-disability]] [[Biblicial]]
+Tags: [[Echopraxia]] [[Forced-disability]] [[Biblical]]
 
-* The crucifix glitch in the form of the religous symbol of Jesus is being used to incapacitate him like a disability
+* The crucifix glitch in the form of the religious symbol of Jesus is being used to incapacitate him like a disability
 
 ## References
 

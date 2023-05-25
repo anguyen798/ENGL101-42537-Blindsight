@@ -1,5 +1,5 @@
 Status: #idea
-Tags: [[Echopraxia]] [[Biblicial]]
+Tags: [[Echopraxia]] [[Biblical]]
 
 * [[@Daniel-Bruks]] and [[@Lianna-Lutterodt]] have a unusually intense fight over faith vs empiricism
 

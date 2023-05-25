@@ -1,0 +1,1 @@
+Therefore it is indicative there is a market for fashion companies to develop designer jackets for teachers because of their schedule adjusting benefits [[KnownKnowns_A_2#^1]]

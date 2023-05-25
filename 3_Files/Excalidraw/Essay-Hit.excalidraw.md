@@ -29,7 +29,7 @@ Examples ^b0mB0rxi
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.26",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.1",
 	"elements": [
 		{
 			"type": "rectangle",
@@ -106,7 +106,7 @@ Examples ^b0mB0rxi
 			"containerId": "wLD9nBh0quqOsKSEHyu7z",
 			"originalText": "1\nSummary Quotes\nThesis Bits",
 			"lineHeight": 1.25,
-			"baseline": 93
+			"baseline": 92
 		},
 		{
 			"type": "rectangle",
@@ -175,7 +175,7 @@ Examples ^b0mB0rxi
 			"containerId": "9KUSGSN8tjofRFgpTcPaQ",
 			"originalText": "2\nExamples Summary",
 			"lineHeight": 1.25,
-			"baseline": 68
+			"baseline": 67
 		},
 		{
 			"type": "rectangle",
@@ -252,7 +252,7 @@ Examples ^b0mB0rxi
 			"containerId": "ZtEXDLF26e0oOFc7vj66V",
 			"originalText": "3\nQuestions",
 			"lineHeight": 1.25,
-			"baseline": 43
+			"baseline": 42
 		},
 		{
 			"type": "rectangle",
@@ -329,7 +329,7 @@ Examples ^b0mB0rxi
 			"containerId": "6KA07CiPRyqE79oMHqsrz",
 			"originalText": "4\nExamples",
 			"lineHeight": 1.25,
-			"baseline": 43
+			"baseline": 42
 		},
 		{
 			"type": "rectangle",
@@ -398,12 +398,12 @@ Examples ^b0mB0rxi
 			"containerId": "5zyb-nxKV4dZzpzEwSm9-",
 			"originalText": "5",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "arrow",
-			"version": 234,
-			"versionNonce": 971331717,
+			"version": 253,
+			"versionNonce": 1801170460,
 			"isDeleted": false,
 			"id": "AWgdgZMCEAr1M8tZEHFHw",
 			"fillStyle": "hachure",
@@ -424,13 +424,13 @@ Examples ^b0mB0rxi
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1683945869031,
+			"updated": 1684992383336,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "wLD9nBh0quqOsKSEHyu7z",
-				"gap": 5.99993896484375,
-				"focus": -0.9960289698363085
+				"focus": -0.9960289698363088,
+				"gap": 5.99993896484375
 			},
 			"endBinding": null,
 			"lastCommittedPoint": null,
@@ -453,8 +453,8 @@ Examples ^b0mB0rxi
 		},
 		{
 			"type": "arrow",
-			"version": 154,
-			"versionNonce": 722599909,
+			"version": 192,
+			"versionNonce": 1350011548,
 			"isDeleted": false,
 			"id": "5uX4IaGlYHboEonxJGGoY",
 			"fillStyle": "hachure",
@@ -464,7 +464,7 @@ Examples ^b0mB0rxi
 			"opacity": 100,
 			"angle": 0,
 			"x": 13.249938964843768,
-			"y": -119.52083587646491,
+			"y": -119.5208358764649,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 44.99990844726561,
@@ -475,18 +475,18 @@ Examples ^b0mB0rxi
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1683945869035,
+			"updated": 1684992383336,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "wLD9nBh0quqOsKSEHyu7z",
-				"gap": 7.333251953125,
-				"focus": -0.8977771291832949
+				"focus": -0.8977771291832951,
+				"gap": 7.333251953125014
 			},
 			"endBinding": {
 				"elementId": "ZtEXDLF26e0oOFc7vj66V",
-				"gap": 1,
-				"focus": 0.8017373418469915
+				"focus": 0.8017373418469919,
+				"gap": 1.0000000000000142
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -508,8 +508,8 @@ Examples ^b0mB0rxi
 		},
 		{
 			"type": "arrow",
-			"version": 209,
-			"versionNonce": 1391639365,
+			"version": 247,
+			"versionNonce": 1323554588,
 			"isDeleted": false,
 			"id": "a_a8yIWk3hpafoBp9tyy0",
 			"fillStyle": "hachure",
@@ -530,18 +530,18 @@ Examples ^b0mB0rxi
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1683945869036,
+			"updated": 1684992383336,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "ZtEXDLF26e0oOFc7vj66V",
-				"gap": 3.999908447265625,
-				"focus": 0.9236672639832773
+				"focus": 0.9236672639832773,
+				"gap": 3.999908447265625
 			},
 			"endBinding": {
 				"elementId": "6KA07CiPRyqE79oMHqsrz",
-				"gap": 2.3333740234375,
-				"focus": 0.8096636523760273
+				"focus": 0.8096636523760277,
+				"gap": 2.3333740234375
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -563,8 +563,8 @@ Examples ^b0mB0rxi
 		},
 		{
 			"type": "arrow",
-			"version": 69,
-			"versionNonce": 387794827,
+			"version": 88,
+			"versionNonce": 1664989348,
 			"isDeleted": false,
 			"id": "SHPjjNGrpu0gvOOWH3wv9",
 			"fillStyle": "hachure",
@@ -585,13 +585,13 @@ Examples ^b0mB0rxi
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1683945869037,
+			"updated": 1684992383336,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "6KA07CiPRyqE79oMHqsrz",
-				"gap": 1.166656494140625,
-				"focus": 0.0463508951582995
+				"focus": 0.04635089515829953,
+				"gap": 1.1666564941406392
 			},
 			"endBinding": null,
 			"lastCommittedPoint": null,
@@ -624,8 +624,8 @@ Examples ^b0mB0rxi
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 583.9165954589844,
-		"scrollY": 296.6041717529297,
+		"scrollX": 314.6665954589844,
+		"scrollY": 276.8776092529297,
 		"zoom": {
 			"value": 2
 		},

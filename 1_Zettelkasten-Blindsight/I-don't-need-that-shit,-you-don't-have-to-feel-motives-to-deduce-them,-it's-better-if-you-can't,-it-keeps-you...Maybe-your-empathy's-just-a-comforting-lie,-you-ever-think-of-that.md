@@ -1,5 +1,5 @@
 Status: #idea
-Tags: [[Empathy]]
+Tags: [[Empathy]] [[Augmentation-losses]]
 
 * [[@Siri-Keeton]] says his [[Chinese-room]] and lack of consciousness is superior to empathy
 
