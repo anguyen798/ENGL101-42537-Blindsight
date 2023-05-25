@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bdf7f158f198369f",
+        "id": "98e41954ca82e910",
         "type": "tabs",
         "children": [
           {
-            "id": "d3edddcea0f9dbe1",
+            "id": "41d2f9a595df573a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,8 +44,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[[Disab",
-                "matchingCase": false,
+                "query": "\"I wake up\"",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Files/Essay-Paragraph-1.md",
+                "file": "3_Files/Essay-Paragraph-1-2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Files/Essay-Paragraph-2.md",
+                "file": "3_Files/Essay-Paragraph-3-4.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,13 +100,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "17d9ef55b4e5bcd6",
@@ -206,111 +204,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "2467b2cb5a0b74cd",
-    "type": "floating",
-    "children": [
-      {
-        "id": "8b6bdab4fe36628f",
-        "type": "window",
-        "children": [
-          {
-            "id": "fee52e947e5b0e98",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "356eab82fb87331c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "3_Files/Essay-Paragraph-2.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "58e53ce26be6ece6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "3_Files/Essay-Paragraph-3.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "e7cad3381efb828b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "3_Files/Essay-Paragraph-4.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "d4f439189a3c851a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "3_Files/Essay-Paragraph-1.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1024,
-        "y": 0,
-        "width": 1024,
-        "height": 1112,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "d3edddcea0f9dbe1",
+  "active": "41d2f9a595df573a",
   "lastOpenFiles": [
+    "2_ReferenceNotes/Chapter-17.md",
+    "3_Files/Essay-Paragraph-4.md",
+    "3_Files/Essay-Paragraph-3-4.md",
+    "2_ReferenceNotes/Chapter-4.md",
+    "3_Files/Essay-Paragraph-1-2.md",
     "3_Files/Excalidraw/DisabilityAndBodyAnxieties.excalidraw",
+    "1_Zettelkasten-Blindsight/Nothing-wrong-with-the-receptors...Brain-processes-the-image-but-it-can't-access-it.-Brain-stem-takes-over.-Your-brainstem-can-see-but-you-can't.md",
+    "1_Zettelkasten-Blindsight/Smarter-animal,-less-self-awareness-Chimpanzees-are-becoming-nonsentient.md",
+    "1_Zettelkasten-Blindsight/Imagine-you're-a-scrambler.md",
+    "2_ReferenceNotes/Chapter-6.md",
+    "3_Files/Essay-Paragraph-3.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-20.md",
+    "2_ReferenceNotes/Chapter-21.md",
+    "2_ReferenceNotes/Chapter-8.md",
+    "2_ReferenceNotes/Chapter-7.md",
+    "2_ReferenceNotes/Chapter-3.md",
+    "2_ReferenceNotes/Chapter-5.md",
+    "1_Zettelkasten-Blindsight/I-think-we're-dealing-with-a-species-so-far-beyond-us-that-even-their-retarded-children-can-rewire-our-brains-on-the-fly.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-23.md",
+    "1_Zettelkasten-Blindsight/How-ruthlessness-and-bottom-line-self-interest-are-so-lauded-up-in-the stratosphere.md",
+    "4_Templates/lvl1-moc.md",
+    "1_Zettelkasten/Echopraxia-Chapter-5.md",
     "1_Zettelkasten-Blindsight/Non-sentience.md",
     "1_Zettelkasten-Blindsight/+1+17+Try to touch the past. Try to deal with the past. It’s not real. It’s just a dream..md",
     "1_Zettelkasten-Blindsight/Disability.md",
     "1_Zettelkasten-Echopraxia/And-from-those-humble-beginnings-we-learned-to-see-faces-in-the-clouds-...to-see-agency-in-randomness,-because-natural-selection-favors-the-paranoid..md",
-    "1_Zettelkasten-Echopraxia/You-seem-so—fatalistic-about-it-all.-Brüks-pushed-his-empty-plate-aside.-“The-far-shore,-the-gulf-between-giants-and-capuchins.md",
-    "1_Zettelkasten-Blindsight/Biblical.md",
-    "1_Zettelkasten-Echopraxia/And-he-got-those-augments-because-you-chose-a-certain-line-of-work...took-a-shot-at-you-and-hit-him-instead...You-blame-yourself-for-what-happened-to-your-son.md",
-    "1_Zettelkasten-Blindsight/Forced-disability.md",
-    "1_Zettelkasten-Echopraxia/Nobody’s-in-control,-Daniel.-Do-you-really-think-you-don’t-have-one-of-these-zombie-switches-in-your-own-head,-you-don’t-think-everyone-does.md",
-    "1_Zettelkasten-Echopraxia/Yah-it’s-been-a-while.-Anyway-I-gotta-get-back....“You-gotta-get-back-in-the-game-Dan-things-are-getting-weird...She’d-never-called-him-by-name-before..md",
-    "1_Zettelkasten-Blindsight/And-so,-inevitably,-a-fourth-Tribe-arose,-a-Heavenly-host-that-triumphed-over-all-the-Tribe-that-Just-Didn't-Give-A-Shit.-They-didn't-know-what-to-do-when-the-Fireflies-showed-up..md",
-    "1_Zettelkasten-Blindsight/Virtual-heaven.md",
-    "1_Zettelkasten-Blindsight/It's-the-same-neurons!-The-same-signal-running-up-the-same-wiring...no-way-your-brain-can-tell-the-difference...retina-and-one-that-got-injected-midstream.md",
-    "1_Zettelkasten-Blindsight/I-don't-need-that-shit,-you-don't-have-to-feel-motives-to-deduce-them,-it's-better-if-you-can't,-it-keeps-you...Maybe-your-empathy's-just-a-comforting-lie,-you-ever-think-of-that.md",
-    "1_Zettelkasten-Blindsight/Augmentation-losses.md",
-    "1_Zettelkasten-Echopraxia/You-are-not-so-small-as-you-think,-she-said,-reading-him.-You-might-be-bigger-than-all-of-us...We're-not...Emergent-complexity.md",
-    "4_Templates/MapOfContent.md",
-    "3_Files/Essay-Paragraph-2.md",
-    "3_Files/Essay-Paragraph-3.md",
-    "3_Files/Essay-Paragraph-4.md",
-    "3_Files/Essay-Paragraph-1.md",
-    "1_Zettelkasten-Blindsight/Biblicial.md",
-    "1_Zettelkasten-Echopraxia/The-parasitic-self-reflective-homunculus-has-been-expunged...Daniel-Brüks...His-is-the-blood-of-the-covenant;-it-will-be-shed-for-many.md",
-    "1_Zettelkasten-Blindsight/Imagine-a-crown-of-thorns.md",
-    "1_Zettelkasten-Echopraxia/So-no-evidence-could-ever-change-your-mind.-Tell-me-how-that-doesn’t-make-you-a-fundamentalist..md",
     "3_Files/Paragraph",
     "3_Files/KnownKnowns",
     "3_Files/ChineseRoom",
