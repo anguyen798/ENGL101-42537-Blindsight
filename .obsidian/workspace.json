@@ -11,8 +11,13 @@
             "id": "41d2f9a595df573a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3_Files/Essay Hit List.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -67,7 +72,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Files/Essay-Paragraph-1-2.md",
+                "file": "3_Files/Essay-Paragraph-1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -80,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Files/Essay-Paragraph-3-4.md",
+                "file": "3_Files/Essay-Paragraph-3.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -104,7 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 363.5
   },
   "right": {
     "id": "17d9ef55b4e5bcd6",
@@ -120,6 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3_Files/Essay Hit List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3_Files/Essay Hit List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3_Files/Essay Hit List.md"
+              }
             }
           },
           {
@@ -206,17 +215,25 @@
   },
   "active": "41d2f9a595df573a",
   "lastOpenFiles": [
-    "2_ReferenceNotes/Chapter-17.md",
+    "3_Files/Essay.md",
+    "3_Files/Final.md",
+    "3_Files/Paragraph/Untitled.md",
+    "3_Files/Siri's-Cruxifiction.md",
+    "3_Files/Inclass-1.md",
+    "3_Files/Essay-Works-Cited.md",
+    "3_Files/Essay-Paragraph-3.md",
     "3_Files/Essay-Paragraph-4.md",
-    "3_Files/Essay-Paragraph-3-4.md",
-    "2_ReferenceNotes/Chapter-4.md",
-    "3_Files/Essay-Paragraph-1-2.md",
+    "3_Files/Essay-Paragraph-2.md",
+    "3_Files/Essay-Paragraph-1.md",
     "3_Files/Excalidraw/DisabilityAndBodyAnxieties.excalidraw",
+    "3_Files/Essay Hit List.md",
+    "2_ReferenceNotes/Echopraxia-Chapter-6.md",
+    "2_ReferenceNotes/Chapter-17.md",
+    "2_ReferenceNotes/Chapter-4.md",
     "1_Zettelkasten-Blindsight/Nothing-wrong-with-the-receptors...Brain-processes-the-image-but-it-can't-access-it.-Brain-stem-takes-over.-Your-brainstem-can-see-but-you-can't.md",
     "1_Zettelkasten-Blindsight/Smarter-animal,-less-self-awareness-Chimpanzees-are-becoming-nonsentient.md",
     "1_Zettelkasten-Blindsight/Imagine-you're-a-scrambler.md",
     "2_ReferenceNotes/Chapter-6.md",
-    "3_Files/Essay-Paragraph-3.md",
     "2_ReferenceNotes/Echopraxia-Chapter-20.md",
     "2_ReferenceNotes/Chapter-21.md",
     "2_ReferenceNotes/Chapter-8.md",
@@ -225,13 +242,6 @@
     "2_ReferenceNotes/Chapter-5.md",
     "1_Zettelkasten-Blindsight/I-think-we're-dealing-with-a-species-so-far-beyond-us-that-even-their-retarded-children-can-rewire-our-brains-on-the-fly.md",
     "2_ReferenceNotes/Echopraxia-Chapter-23.md",
-    "1_Zettelkasten-Blindsight/How-ruthlessness-and-bottom-line-self-interest-are-so-lauded-up-in-the stratosphere.md",
-    "4_Templates/lvl1-moc.md",
-    "1_Zettelkasten/Echopraxia-Chapter-5.md",
-    "1_Zettelkasten-Blindsight/Non-sentience.md",
-    "1_Zettelkasten-Blindsight/+1+17+Try to touch the past. Try to deal with the past. It’s not real. It’s just a dream..md",
-    "1_Zettelkasten-Blindsight/Disability.md",
-    "1_Zettelkasten-Echopraxia/And-from-those-humble-beginnings-we-learned-to-see-faces-in-the-clouds-...to-see-agency-in-randomness,-because-natural-selection-favors-the-paranoid..md",
     "3_Files/Paragraph",
     "3_Files/KnownKnowns",
     "3_Files/ChineseRoom",
